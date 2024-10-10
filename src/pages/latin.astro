@@ -1,0 +1,22 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Card from "../components/Card.astro";
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('latin');
+---
+
+<Layout title="Sectio Latinitatis">
+    <main class="text-white w-[800px] mx-auto">
+        <ul role="list" class="link-card-grid">
+        {
+            posts.map(({data , slug }) => (
+                <Card title={data.titulus} href={`/latinitatis-exercitationes/${slug}`} body={data.descriptio} />
+            ))
+        }
+        </ul>
+        <a class="text-white" href="/">Home</a>
+    </main>
+
+    
+</Layout>
