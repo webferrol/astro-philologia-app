@@ -1,6 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getCollection, render } from "astro:content";
+import { getCollection } from "astro:content";
 
 export async function getStaticPaths() {
     const posts = await getCollection('latin');
@@ -15,14 +15,14 @@ const { post } = Astro.props;
 
 const { titulus, descriptio } = post.data;
 
-const { Content } = await render(post);
+const { Content } = await post.render();
 
 
 
 ---
 
 <Layout title="Sectio Latinitatis">
-    <main class="text-white w-[800px] mx-auto">
+    <main class="m-auto max-w-prose prose prose-invert prose-img:rounded-xl prose-headings:underline prose-a:text-blue-600">
        <header>
            <h1>{titulus}</h1>
            <p>{descriptio}</p>

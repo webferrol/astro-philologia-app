@@ -2,12 +2,22 @@
 import Layout from "../layouts/Layout.astro";
 import Card from "../components/Card.astro";
 import { getCollection } from 'astro:content';
+import { CldImage } from "astro-cloudinary";
 
 const posts = await getCollection('latin');
 ---
 
 <Layout title="Sectio Latinitatis">
     <main class="text-white w-[800px] mx-auto">
+        <figure>
+            <CldImage 
+            src="latin/eneas-bernini"
+            width={200}
+            sizes="100vw"
+            alt="Gian Lorenzo Bernini (s. XVI)"
+            />
+            <figcaption>Anquises, Eneas y Ascanio. Obra de Gian Lorenzo Bernini (s. XVI), expuesta en la actualidad en la Galería Borghese (Roma).</figcaption>
+        </figure>
         <ul role="list" class="link-card-grid">
         {
             posts.map(({data , slug }) => (
