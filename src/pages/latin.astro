@@ -7,19 +7,23 @@ import { CldImage } from "astro-cloudinary";
 const posts = await getCollection('latin');
 ---
 
+<meta name="description" content="Latinitatis sectio" />
+
+
 <Layout title="Sectio Latinitatis">
     <nav>
         <a class="text-white" href="/">Home</a>
     </nav>
     <main class="text-white w-[800px] mx-auto">
-        <figure>
+        <figure class="w-[400px] mx-auto">
             <CldImage 
             src="latin/eneas-bernini"
-            width={200}
+            width={400}
             sizes="100vw"
             alt="Gian Lorenzo Bernini (s. XVI)"
+            crop="thumb"
             />
-            <figcaption>Anquises, Eneas y Ascanio. Obra de Gian Lorenzo Bernini (s. XVI), expuesta en la actualidad en la Galería Borghese (Roma).</figcaption>
+            <figcaption class="max-w-full">Anquises, Eneas y Ascanio. Obra de Gian Lorenzo Bernini (s. XVI), expuesta en la actualidad en la Galería Borghese (Roma).</figcaption>
         </figure>
         <ul role="list" class="link-card-grid">
         {
