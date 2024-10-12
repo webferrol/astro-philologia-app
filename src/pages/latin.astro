@@ -8,6 +8,9 @@ const posts = await getCollection('latin');
 ---
 
 <Layout title="Sectio Latinitatis">
+    <nav>
+        <a class="text-white" href="/">Home</a>
+    </nav>
     <main class="text-white w-[800px] mx-auto">
         <figure>
             <CldImage 
@@ -25,7 +28,6 @@ const posts = await getCollection('latin');
             ))
         }
         </ul>
-        <a class="text-white" href="/">Home</a>
     </main>
 
     
