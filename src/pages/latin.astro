@@ -11,27 +11,29 @@ const posts = await getCollection('latin');
 
 
 <Layout title="Sectio Latinitatis">
-    <nav>
-        <a class="text-white" href="/">Home</a>
-    </nav>
-    <main class="text-white w-[800px] mx-auto">
-        <figure class="w-[400px] mx-auto">
-            <CldImage 
-            src="latin/eneas-bernini"
-            width={400}
-            sizes="100vw"
-            alt="Gian Lorenzo Bernini (s. XVI)"
-            crop="thumb"
-            />
-            <figcaption class="max-w-full">Anquises, Eneas y Ascanio. Obra de Gian Lorenzo Bernini (s. XVI), expuesta en la actualidad en la Galería Borghese (Roma).</figcaption>
-        </figure>
-        <ul role="list" class="link-card-grid">
-        {
-            posts.map(({data , slug }) => (
-                <Card title={data.titulus} href={`/latinitatis-exercitationes/${slug}`} body={data.descriptio} />
-            ))
-        }
-        </ul>
+    <main class="max-w-screen-md m-auto p-4 font-bold text-white text-xl leading-relaxed">
+		<a href="/"><h1 class="mb-4 text-6xl text-center leading-none">Philologia Classica</h1></a>
+        
+        
+            <ul role="list" class="grid sm:grid-cols-2 gap-4 mb-4">
+                { 
+                    posts.map(({data , slug }) => (
+                        <Card title={data.titulus} href={`/latinitatis-exercitationes/${slug}`} body={data.descriptio} />
+                    ))
+                }
+            </ul>
+            
+            <figure class="flex gap-4 p-4 border rounded-lg shadow-md max-w-md">
+                <CldImage
+                src="latin/eneas-bernini"
+                height={400}
+                sizes="100vw"
+                alt="Gian Lorenzo Bernini (s. XVI)"
+                />
+                <figcaption class="max-w-full">Anquises, Eneas y Ascanio. Obra de Gian Lorenzo Bernini (s. XVI), expuesta en la actualidad en la Galería Borghese (Roma).</figcaption>
+            </figure>
+       
+          
     </main>
 
     
