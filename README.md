@@ -4,9 +4,12 @@
 
 ## Comandos
 
+Para sincronizar las colecciones
+
 ```bash
 npx astro sync
 ```
 
-Por si perdemos el tipado de datos con Schema.
+## Trabajando con variables .env en astro.build
 
+[midudev](https://www.youtube.com/watch?v=WHqZAXHZN_w&t=3331s)
