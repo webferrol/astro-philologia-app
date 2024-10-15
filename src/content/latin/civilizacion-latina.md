@@ -5,7 +5,11 @@ descriptio: La civilización latina.
 
 # La civilización latina. Perspectiva histórica y legado
 
-> "Quandiu stat Colisaeus, stat et Roma; Quando cadet Colisaeus, cadet et Roma; Quando cadet Roma, cadet et mundus."
+- [Volver a Latín](/latin)
+- [Inicio](/)
+
+
+> Quandiu stat Colisaeus, stat et Roma; Quando cadet Colisaeus, cadet et Roma; Quando cadet Roma, cadet et mundus.
 
 - *Venerable Beda* (monje y erudito inglés del siglo VIII)
 
