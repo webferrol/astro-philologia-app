@@ -9,12 +9,12 @@ descriptio: Una introducción al latín, una lengua indoeuropea
 
 **Siglo XVII**
 
-- Willians Jones dedujo que casi todas las lenugas de Europa y una parte de Asia provenían de una lengua común.
-    - Estudio el **sánscrito** (lengua sagrada de la india).
+- **Willians Jones** dedujo que casi todas las lenguas de Europa y una parte de Asia provenían de una lengua común.
+    - Estudió el **sánscrito** (lengua sagrada de la india).
 
-- Friedrich von Schelegel y Franz Bopp compararon con rigor la lenguas de Europa y sánscrito.
+- **Friedrich von Schelegel** y **Franz Bopp** compararon con rigor la lenguas de Europa y sánscrito.
 
-- Thomas Young acuña el término indoeuropeo en **1813**.
+- **Thomas Young** acuña el término indoeuropeo en **1813**.
 
 ## Reconstrucción del indoeuropeo
 
