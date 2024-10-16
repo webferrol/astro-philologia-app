@@ -1,3 +1,8 @@
+---
+titulus: El latín, una lengua indoeuropea
+descriptio: Una introducción al latín, una lengua indoeuropea
+---
+
 # El latín, una lengua indoeuropea
 
 ## Historia
