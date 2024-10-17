@@ -24,14 +24,26 @@ const posts = await getCollection('latin');
             </ul>
             
             <figure class="flex gap-4 p-4 border rounded-lg shadow-md max-w-md">
-                <CldImage
-                src="latin/eneas-bernini"
-                height={400}
-                sizes="100vw"
-                alt="Gian Lorenzo Bernini (s. XVI)"
-                transition:name="latinitas"
-                />
-                <figcaption class="max-w-full font-semibold">
+                <section class="grid grid-cols-2 gap-4">
+                    <CldImage
+                    class="h-auto max-w-full object-cover rounded-lg"
+                    src="latin/eneas-bernini"
+                    height={200}
+                    sizes="100vw"
+                    alt="Gian Lorenzo Bernini (s. XVI)"
+                    transition:name="latinitas"
+                    />
+                    <CldImage
+                    class="h-auto max-w-full rounded-lg object-cover"
+                    src="latin/anquises-penates"
+                    height={200}
+                    sizes="100vw"
+                    alt="Gian Lorenzo Bernini (s. XVI)"
+                    transition:name="latinitas"
+                    />
+                </section>
+               
+                <figcaption class="font-semibold">
                     <strong>Anquises</strong>, <strong>Eneas</strong> y <strong>Ascanio</strong>. Obra de Gian Lorenzo Bernini (s. XVI), expuesta en la actualidad en la Galería Borghese (Roma).
                    
                     <div class="text-sm">
