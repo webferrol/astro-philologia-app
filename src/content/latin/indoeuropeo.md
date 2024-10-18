@@ -58,3 +58,7 @@ Aquí tienes una versión de la *Fábula de Schleicher* en su reconstrucción or
 **Importancia Lingüística**
 
 La *Fábula de Schleicher* es importante porque ilustra cómo los lingüistas del siglo XIX intentaron reconstruir el protoindoeuropeo, un idioma no documentado. Aunque las versiones modernas del protoindoeuropeo han cambiado desde entonces, la fábula sigue siendo un ejemplo de la evolución del pensamiento en lingüística histórica y comparativa.
+
+## Las lenguas romances
+
+- [Mapa interactivo de las lenguas romances](https://es.educaplay.com/recursos-educativos/5283541-mapa_de_las_lenguas_romances.html)
