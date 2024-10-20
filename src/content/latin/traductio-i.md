@@ -3,6 +3,9 @@ titulus: Traductio I
 descriptio: Lupus et vetula; lupus et agnus; de Publii Itinere
 ---
 
+- [Volver a Latín](/latin)
+- [Inicio](/)
+
 # O LOBO E A VELLA
 
 Lupus <strong title="tenía hambre">esuriebat</strong> et circum agricolarum casas errabat et cibum quaerebat. Casa femina puerum, filium parvuum, increpabat. 
