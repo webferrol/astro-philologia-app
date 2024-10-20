@@ -12,19 +12,22 @@ descriptio: Analiza sintácticamente y traduce los siguientes textos.
 ## Completa la tabla y declina las palabras que faltan
 
 
-|            |       |         |          |   |         |   |   |   |   |
-|------------|-------|---------|----------|---------|---------|---|---|---|---|
-| Nominativo | Poeta |         |          | Athenae |         |   |   |   |   |
-| Vocativo   |       |         |          |         | insidia |   |   |   |   |
-| Acusativo  |       | Piratam |          |         |         |   |   |   |   |
-| Genitivo   |       |         | Copiarum |         |         |   |   |   |   |
-| Dativo     |       |         |          |         |         |   |   |   |   |
-| Ablativo   |       |         |          |         |         |   |   |   |   |
+|            | Poeta | Pirata  | Copiae   | Athenae | Insidia |
+|------------|-------|---------|----------|---------|---------|
+| Nominativo | Poeta |         |          | Athenae |         |
+| Vocativo   |       |         |          |         | insidia |
+| Acusativo  |       | Piratam |          |         |         |
+| Genitivo   |       |         | Copiarum |         |         |
+| Dativo     |       |         |          |         |         |
+| Ablativo   |       |         |          |         |         |
 
 
 
 - Fíjate en las palabras existentes para saber si van en singular o plural
 
+## Crucigrama
+
+[educaplay](https://es.educaplay.com/recursos-educativos/2757120-1_declinacion_magistra_ae.html)
 
 ## Textos
 
@@ -60,5 +63,3 @@ Analiza morfológicamente (indica casos) y sintácticamente las siguientes frase
     <dt>insula, ae f.</dt>
     <dd>Isla</dd>
 <dl>
-
-<a href="/">Volver a Home</a>
