@@ -5,6 +5,9 @@ descriptio: Una introducción al latín, una lengua indoeuropea
 
 # El latín, una lengua indoeuropea
 
+- [Volver a Latín](/latin)
+- [Inicio](/)
+
 ## Historia
 
 
