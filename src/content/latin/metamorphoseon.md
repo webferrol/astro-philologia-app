@@ -21,7 +21,7 @@ nullus adhuc mundo praebebat lumina Titan,          10
 nec nova crescendo reparabat cornua Phoebe,  
 
 <figure>
-    <img src="/public/Febe.jpg" title="en griego antiguo Φοίβη, Phoíbē: «brillante, puro»" alt="Febe" class="w-full object-cover">
+    <img src="/Febe.jpg" title="en griego antiguo Φοίβη, Phoíbē: «brillante, puro»" alt="Febe" class="w-full object-cover">
     <figcaption>nec nova crescendo reparabat cornua <a href="https://es.wikipedia.org/wiki/Febe_(mitolog%C3%ADa)">Phoebe</a>, </figcaption>
 </figure>  
 
@@ -30,7 +30,7 @@ ponderibus librata suis, nec bracchia longo
 margine terrarum porrexerat Amphitrite;  
 
 <figure>
-    <img src="/public/Cirta_mosaic.jpg" title="En la mitología griega Anfitrite, Anfítrite o Anfitrita (en griego, Άμφιτρίτη: ‘la tercera que rodea [el mar]’)" alt="Febe" class="object-cover">
+    <img src="/Cirta_mosaic.jpg" title="En la mitología griega Anfitrite, Anfítrite o Anfitrita (en griego, Άμφιτρίτη: ‘la tercera que rodea [el mar]’)" alt="Febe" class="object-cover">
     <figcaption>margine terrarum porrexerat <a href="https://es.wikipedia.org/wiki/Anfitrite">Amphitrite</a>;</figcaption>
 </figure> 
 
