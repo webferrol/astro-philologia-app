@@ -17,11 +17,23 @@ unus erat toto naturae vultus in orbe,
 quem dixere chaos: rudis indigestaque moles  
 nec quicquam nisi pondus iners congestaque eodem  
 non bene iunctarum discordia semina rerum.  
-nullus adhuc mundo praebebat lumina Titan,               10  
-nec nova crescendo reparabat cornua <a href="https://es.wikipedia.org/wiki/Febe_(mitolog%C3%ADa)">Phoebe</a>,  
+nullus adhuc mundo praebebat lumina Titan,          10  
+nec nova crescendo reparabat cornua Phoebe,  
+
+<figure>
+    <img src="/public/Febe.jpg" title="en griego antiguo Φοίβη, Phoíbē: «brillante, puro»" alt="Febe" class="w-full object-cover">
+    <figcaption>nec nova crescendo reparabat cornua <a href="https://es.wikipedia.org/wiki/Febe_(mitolog%C3%ADa)">Phoebe</a>, </figcaption>
+</figure>  
+
 nec circumfuso pendebat in aere tellus  
 ponderibus librata suis, nec bracchia longo  
-margine terrarum porrexerat <a href="https://es.wikipedia.org/wiki/Anfitrite">Amphitrite</a>;  
+margine terrarum porrexerat Amphitrite;  
+
+<figure>
+    <img src="/public/Cirta_mosaic.jpg" title="En la mitología griega Anfitrite, Anfítrite o Anfitrita (en griego, Άμφιτρίτη: ‘la tercera que rodea [el mar]’)" alt="Febe" class="object-cover">
+    <figcaption>margine terrarum porrexerat <a href="https://es.wikipedia.org/wiki/Anfitrite">Amphitrite</a>;</figcaption>
+</figure> 
+
 utque erat et tellus illic et pontus et aer,               15  
 sic erat instabilis tellus, innabilis unda,  
 lucis egens aer; nulli sua forma manebat,  
@@ -202,3 +214,31 @@ ense recidendum, ne pars sincera trahatur.
 sunt mihi semidei, sunt, rustica numina, nymphae
 faunique satyrique et monticolae silvani;
 quos quoniam caeli nondum dignamur honore,
+
+
+
+
+# Derivadas
+
+## dirimo
+
+El verbo latino **"dirimō"** proviene de la combinación de dos elementos latinos:
+
+- **"di-"**: un prefijo que puede indicar **separación** o **dirección en distintas partes**, lo que en este caso enfatiza la idea de **dividir** o **separar**.
+- **"emō"**: un verbo que originalmente significaba **"tomar"** o **"adquirir"**, aunque en contextos derivados puede referirse a acciones como tomar algo en una dirección diferente o intervenir en algo.
+
+Por tanto, **"dirimō"** etimológicamente significa **"separar tomando"** o **"deshacer algo que estaba unido"**, lo que explica su significado de **dividir**, **disolver**, o **poner fin** a algo.
+
+Este verbo es parte de la tercera conjugación en latín y tiene un uso frecuente en textos para indicar la `resolución de disputas`, la `disolución de relaciones` o la `interrupción de procesos`.
+
+## emico
+
+Del verbo latino **"emicuit"** (de **"emico"**, "brillar", "destellar", "sobresalir") 
+
+Ejemplo de palabras devivadas del mismo:
+
+1. **"Eminente"** (del latín "eminens", que también tiene la raíz *"emico"*): algo o alguien que sobresale o destaca.
+2. **"Emisión"** (del latín *"emissio"*, relacionado con salir o emitir).
+3. **"Eminencia"** (del latín *"eminentia"*, que comparte la idea de sobresalir).
+
+Estas palabras no son patrimoniales, sino más bien **cultismos**, que son términos que entran en la lengua más tarde con poca o ninguna evolución fonética.
