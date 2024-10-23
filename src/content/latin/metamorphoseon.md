@@ -30,7 +30,7 @@ ponderibus librata suis, nec bracchia longo
 margine terrarum porrexerat Amphitrite;  
 
 <figure>
-    <img src="/Cirta_mosaic.jpg" title="En la mitología griega Anfitrite, Anfítrite o Anfitrita (en griego, Άμφιτρίτη: ‘la tercera que rodea [el mar]’)" alt="Febe" class="object-cover">
+    <img alt="Anfitrie" src="/Cirta_mosaic.jpg" title="En la mitología griega Anfitrite, Anfítrite o Anfitrita (en griego, Άμφιτρίτη: ‘la tercera que rodea [el mar]’)" class="object-cover">
     <figcaption>margine terrarum porrexerat <a href="https://es.wikipedia.org/wiki/Anfitrite">Amphitrite</a>;</figcaption>
 </figure> 
 
@@ -71,12 +71,18 @@ cura dei, totidemque plagae tellure premuntur.
 quarum quae media est, non est habitabilis aestu;  
 nix tegit alta duas; totidem inter utramque locavit               50  
 temperiemque dedit mixta cum frigore flamma.  
+
+<figure>
+    <img src="/zonas.webp" alt="Zonas entre el cielo y la Tierra">
+    <figcaption>Las zonas están divididas simétricamente entre el cielo y la Tierra, con una banda central más caliente, simbolizando el área ecuatorial, y otras zonas más frías hacia los extremos.</figcaption>
+</figure> 
+
      Inminet his aer, qui, quanto est pondere terrae  
 pondus aquae levius, tanto est onerosior igni.  
 illic et nebulas, illic consistere nubes
-iussit et humanas motura tonitrua mentes               55
-et cum fulminibus facientes fulgura ventos.
-     His quoque non passim mundi fabricator habendum
+iussit et humanas motura tonitrua mentes               55  
+et cum fulminibus facientes fulgura ventos.  
+     His quoque non passim mundi fabricator habendum  
 aera permisit; vix nunc obsistitur illis,
 cum sua quisque regat diverso flamina tractu,
 quin lanient mundum; tanta est discordia fratrum.               60
