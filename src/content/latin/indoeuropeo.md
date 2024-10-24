@@ -10,7 +10,10 @@ descriptio: Una introducción al latín, una lengua indoeuropea
 
 ## Lenguas del mundo
 
-![Mapas](https://res.cloudinary.com/dimvf1zl2/image/upload/v1729782412/indoeuropeo/lenguas-mundo.png)
+![Familia indoeuropea](https://res.cloudinary.com/dimvf1zl2/image/upload/v1729782412/indoeuropeo/lenguas-mundo.png)
+
+
+![Lenguas indoeuropeas](https://res.cloudinary.com/dimvf1zl2/image/upload/v1729783204/indoeuropeo/Europe_Continuum_lpthcf.png)
 
 ## Historia
 
