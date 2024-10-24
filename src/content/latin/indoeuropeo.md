@@ -8,6 +8,10 @@ descriptio: Una introducción al latín, una lengua indoeuropea
 - [Volver a Latín](/latin)
 - [Inicio](/)
 
+## Lenguas del mundo
+
+![Mapas](https://res.cloudinary.com/dimvf1zl2/image/upload/v1729782412/indoeuropeo/lenguas-mundo.png)
+
 ## Historia
 
 
