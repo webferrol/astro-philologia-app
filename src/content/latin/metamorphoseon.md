@@ -5,6 +5,7 @@ descriptio: Traductio, liber primus
 
 - [Volver a Latín](/latin)
 - [Inicio](/)
+- [Traducción](https://llatibi.wordpress.com/2018/09/17/ovidio-metamorfosis-i-1-88/)
 
 # P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS
 
@@ -73,7 +74,7 @@ nix tegit alta duas; totidem inter utramque locavit              �
 temperiemque dedit mixta cum frigore flamma.  
 
 <figure>
-    <img src="/zonas.webp" alt="Zonas entre el cielo y la Tierra">
+    <img src="/zonas.webp" alt="Zonas entre el cielo y la Tierra" class="object-contain">
     <figcaption>Las zonas están divididas simétricamente entre el cielo y la Tierra, con una banda central más caliente, simbolizando el área ecuatorial, y otras zonas más frías hacia los extremos.</figcaption>
 </figure> 
 
@@ -83,42 +84,42 @@ illic et nebulas, illic consistere nubes
 iussit et humanas motura tonitrua mentes               55  
 et cum fulminibus facientes fulgura ventos.  
      His quoque non passim mundi fabricator habendum  
-aera permisit; vix nunc obsistitur illis,
-cum sua quisque regat diverso flamina tractu,
-quin lanient mundum; tanta est discordia fratrum.               60
-Eurus ad Auroram Nabataeaque regna recessit
-Persidaque et radiis iuga subdita matutinis;
-vesper et occiduo quae litora sole tepescunt,
-proxima sunt Zephyro; Scythiam septemque triones
-horrifer invasit Boreas; contraria tellus               65
-nubibus adsiduis pluviaque madescit ab Austro.
-haec super inposuit liquidum et gravitate carentem
-aethera nec quicquam terrenae faecis habentem.
-     Vix ita limitibus dissaepserat omnia certis,
-cum, quae pressa diu fuerant caligine caeca,               70
-sidera coeperunt toto effervescere caelo;
-neu regio foret ulla suis animalibus orba,
-astra tenent caeleste solum formaeque deorum,
-cesserunt nitidis habitandae piscibus undae,
-terra feras cepit, volucres agitabilis aer.               75
-     Sanctius his animal mentisque capacius altae
-deerat adhuc et quod dominari in cetera posset:
-natus homo est, sive hunc divino semine fecit
-ille opifex rerum, mundi melioris origo,
-sive recens tellus seductaque nuper ab alto               80
-aethere cognati retinebat semina caeli.
-quam satus Iapeto, mixtam pluvialibus undis,
-finxit in effigiem moderantum cuncta deorum,
-pronaque cum spectent animalia cetera terram,
-os homini sublime dedit caelumque videre               85
-iussit et erectos ad sidera tollere vultus:
-sic, modo quae fuerat rudis et sine imagine, tellus
-induit ignotas hominum conversa figuras.
-     Aurea prima sata est aetas, quae vindice nullo,
-sponte sua, sine lege fidem rectumque colebat.               90
-poena metusque aberant, nec verba minantia fixo
-aere legebantur, nec supplex turba timebat
-iudicis ora sui, sed erant sine vindice tuti.
+aera permisit; vix nunc obsistitur illis,  
+cum sua quisque regat diverso flamina tractu,  
+quin lanient mundum; tanta est discordia fratrum.               60  
+<a href="https://es.wikipedia.org/wiki/Dioses_del_viento_griegos/#Viento_del_este">Eurus</a> ad Auroram Nabataeaque regna recessit  
+Persidaque et radiis iuga subdita matutinis;  
+vesper et occiduo quae litora sole tepescunt,  
+proxima sunt Zephyro; Scythiam septemque triones  
+horrifer invasit Boreas; contraria tellus               65  
+nubibus adsiduis pluviaque madescit ab Austro.  
+haec super inposuit liquidum et gravitate carentem  
+aethera nec quicquam terrenae faecis habentem.  
+     Vix ita limitibus dissaepserat omnia certis,  
+cum, quae pressa diu fuerant caligine caeca,               70  
+sidera coeperunt toto effervescere caelo;  
+neu regio foret ulla suis animalibus orba,  
+astra tenent caeleste solum formaeque deorum,  
+cesserunt nitidis habitandae piscibus undae,  
+terra feras cepit, volucres agitabilis aer.               75  
+     Sanctius his animal mentisque capacius altae  
+deerat adhuc et quod dominari in cetera posset:  
+natus homo est, sive hunc divino semine fecit  
+ille opifex rerum, mundi melioris origo,  
+sive recens tellus seductaque nuper ab alto               80  
+aethere cognati retinebat semina caeli.  
+quam satus Iapeto, mixtam pluvialibus undis,  
+finxit in effigiem moderantum cuncta deorum,  
+pronaque cum spectent animalia cetera terram,  
+os homini sublime dedit caelumque videre               85  
+iussit et erectos ad sidera tollere vultus:  
+sic, modo quae fuerat rudis et sine imagine, tellus  
+induit ignotas hominum conversa figuras.  
+     Aurea prima sata est aetas, quae vindice nullo,  
+sponte sua, sine lege fidem rectumque colebat.               90  
+poena metusque aberant, nec verba minantia fixo  
+aere legebantur, nec supplex turba timebat  
+iudicis ora sui, sed erant sine vindice tuti.  
 nondum caesa suis, peregrinum ut viseret orbem,
 montibus in liquidas pinus descenderat undas,               95
 nullaque mortales praeter sua litora norant;
