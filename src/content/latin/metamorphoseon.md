@@ -74,20 +74,20 @@ nix tegit alta duas; totidem inter utramque locavit              �
 temperiemque dedit mixta cum frigore flamma.  
 
 <figure>
-    <img src="/zonas.webp" alt="Zonas entre el cielo y la Tierra" class="object-contain">
-    <figcaption>Las zonas están divididas simétricamente entre el cielo y la Tierra, con una banda central más caliente, simbolizando el área ecuatorial, y otras zonas más frías hacia los extremos.</figcaption>
+    <img src="https://res.cloudinary.com/dimvf1zl2/image/upload/t_zonas-tierra-macrobio-tranformado/maps/zonas-tierra-macrobio_vfsebe.jpg" alt="Zonas entre el cielo y la Tierra" class="w-auto  object-contain">
+    <figcaption>Las zonas están divididas simétricamente entre el cielo y la Tierra, con una banda central más caliente, simbolizando el área ecuatorial, y otras zonas más frías hacia los extremos. <a href="https://blogcatedranaval.com/2020/03/17/las-zonas-climaticas-en-la-antiguedad/">Más información</a></figcaption>
 </figure> 
 
      Inminet his aer, qui, quanto est pondere terrae  
 pondus aquae levius, tanto est onerosior igni.  
 illic et nebulas, illic consistere nubes
 iussit et humanas motura tonitrua mentes               55  
-et cum fulminibus facientes fulgura ventos.  
+et <a href="https://blogcatedranaval.com/2016/09/27/la-torre-de-los-vientos-de-atenas/">cum fulminibus facientes fulgura ventos</a>.  
      His quoque non passim mundi fabricator habendum  
 aera permisit; vix nunc obsistitur illis,  
 cum sua quisque regat diverso flamina tractu,  
 quin lanient mundum; tanta est discordia fratrum.               60  
-<a href="https://es.wikipedia.org/wiki/Dioses_del_viento_griegos/#Viento_del_este">Eurus</a> ad Auroram Nabataeaque regna recessit  
+<a href="https://www.ecured.cu/Euro_(Mitolog%C3%ADa_griega)">Eurus</a> ad Auroram <a href="https://es.wikipedia.org/wiki/Nabateos">Nabataeaque</a> regna recessit  
 Persidaque et radiis iuga subdita matutinis;  
 vesper et occiduo quae litora sole tepescunt,  
 proxima sunt Zephyro; Scythiam septemque triones  
@@ -249,3 +249,10 @@ Ejemplo de palabras devivadas del mismo:
 3. **"Eminencia"** (del latín *"eminentia"*, que comparte la idea de sobresalir).
 
 Estas palabras no son patrimoniales, sino más bien **cultismos**, que son términos que entran en la lengua más tarde con poca o ninguna evolución fonética.
+
+# Preguntas
+
+¿Quién eran los nabateos?
+¿Cual era su capital?¿Por qué construcciones eran famosos?
+¿Qué países ocupan esta región?¿Qué conflictos actuales tienen?
+¿Tienen alguna lengua indoeuropea?
