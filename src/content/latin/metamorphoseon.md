@@ -136,6 +136,9 @@ montibus in liquidas pinus descenderat undas,               95
 nullaque mortales praeter sua litora norant;  
 nondum praecipites cingebant oppida fossae;  
 non tuba derecti, non aeris cornua flexi,  
+
+![tuba derecti ... aeris cornua flexi](/tuba-cornua-hydraulis.webp)
+
 non galeae, non ensis erat: sine militis usu  
 mollia securae peragebant otia gentes.               100  
 ipsa quoque inmunis rastroque intacta nec ullis  
@@ -150,30 +153,30 @@ mox etiam fruges tellus inarata ferebat,
 nec renovatus ager gravidis canebat aristis;               110  
 flumina iam lactis, iam flumina nectaris ibant,  
 flavaque de viridi stillabant ilice mella.  
-     Postquam Saturno tenebrosa in Tartara misso
-sub Iove mundus erat, subiit argentea proles,
-auro deterior, fulvo pretiosior aere.               115
-Iuppiter antiqui contraxit tempora veris
-perque hiemes aestusque et inaequalis autumnos
-et breve ver spatiis exegit quattuor annum.
-tum primum siccis aer fervoribus ustus
-canduit, et ventis glacies adstricta pependit;               120
-tum primum subiere domos; domus antra fuerunt
-et densi frutices et vinctae cortice virgae.
-semina tum primum longis Cerealia sulcis
-obruta sunt, pressique iugo gemuere iuvenci.
-     Tertia post illam successit aenea proles,               125
-saevior ingeniis et ad horrida promptior arma,
-non scelerata tamen; de duro est ultima ferro.
-protinus inrupit venae peioris in aevum
-omne nefas: fugere pudor verumque fidesque;
-in quorum subiere locum fraudesque dolusque               130
-insidiaeque et vis et amor sceleratus habendi.
-vela dabant ventis nec adhuc bene noverat illos
-navita, quaeque prius steterant in montibus altis,
-fluctibus ignotis insultavere carinae,
-communemque prius ceu lumina solis et auras               135
-cautus humum longo signavit limite mensor.
+     Postquam Saturno tenebrosa in Tartara misso  
+sub Iove mundus erat, subiit argentea proles,  
+auro deterior, fulvo pretiosior aere.               115  
+Iuppiter antiqui contraxit tempora veris  
+perque hiemes aestusque et inaequalis autumnos  
+et breve ver spatiis exegit quattuor annum.  
+tum primum siccis aer fervoribus ustus  
+canduit, et ventis glacies adstricta pependit;               120  
+tum primum subiere domos; domus antra fuerunt  
+et densi frutices et vinctae cortice virgae.  
+semina tum primum longis Cerealia sulcis  
+obruta sunt, pressique iugo gemuere iuvenci.  
+     Tertia post illam successit aenea proles,               125  
+saevior ingeniis et ad horrida promptior arma,  
+non scelerata tamen; de duro est ultima ferro.  
+protinus inrupit venae peioris in aevum  
+omne nefas: fugere pudor verumque fidesque;  
+in quorum subiere locum fraudesque dolusque               130  
+insidiaeque et vis et amor sceleratus habendi.  
+vela dabant ventis nec adhuc bene noverat illos  
+navita, quaeque prius steterant in montibus altis,  
+fluctibus ignotis insultavere carinae,  
+communemque prius ceu lumina solis et auras               135  
+cautus humum longo signavit limite mensor.  
 nec tantum segetes alimentaque debita dives
 poscebatur humus, sed itum est in viscera terrae,
 quasque recondiderat Stygiisque admoverat umbris,
