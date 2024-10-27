@@ -9,10 +9,15 @@ descriptio: Traductio, liber primus
 
 # P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS
 
+**Invocatio**
+
 In nova fert animus mutatas dicere formas  
 corpora; di, coeptis (nam vos mutastis et illas)  
 adspirate meis primaque ab origine mundi  
-ad mea perpetuum deducite tempora carmen!  
+ad mea perpetuum deducite tempora carmen! 
+
+**Mundi origo**
+
      Ante mare et terras et quod tegit omnia caelum               5  
 unus erat toto naturae vultus in orbe,  
 quem dixere chaos: rudis indigestaque moles  
@@ -89,7 +94,7 @@ cum sua quisque regat diverso flamina tractu,
 quin lanient mundum; tanta est discordia fratrum.               60  
 <a href="https://www.ecured.cu/Euro_(Mitolog%C3%ADa_griega)">Eurus</a> ad Auroram <a href="https://es.wikipedia.org/wiki/Nabateos">Nabataeaque</a> regna recessit  
 Persidaque et radiis iuga subdita matutinis;  
-vesper et occiduo quae litora sole tepescunt,  
+vesper et occiduo quae litora sole <a href="http://www.perseus.tufts.edu/hopper/morph?l=tepescunt&la=la&can=tepescunt0&prior=sole">tepescunt</a>,  
 proxima sunt Zephyro; Scythiam septemque triones  
 horrifer invasit Boreas; contraria tellus               65  
 nubibus adsiduis pluviaque madescit ab Austro.  
@@ -115,30 +120,36 @@ os homini sublime dedit caelumque videre               85
 iussit et erectos ad sidera tollere vultus:  
 sic, modo quae fuerat rudis et sine imagine, tellus  
 induit ignotas hominum conversa figuras.  
+
+**Quattuor aetates**
+
      Aurea prima sata est aetas, quae vindice nullo,  
 sponte sua, sine lege fidem rectumque colebat.               90  
 poena metusque aberant, nec verba minantia fixo  
 aere legebantur, nec supplex turba timebat  
-iudicis ora sui, sed erant sine vindice tuti.  
-nondum caesa suis, peregrinum ut viseret orbem,
-montibus in liquidas pinus descenderat undas,               95
-nullaque mortales praeter sua litora norant;
-nondum praecipites cingebant oppida fossae;
-non tuba derecti, non aeris cornua flexi,
-non galeae, non ensis erat: sine militis usu
-mollia securae peragebant otia gentes.               100
-ipsa quoque inmunis rastroque intacta nec ullis
-saucia vomeribus per se dabat omnia tellus,
-contentique cibis nullo cogente creatis
-arbuteos fetus montanaque fraga legebant
-cornaque et in duris haerentia mora rubetis               105
-et quae deciderant patula Iovis arbore glandes.
-ver erat aeternum, placidique tepentibus auris
-mulcebant zephyri natos sine semine flores;
-mox etiam fruges tellus inarata ferebat,
-nec renovatus ager gravidis canebat aristis;               110
-flumina iam lactis, iam flumina nectaris ibant,
-flavaque de viridi stillabant ilice mella.
+iudicis ora sui, sed erant sine vindice tuti. 
+
+![Fixus aer](/fixus-aer.jpeg)
+
+nondum caesa suis, peregrinum ut viseret orbem,  
+montibus in liquidas pinus descenderat undas,               95  
+nullaque mortales praeter sua litora norant;  
+nondum praecipites cingebant oppida fossae;  
+non tuba derecti, non aeris cornua flexi,  
+non galeae, non ensis erat: sine militis usu  
+mollia securae peragebant otia gentes.               100  
+ipsa quoque inmunis rastroque intacta nec ullis  
+saucia vomeribus per se dabat omnia tellus,  
+contentique cibis nullo cogente creatis  
+arbuteos fetus montanaque fraga legebant  
+cornaque et in duris haerentia mora rubetis               105  
+et quae deciderant patula Iovis arbore glandes.  
+ver erat aeternum, placidique tepentibus auris  
+mulcebant zephyri natos sine semine flores;  
+mox etiam fruges tellus inarata ferebat,  
+nec renovatus ager gravidis canebat aristis;               110  
+flumina iam lactis, iam flumina nectaris ibant,  
+flavaque de viridi stillabant ilice mella.  
      Postquam Saturno tenebrosa in Tartara misso
 sub Iove mundus erat, subiit argentea proles,
 auro deterior, fulvo pretiosior aere.               115
