@@ -5,9 +5,11 @@ descriptio: Traductio, liber primus
 
 - [Volver a Latín](/latin)
 - [Inicio](/)
-- [Traducción](https://llatibi.wordpress.com/2018/09/17/ovidio-metamorfosis-i-1-88/)
 
 # P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS
+
+- [Traducción. Liber I, 1-88](https://llatibi.wordpress.com/2018/09/17/ovidio-metamorfosis-i-1-88/)
+- [Traducción. Liber I, 89-150](https://llatibi.wordpress.com/2018/10/15/ovidio-metamorfosis-i-89-150/)
 
 **Invocatio**
 
