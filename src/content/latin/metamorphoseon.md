@@ -163,8 +163,16 @@ perque hiemes aestusque et inaequalis autumnos
 et breve ver spatiis exegit quattuor annum.  
 tum primum siccis aer fervoribus ustus  
 canduit, et ventis glacies adstricta pependit;               120  
-tum primum subiere domos; domus antra fuerunt  
-et densi frutices et vinctae cortice virgae.  
+tum primum <abbr title="subeo, subire, subii/subivi, subitum: 3ª plural	subierunt o subiere (forma poética)">subiere</abbr> domos; domus antra fuerunt  
+et densi <abbr title="Matorral">frutices</abbr> et vinctae cortice virgae.  
+
+<figure>
+    <img src="/domus-antra.webp" alt="Primeras casas en la edad de plata" class="w-auto  object-contain">
+    <figcaption>tum primum subiere domos; domus antra fuerunt
+et densi frutices et vinctae cortice virgae</figcaption>
+</figure> 
+
+
 semina tum primum longis Cerealia sulcis  
 obruta sunt, pressique iugo gemuere iuvenci.  
      Tertia post illam successit aenea proles,               125  
@@ -176,14 +184,17 @@ in quorum subiere locum fraudesque dolusque               130
 insidiaeque et vis et amor sceleratus habendi.  
 vela dabant ventis nec adhuc bene noverat illos  
 navita, quaeque prius steterant in montibus altis,  
-fluctibus ignotis insultavere carinae,  
+fluctibus ignotis <abbr title="brincar">insultavere</abbr> carinae,  
+
+![Carina](/carina.webp)
+
 communemque prius ceu lumina solis et auras               135  
-cautus humum longo signavit limite mensor.  
-nec tantum segetes alimentaque debita   
+cautus humum longo signavit limite <abbr title="Agrimensor">mensor</abbr>.  
+nec tantum segetes alimentaque debita dives  
 poscebatur humus, sed itum est in viscera terrae,  
-quasque recondiderat Stygiisque admoverat umbris,  
-effodiuntur opes, inritamenta malorum.  
-iamque nocens ferrum ferroque nocentius   
+quasque recondiderat <a href="https://es.wikipedia.org/wiki/Estigia_(r%C3%ADo)">Stygiisque admoverat umbris</a>,  
+effodiuntur opes, <abbr title="estímulo">inritamenta</abbr> malorum.       140  
+iamque nocens ferrum ferroque nocentius aurum  
 prodierat, prodit bellum, quod pugnat utroque,  
 sanguineaque manu crepitantia concutit arma.  
 vivitur ex rapto: non hospes ab hospite tutus,  
@@ -192,7 +203,10 @@ inminet exitio vir coniugis, illa mariti,
 lurida terribiles miscent aconita novercae,  
 filius ante diem patrios inquirit in annos:  
 victa iacet pietas, et virgo caede madentis  
-ultima caelestum terras Astraea reliquit.               150  
+ultima caelestum terras <a href="https://es.wikipedia.org/wiki/Dice">Astraea</a> reliquit.               150  
+
+**Gigantomanchia**
+
      Neve foret terris securior arduus aether,  
 adfectasse ferunt regnum caeleste gigantas  
 altaque congestos struxisse ad sidera montis.  
@@ -265,6 +279,10 @@ Ejemplo de palabras devivadas del mismo:
 3. **"Eminencia"** (del latín *"eminentia"*, que comparte la idea de sobresalir).
 
 Estas palabras no son patrimoniales, sino más bien **cultismos**, que son términos que entran en la lengua más tarde con poca o ninguna evolución fonética.
+
+## subiere
+
+subeo, subire, subii/subivi, subitum: 3ª plural	subierunt o subiere (forma poética)
 
 # Preguntas
 
