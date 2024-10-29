@@ -193,7 +193,7 @@ cautus humum longo signavit limite <abbr title="Agrimensor">mensor</abbr>.
 nec tantum segetes alimentaque debita dives  
 poscebatur humus, sed itum est in viscera terrae,  
 quasque recondiderat <a href="https://es.wikipedia.org/wiki/Estigia_(r%C3%ADo)">Stygiisque admoverat umbris</a>,  
-effodiuntur opes, <abbr title="estímulo">inritamenta</abbr> malorum.       140  
+effodiuntur opes, <abbr title="estímulo">inritamenta</abbr> malorum.               140    
 iamque nocens ferrum ferroque nocentius aurum  
 prodierat, prodit bellum, quod pugnat utroque,  
 sanguineaque manu crepitantia concutit arma.  
