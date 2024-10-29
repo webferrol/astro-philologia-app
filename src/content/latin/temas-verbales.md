@@ -14,9 +14,9 @@ Cada uno de los temas es el punto de partida para una serie de conjugaciones esp
 3. **Tema de supino**: Este se usa en algunos tiempos del participio y en la construcción del infinitivo de futuro. También es la raíz para algunas formas compuestas y pasivas.
 
 Estos temas se identifican a partir de las formas principales que se encuentran en los diccionarios de latín que nos permiten derivar estos temas: 
-- La primera persona del singular del presente (para el tema de presente),
-- La primera persona del singular del perfecto (para el tema de perfecto),
-- El supino o participio de perfecto pasivo (para el tema de supino)
+- La primera persona del singular del presente (para el tema de presente): <abbr title="exempli gratia">e.g.</abbr> *amo*
+- La primera persona del singular del perfecto (para el tema de perfecto): e.g. *amavi*
+- El supino o participio de perfecto pasivo (para el tema de supino): e.g. *amatum*
 
 # El enunciado de los verbos en latín
 
@@ -85,12 +85,12 @@ Todos los tiempos de la voz activa, menos el pretérito perfecto del indicativo,
 - 3.ª persona del plural: -nt
 
 ```
-amo               doceo
-amas              doces
-amat              docet
-amamus            docemus
-amatis            docetis
-amant             docent
+amo         doceo
+amas        doces
+amat        docet
+amamus      docemus
+amatis      docetis
+amant       docent
 ```
 
 # ¿Cómo se obtienen los temas verbales?
