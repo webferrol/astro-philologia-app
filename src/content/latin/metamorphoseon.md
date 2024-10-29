@@ -170,7 +170,7 @@ obruta sunt, pressique iugo gemuere iuvenci.
      Tertia post illam successit aenea proles,               125  
 saevior ingeniis et ad horrida promptior arma,  
 non scelerata tamen; de duro est ultima ferro.  
-protinus inrupit venae peioris in aevum  
+<abbr title="inmmediatemente">protinus</abbr> inrupit venae peioris <abbr title="para siempre">in aevum</abbr>  
 omne nefas: fugere pudor verumque fidesque;  
 in quorum subiere locum fraudesque dolusque               130  
 insidiaeque et vis et amor sceleratus habendi.  
@@ -179,64 +179,64 @@ navita, quaeque prius steterant in montibus altis,
 fluctibus ignotis insultavere carinae,  
 communemque prius ceu lumina solis et auras               135  
 cautus humum longo signavit limite mensor.  
-nec tantum segetes alimentaque debita dives
-poscebatur humus, sed itum est in viscera terrae,
-quasque recondiderat Stygiisque admoverat umbris,
-effodiuntur opes, inritamenta malorum.               140
-iamque nocens ferrum ferroque nocentius aurum
-prodierat, prodit bellum, quod pugnat utroque,
-sanguineaque manu crepitantia concutit arma.
-vivitur ex rapto: non hospes ab hospite tutus,
-non socer a genero, fratrum quoque gratia rara est;               145
-inminet exitio vir coniugis, illa mariti,
-lurida terribiles miscent aconita novercae,
-filius ante diem patrios inquirit in annos:
-victa iacet pietas, et virgo caede madentis
-ultima caelestum terras Astraea reliquit.               150
-     Neve foret terris securior arduus aether,
-adfectasse ferunt regnum caeleste gigantas
-altaque congestos struxisse ad sidera montis.
-tum pater omnipotens misso perfregit Olympum
-fulmine et excussit subiecto Pelion Ossae.               155
-obruta mole sua cum corpora dira iacerent,
-perfusam multo natorum sanguine Terram
-immaduisse ferunt calidumque animasse cruorem
-et, ne nulla suae stirpis monimenta manerent,
-in faciem vertisse hominum; sed et illa propago               160
-contemptrix superum saevaeque avidissima caedis
-et violenta fuit: scires e sanguine natos.
-     Quae pater ut summa vidit Saturnius arce,
-ingemit et facto nondum vulgata recenti
-foeda Lycaoniae referens convivia mensae               165
-ingentes animo et dignas Iove concipit iras
-conciliumque vocat: tenuit mora nulla vocatos.
-     Est via sublimis, caelo manifesta sereno;
-lactea nomen habet, candore notabilis ipso.
-hac iter est superis ad magni tecta Tonantis               170
-regalemque domum: dextra laevaque deorum
-atria nobilium valvis celebrantur apertis.
-plebs habitat diversa locis: hac parte potentes
-caelicolae clarique suos posuere penates;
-hic locus est, quem, si verbis audacia detur,               175
-haud timeam magni dixisse Palatia caeli.
-     Ergo ubi marmoreo superi sedere recessu,
-celsior ipse loco sceptroque innixus eburno
-terrificam capitis concussit terque quaterque
-caesariem, cum qua terram, mare, sidera movit.               180
-talibus inde modis ora indignantia solvit:
-'non ego pro mundi regno magis anxius illa
-tempestate fui, qua centum quisque parabat
-inicere anguipedum captivo bracchia caelo.
-nam quamquam ferus hostis erat, tamen illud ab uno               185
-corpore et ex una pendebat origine bellum;
-nunc mihi qua totum Nereus circumsonat orbem,
-perdendum est mortale genus: per flumina iuro
-infera sub terras Stygio labentia luco!
-cuncta prius temptanda, sed inmedicabile curae               190
-ense recidendum, ne pars sincera trahatur.
-sunt mihi semidei, sunt, rustica numina, nymphae
-faunique satyrique et monticolae silvani;
-quos quoniam caeli nondum dignamur honore,
+nec tantum segetes alimentaque debita   
+poscebatur humus, sed itum est in viscera terrae,  
+quasque recondiderat Stygiisque admoverat umbris,  
+effodiuntur opes, inritamenta malorum.  
+iamque nocens ferrum ferroque nocentius   
+prodierat, prodit bellum, quod pugnat utroque,  
+sanguineaque manu crepitantia concutit arma.  
+vivitur ex rapto: non hospes ab hospite tutus,  
+non socer a genero, fratrum quoque gratia rara est;               145  
+inminet exitio vir coniugis, illa mariti,  
+lurida terribiles miscent aconita novercae,  
+filius ante diem patrios inquirit in annos:  
+victa iacet pietas, et virgo caede madentis  
+ultima caelestum terras Astraea reliquit.               150  
+     Neve foret terris securior arduus aether,  
+adfectasse ferunt regnum caeleste gigantas  
+altaque congestos struxisse ad sidera montis.  
+tum pater omnipotens misso perfregit Olympum  
+fulmine et excussit subiecto Pelion Ossae.               155  
+obruta mole sua cum corpora dira iacerent,  
+perfusam multo natorum sanguine Terram  
+immaduisse ferunt calidumque animasse cruorem  
+et, ne nulla suae stirpis monimenta manerent,  
+in faciem vertisse hominum; sed et illa propago               160  
+contemptrix superum saevaeque avidissima caedis  
+et violenta fuit: scires e sanguine natos.  
+     Quae pater ut summa vidit Saturnius arce,  
+ingemit et facto nondum vulgata recenti  
+foeda Lycaoniae referens convivia mensae               165  
+ingentes animo et dignas Iove concipit iras  
+conciliumque vocat: tenuit mora nulla vocatos.  
+     Est via sublimis, caelo manifesta sereno;  
+lactea nomen habet, candore notabilis ipso.  
+hac iter est superis ad magni tecta Tonantis               170  
+regalemque domum: dextra laevaque deorum  
+atria nobilium valvis celebrantur apertis.  
+plebs habitat diversa locis: hac parte potentes  
+caelicolae clarique suos posuere penates;  
+hic locus est, quem, si verbis audacia detur,               175  
+haud timeam magni dixisse Palatia caeli.  
+     Ergo ubi marmoreo superi sedere recessu,  
+celsior ipse loco sceptroque innixus eburno  
+terrificam capitis concussit terque quaterque  
+caesariem, cum qua terram, mare, sidera movit.               180  
+talibus inde modis ora indignantia solvit:  
+'non ego pro mundi regno magis anxius illa  
+tempestate fui, qua centum quisque parabat  
+inicere anguipedum captivo bracchia caelo.  
+nam quamquam ferus hostis erat, tamen illud ab uno               185  
+corpore et ex una pendebat origine bellum;  
+nunc mihi qua totum Nereus circumsonat orbem,  
+perdendum est mortale genus: per flumina iuro  
+infera sub terras Stygio labentia luco!  
+cuncta prius temptanda, sed inmedicabile curae               190  
+ense recidendum, ne pars sincera trahatur.  
+sunt mihi semidei, sunt, rustica numina, nymphae  
+faunique satyrique et monticolae silvani;  
+quos quoniam caeli nondum dignamur honore,  
 
 
 
