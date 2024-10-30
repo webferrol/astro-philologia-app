@@ -196,8 +196,8 @@ quasque recondiderat <a href="https://es.wikipedia.org/wiki/Estigia_(r%C3%ADo)">
 effodiuntur opes, <abbr title="estímulo">inritamenta</abbr> malorum.               140    
 iamque nocens ferrum ferroque nocentius aurum  
 prodierat, prodit bellum, quod pugnat utroque,  
-sanguineaque manu crepitantia concutit arma.  
-vivitur ex rapto: non hospes ab hospite tutus,  
+sanguineaque manu crepitantia <abbr title="concutio: verb 3rd sg pres ind act; to strike together">concutit</abbr> arma.  
+vivitur ex rapto: non <abbr title="La palabra latina 'hospes' se traduce al español como 'huésped' o 'anfitrión', dependiendo del contexto. En latín, 'hospes' tiene un significado amplio y puede referirse tanto a la persona que recibe (anfitrión) como a la persona que es recibida o alojada (huésped).">hospes ab hospite</abbr> tutus,  
 non socer a genero, fratrum quoque gratia rara est;               145  
 inminet exitio vir coniugis, illa mariti,  
 lurida terribiles miscent aconita novercae,  
@@ -205,7 +205,9 @@ filius ante diem patrios inquirit in annos:
 victa iacet pietas, et virgo caede madentis  
 ultima caelestum terras <a href="https://es.wikipedia.org/wiki/Dice">Astraea</a> reliquit.               150  
 
-**Gigantomanchia**
+![Astrea abandona la tierra del año 1665. Salvator Rosa](/astrea.webp)
+
+**[Gigantomanchia](https://losviajesdeaspasia.com/2020/07/24/gigantomaquia/)**
 
      Neve foret terris securior arduus aether,  
 adfectasse ferunt regnum caeleste gigantas  
@@ -279,6 +281,19 @@ Ejemplo de palabras devivadas del mismo:
 3. **"Eminencia"** (del latín *"eminentia"*, que comparte la idea de sobresalir).
 
 Estas palabras no son patrimoniales, sino más bien **cultismos**, que son términos que entran en la lengua más tarde con poca o ninguna evolución fonética.
+
+## inritamenta
+
+En español, las palabras derivadas del latín **"inritamenta"** (o **"irritamenta"**, más común en latín clásico), que significa **"provocaciones"** o **"estímulos"**, provienen de la raíz **"irrit-"**, relacionada con provocar, estimular o molestar.
+
+Aquí tienes algunas palabras derivadas y relacionadas en español:
+
+1. **Irritar**: provocar enojo o molestia en alguien.
+2. **Irritación**: el acto o efecto de irritar; puede referirse tanto a una reacción emocional como física, como en la piel.
+3. **Irritante**: algo que causa molestia o enojo; también se usa para describir sustancias que causan una reacción en la piel o los ojos.
+4. **Inirritable**: aunque menos común, significa "que no puede ser irritado".
+  
+Estas palabras comparten la idea de provocar una reacción, ya sea de molestia, estímulo o respuesta física, un concepto heredado del latín.
 
 ## subiere
 
