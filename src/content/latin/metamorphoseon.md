@@ -200,7 +200,7 @@ sanguineaque manu crepitantia <abbr title="concutio: verb 3rd sg pres ind act; t
 vivitur ex rapto: non <abbr title="La palabra latina 'hospes' se traduce al español como 'huésped' o 'anfitrión', dependiendo del contexto. En latín, 'hospes' tiene un significado amplio y puede referirse tanto a la persona que recibe (anfitrión) como a la persona que es recibida o alojada (huésped).">hospes ab hospite</abbr> tutus,  
 non socer a genero, fratrum quoque gratia rara est;               145  
 inminet exitio vir coniugis, illa mariti,  
-lurida terribiles miscent aconita novercae,  
+lurida terribiles miscent <a href="https://es.wikipedia.org/wiki/Aconitum">aconita</a> novercae,  
 filius ante diem patrios inquirit in annos:  
 victa iacet pietas, et virgo caede madentis  
 ultima caelestum terras <a href="https://es.wikipedia.org/wiki/Dice">Astraea</a> reliquit.               150  
@@ -213,8 +213,11 @@ ultima caelestum terras <a href="https://es.wikipedia.org/wiki/Dice">Astraea</a>
 adfectasse ferunt regnum caeleste gigantas  
 altaque congestos struxisse ad sidera montis.  
 tum pater omnipotens misso perfregit Olympum  
-fulmine et excussit subiecto Pelion Ossae.               155  
-obruta mole sua cum corpora dira iacerent,  
+fulmine et <abbr title="sacar, expulsar, sacudir o hacer caer">excussit</abbr> subiecto Pelion Ossae.               155  
+<abbr title="obruo: cubrir">obruta</abbr> mole sua cum corpora dira iacerent, 
+
+![Pelion et Ossae](https://res.cloudinary.com/dimvf1zl2/image/upload/v1730385252/maps/montes-antiguos-grecia_xac3dj.png)
+
 perfusam multo natorum sanguine Terram  
 immaduisse ferunt calidumque animasse cruorem  
 et, ne nulla suae stirpis monimenta manerent,  
@@ -223,11 +226,14 @@ contemptrix superum saevaeque avidissima caedis
 et violenta fuit: scires e sanguine natos.  
      Quae pater ut summa vidit Saturnius arce,  
 ingemit et facto nondum vulgata recenti  
-foeda Lycaoniae referens convivia mensae               165  
+<a href="https://es.wikipedia.org/wiki/Lica%C3%B3n_(mitolog%C3%ADa)#/media/Archivo:J%C3%BApiter_y_Lica%C3%B3n_(jan_Cossiers).jpg">foeda Lycaoniae referens convivia mensae</a>               165  
 ingentes animo et dignas Iove concipit iras  
 conciliumque vocat: tenuit mora nulla vocatos.  
      Est via sublimis, caelo manifesta sereno;  
-lactea nomen habet, candore notabilis ipso.  
+lactea nomen habet, candore notabilis ipso. 
+
+![Nacimiento de la Vía Láctea de Rubens](/nacimiento-via-lactea-rubens.jpg)
+
 hac iter est superis ad magni tecta Tonantis               170  
 regalemque domum: dextra laevaque deorum  
 atria nobilium valvis celebrantur apertis.  
