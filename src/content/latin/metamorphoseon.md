@@ -1,13 +1,14 @@
 ---
-titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS
+titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 1-198
 descriptio: Traductio, liber primus
 ---
 
 - [Volver a Latín](/latin)
 - [Inicio](/)
 
-# P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS
+# P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 1-198
 
+- [Liber primus](https://la.wikisource.org/wiki/Metamorphoses_(Ovidius)/Liber_I)
 - [Traducción. Liber I, 1-88](https://llatibi.wordpress.com/2018/09/17/ovidio-metamorfosis-i-1-88/)
 - [Traducción. Liber I, 89-150](https://llatibi.wordpress.com/2018/10/15/ovidio-metamorfosis-i-89-150/)
 
@@ -216,14 +217,17 @@ tum pater omnipotens misso perfregit Olympum
 fulmine et <abbr title="sacar, expulsar, sacudir o hacer caer">excussit</abbr> subiecto Pelion Ossae.               155  
 <abbr title="obruo: cubrir">obruta</abbr> mole sua cum corpora dira iacerent, 
 
-![Pelion et Ossae](https://res.cloudinary.com/dimvf1zl2/image/upload/v1730385252/maps/montes-antiguos-grecia_xac3dj.png)
+[![Pelion et Ossa](https://res.cloudinary.com/dimvf1zl2/image/upload/v1730385252/maps/montes-antiguos-grecia_xac3dj.png)](https://es.wikipedia.org/wiki/Anexo:Monta%C3%B1as_de_Grecia)
 
 perfusam multo natorum sanguine Terram  
 immaduisse ferunt calidumque animasse cruorem  
 et, ne nulla suae stirpis monimenta manerent,  
 in faciem vertisse hominum; sed et illa propago               160  
 contemptrix superum saevaeque avidissima caedis  
-et violenta fuit: scires e sanguine natos.  
+et violenta fuit: scires e sanguine natos.
+
+**El concilio de los dioses (I)**
+
      Quae pater ut summa vidit Saturnius arce,  
 ingemit et facto nondum vulgata recenti  
 <a href="https://es.wikipedia.org/wiki/Lica%C3%B3n_(mitolog%C3%ADa)#/media/Archivo:J%C3%BApiter_y_Lica%C3%B3n_(jan_Cossiers).jpg">foeda Lycaoniae referens convivia mensae</a>               165  
@@ -242,23 +246,30 @@ caelicolae clarique suos posuere penates;
 hic locus est, quem, si verbis audacia detur,               175  
 haud timeam magni dixisse Palatia caeli.  
      Ergo ubi marmoreo superi sedere recessu,  
-celsior ipse loco sceptroque innixus eburno  
+celsior ipse loco <abbr title="sceptrum: cetro">sceptroque</abbr> <abbr title="innitor: apoyarse en">innixus</abbr> eburno  
 terrificam capitis concussit terque quaterque  
 caesariem, cum qua terram, mare, sidera movit.               180  
 talibus inde modis ora indignantia solvit:  
 'non ego pro mundi regno magis anxius illa  
 tempestate fui, qua centum quisque parabat  
-inicere anguipedum captivo bracchia caelo.  
+<abbr title="ineco: echar, extender">inicere</abbr> anguipedum captivo bracchia caelo.  
+
+![Gigantomaquia](/gigantomachia.jpg)
+
 nam quamquam ferus hostis erat, tamen illud ab uno               185  
 corpore et ex una pendebat origine bellum;  
-nunc mihi qua totum Nereus circumsonat orbem,  
+nunc mihi qua totum <a href="https://es.wikipedia.org/wiki/Nereo">Nereus</a> circumsonat orbem,  
 perdendum est mortale genus: per flumina iuro  
 infera sub terras Stygio labentia luco!  
 cuncta prius temptanda, sed inmedicabile curae               190  
 ense recidendum, ne pars sincera trahatur.  
-sunt mihi semidei, sunt, rustica numina, nymphae  
-faunique satyrique et monticolae silvani;  
+sunt mihi semidei, sunt, rustica numina, nymphae   
+faunique satyrique et monticolae silvani;    
 quos quoniam caeli nondum dignamur honore,  
+quas dedimus, certe terras habitare sinamus.               195   
+an satis, o superi, tutos fore creditis illos,  
+cum mihi, qui fulmen, qui vos habeoque regoque,  
+struxerit insidias notus feritate Lycaon?'    
 
 
 
