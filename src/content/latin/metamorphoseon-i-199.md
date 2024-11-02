@@ -51,8 +51,8 @@ an sit mortalis: nec erit dubitabile verum."
 nocte gravem somno necopina perdere morte  
 comparat: haec illi placet experientia veri; <sup class="text-[.5em] text-gray-400">225</sup>  
 nec contentus eo, missi de gente Molossa  
-obsidis unius iugulum mucrone resolvit  
-atque ita semineces partim ferventibus artus  
+<abbr title="obses -sidis m. y f.: rehén de guerra">obsidis</abbr> unius iugulum <abbr title="mucro -onis m: punta; espada">mucrone</abbr> resolvit  
+atque ita <abbr title="seminex, -necis: medio muerto">semineces</abbr> partim ferventibus artus  
 mollit aquis, partim subiecto torruit igni.  
 quod simul inposuit mensis, ego vindice flamma <sup class="text-[.5em] text-gray-400">230</sup>  
 in domino dignos everti tecta penates;  
