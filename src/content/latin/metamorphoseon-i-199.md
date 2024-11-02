@@ -26,6 +26,8 @@ Iuppiter hoc iterum sermone silentia rupit:
 
 **Licaón**
 
+[![Cossiers Jupiter and Lycaon](https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1730585940/latin/J%C3%BApiter_y_Lica%C3%B3n__jan_Cossiers_pxnuxw.jpg)](https://www.greekmythologyinart.com/jupiter-and-lycaon-cossiers.html)
+
 'ille quidem poenas (curam hanc dimittite!) solvit;  
 quod tamen admissum, quae sit vindicta, docebo. <sup class="text-[.5em] text-gray-400">210</sup>  
 contigerat nostras infamia temporis aures;  
@@ -40,7 +42,7 @@ Arcadis hinc sedes et inhospita tecta tyranni
 
 > En este fragmento, el narrador (presumiblemente Júpiter) describe su viaje por las tierras de Arcadia, una región conocida por sus densos bosques y montañas salvajes. Este es el escenario en el que Júpiter se aproxima al hogar del tirano Licaón, un rey conocido por su impiedad y crueldad. La atmósfera es oscura y siniestra, lo que presagia el encuentro que tendrá lugar y el castigo que Júpiter decidirá imponer. Ver en el mapa Mélano, Cyllene y Liceo (Arcadia).
 
-![Pelion et Ossa](https://res.cloudinary.com/dimvf1zl2/image/upload/v1730385252/maps/montes-antiguos-grecia_xac3dj.png)
+![Mélano, Cyllene y Liceo](https://res.cloudinary.com/dimvf1zl2/image/upload/v1730385252/maps/montes-antiguos-grecia_xac3dj.png)
 
 signa dedi venisse deum, vulgusque precari <sup class="text-[.5em] text-gray-400">220</sup>  
 coeperat: inridet primo pia vota Lycaon,  
