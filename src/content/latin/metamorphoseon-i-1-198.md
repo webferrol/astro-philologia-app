@@ -21,12 +21,12 @@ ad mea perpetuum deducite tempora carmen!
 
 **Mundi origo**
 
-     Ante mare et terras et quod tegit omnia caelum               5  
+     Ante mare et terras et quod tegit omnia caelum <sup class="text-[.5em] text-gray-400">5</sup>  
 unus erat toto naturae vultus in orbe,  
 quem dixere chaos: rudis indigestaque moles  
 nec quicquam nisi pondus iners congestaque eodem  
 non bene iunctarum discordia semina rerum.  
-nullus adhuc mundo praebebat lumina Titan,          10  
+nullus adhuc mundo praebebat lumina Titan, <sup class="text-[.5em] text-gray-400">10</sup>  
 nec nova crescendo reparabat cornua Phoebe,  
 
 <figure>
@@ -43,42 +43,42 @@ margine terrarum porrexerat Amphitrite;
     <figcaption>margine terrarum porrexerat <a href="https://es.wikipedia.org/wiki/Anfitrite">Amphitrite</a>;</figcaption>
 </figure> 
 
-utque erat et tellus illic et pontus et aer,               15  
+utque erat et tellus illic et pontus et aer, <sup class="text-[.5em] text-gray-400">15</sup>  
 sic erat instabilis tellus, innabilis unda,  
 lucis egens aer; nulli sua forma manebat,  
 obstabatque aliis aliud, quia corpore in uno  
 frigida pugnabant calidis, umentia siccis,  
-mollia cum duris, sine pondere, habentia pondus.               20  
+mollia cum duris, sine pondere, habentia pondus. <sup class="text-[.5em] text-gray-400">20</sup>  
      Hanc deus et melior litem natura diremit.  
 nam caelo terras et terris abscidit undas  
 et liquidum spisso secrevit ab aere caelum.  
 quae postquam evolvit caecoque exemit acervo,  
-dissociata locis concordi pace ligavit:               25  
+dissociata locis concordi pace ligavit: <sup class="text-[.5em] text-gray-400">25</sup>  
 ignea convexi vis et sine pondere caeli  
 emicuit summaque locum sibi fecit in arce;  
 proximus est aer illi levitate locoque;  
 densior his tellus elementaque grandia traxit  
-et pressa est gravitate sua; circumfluus umor               30  
+et pressa est gravitate sua; circumfluus umor <sup class="text-[.5em] text-gray-400">30</sup>  
 ultima possedit solidumque coercuit orbem.  
      Sic ubi dispositam quisquis fuit ille deorum  
 congeriem secuit sectamque in membra coegit,  
 principio terram, ne non aequalis ab omni  
-parte foret, magni speciem glomeravit in orbis.               35  
+parte foret, magni speciem glomeravit in orbis. <sup class="text-[.5em] text-gray-400">35</sup>  
 tum freta diffundi rapidisque tumescere ventis  
 iussit et ambitae circumdare litora terrae;  
 addidit et fontes et stagna inmensa lacusque  
 fluminaque obliquis cinxit declivia ripis,  
-quae, diversa locis, partim sorbentur ab ipsa,               40  
+quae, diversa locis, partim sorbentur ab ipsa, <sup class="text-[.5em] text-gray-400">40</sup>  
 in mare perveniunt partim campoque recepta  
 liberioris aquae pro ripis litora pulsant.  
 iussit et extendi campos, subsidere valles,  
 fronde tegi silvas, lapidosos surgere montes,  
-utque duae dextra caelum totidemque sinistra               45  
+utque duae dextra caelum totidemque sinistra <sup class="text-[.5em] text-gray-400">45</sup>  
 parte secant zonae, quinta est ardentior illis,  
 sic onus inclusum numero distinxit eodem  
 cura dei, totidemque plagae tellure premuntur.  
 quarum quae media est, non est habitabilis aestu;  
-nix tegit alta duas; totidem inter utramque locavit               50  
+nix tegit alta duas; totidem inter utramque locavit <sup class="text-[.5em] text-gray-400">50</sup>  
 temperiemque dedit mixta cum frigore flamma.  
 
 <figure>
@@ -89,37 +89,37 @@ temperiemque dedit mixta cum frigore flamma.
      Inminet his aer, qui, quanto est pondere terrae  
 pondus aquae levius, tanto est onerosior igni.  
 illic et nebulas, illic consistere nubes
-iussit et humanas motura tonitrua mentes               55  
+iussit et humanas motura tonitrua mentes <sup class="text-[.5em] text-gray-400">55</sup>  
 et <a href="https://blogcatedranaval.com/2016/09/27/la-torre-de-los-vientos-de-atenas/">cum fulminibus facientes fulgura ventos</a>.  
      His quoque non passim mundi fabricator habendum  
 aera permisit; vix nunc obsistitur illis,  
 cum sua quisque regat diverso flamina tractu,  
-quin lanient mundum; tanta est discordia fratrum.               60  
+quin lanient mundum; tanta est discordia fratrum. <sup class="text-[.5em] text-gray-400">60</sup>  
 <a href="https://www.ecured.cu/Euro_(Mitolog%C3%ADa_griega)">Eurus</a> ad Auroram <a href="https://es.wikipedia.org/wiki/Nabateos">Nabataeaque</a> regna recessit  
 Persidaque et radiis iuga subdita matutinis;  
 vesper et occiduo quae litora sole <a href="http://www.perseus.tufts.edu/hopper/morph?l=tepescunt&la=la&can=tepescunt0&prior=sole">tepescunt</a>,  
 proxima sunt Zephyro; Scythiam septemque triones  
-horrifer invasit Boreas; contraria tellus               65  
+horrifer invasit Boreas; contraria tellus <sup class="text-[.5em] text-gray-400">65</sup>  
 nubibus adsiduis pluviaque madescit ab Austro.  
 haec super inposuit liquidum et gravitate carentem  
 aethera nec quicquam terrenae faecis habentem.  
      Vix ita limitibus dissaepserat omnia certis,  
-cum, quae pressa diu fuerant caligine caeca,               70  
+cum, quae pressa diu fuerant caligine caeca, <sup class="text-[.5em] text-gray-400">70</sup>  
 sidera coeperunt toto effervescere caelo;  
 neu regio foret ulla suis animalibus orba,  
 astra tenent caeleste solum formaeque deorum,  
 cesserunt nitidis habitandae piscibus undae,  
-terra feras cepit, volucres agitabilis aer.               75  
+terra feras cepit, volucres agitabilis aer. <sup class="text-[.5em] text-gray-400">75</sup>  
      Sanctius his animal mentisque capacius altae  
 deerat adhuc et quod dominari in cetera posset:  
 natus homo est, sive hunc divino semine fecit  
 ille opifex rerum, mundi melioris origo,  
-sive recens tellus seductaque nuper ab alto               80  
+sive recens tellus seductaque nuper ab alto <sup class="text-[.5em] text-gray-400">80</sup>  
 aethere cognati retinebat semina caeli.  
 quam satus Iapeto, mixtam pluvialibus undis,  
 finxit in effigiem moderantum cuncta deorum,  
 pronaque cum spectent animalia cetera terram,  
-os homini sublime dedit caelumque videre               85  
+os homini sublime dedit caelumque videre <sup class="text-[.5em] text-gray-400">85</sup>  
 iussit et erectos ad sidera tollere vultus:  
 sic, modo quae fuerat rudis et sine imagine, tellus  
 induit ignotas hominum conversa figuras.  
@@ -127,7 +127,7 @@ induit ignotas hominum conversa figuras.
 **Quattuor aetates**
 
      Aurea prima sata est aetas, quae vindice nullo,  
-sponte sua, sine lege fidem rectumque colebat.               90  
+sponte sua, sine lege fidem rectumque colebat. <sup class="text-[.5em] text-gray-400">90</sup>  
 poena metusque aberant, nec verba minantia fixo  
 aere legebantur, nec supplex turba timebat  
 iudicis ora sui, sed erant sine vindice tuti. 
@@ -135,7 +135,7 @@ iudicis ora sui, sed erant sine vindice tuti.
 ![Fixus aer](/fixus-aer.jpeg)
 
 nondum caesa suis, peregrinum ut viseret orbem,  
-montibus in liquidas pinus descenderat undas,               95  
+montibus in liquidas pinus descenderat undas,<sup class="text-[.5em] text-gray-400">95</sup>  
 nullaque mortales praeter sua litora norant;  
 nondum praecipites cingebant oppida fossae;  
 non tuba derecti, non aeris cornua flexi,  
@@ -143,27 +143,27 @@ non tuba derecti, non aeris cornua flexi,
 ![tuba derecti ... aeris cornua flexi](/tuba-cornua-hydraulis.webp)
 
 non galeae, non ensis erat: sine militis usu  
-mollia securae peragebant otia gentes.               100  
+mollia securae peragebant otia gentes. <sup class="text-[.5em] text-gray-400">100</sup>  
 ipsa quoque inmunis rastroque intacta nec ullis  
 saucia vomeribus per se dabat omnia tellus,  
 contentique cibis nullo cogente creatis  
 arbuteos fetus montanaque fraga legebant  
-cornaque et in duris haerentia mora rubetis               105  
+cornaque et in duris haerentia mora rubetis <sup class="text-[.5em] text-gray-400">105</sup>  
 et quae deciderant patula Iovis arbore glandes.  
 ver erat aeternum, placidique tepentibus auris  
 mulcebant zephyri natos sine semine flores;  
 mox etiam fruges tellus inarata ferebat,  
-nec renovatus ager gravidis canebat aristis;               110  
+nec renovatus ager gravidis canebat aristis; <sup class="text-[.5em] text-gray-400">110</sup>  
 flumina iam lactis, iam flumina nectaris ibant,  
 flavaque de viridi stillabant ilice mella.  
      Postquam Saturno tenebrosa in Tartara misso  
 sub Iove mundus erat, subiit argentea proles,  
-auro deterior, fulvo pretiosior aere.               115  
+auro deterior, fulvo pretiosior aere. <sup class="text-[.5em] text-gray-400">115</sup>  
 Iuppiter antiqui contraxit tempora veris  
 perque hiemes aestusque et inaequalis autumnos  
 et breve ver spatiis exegit quattuor annum.  
 tum primum siccis aer fervoribus ustus  
-canduit, et ventis glacies adstricta pependit;               120  
+canduit, et ventis glacies adstricta pependit; <sup class="text-[.5em] text-gray-400">120</sup>  
 tum primum <abbr title="subeo, subire, subii/subivi, subitum: 3ª plural	subierunt o subiere (forma poética)">subiere</abbr> domos; domus antra fuerunt  
 et densi <abbr title="Matorral">frutices</abbr> et vinctae cortice virgae.  
 
@@ -176,12 +176,12 @@ et densi frutices et vinctae cortice virgae</figcaption>
 
 semina tum primum longis Cerealia sulcis  
 obruta sunt, pressique iugo gemuere iuvenci.  
-     Tertia post illam successit aenea proles,               125  
+     Tertia post illam successit aenea proles, <sup class="text-[.5em] text-gray-400">125</sup>  
 saevior ingeniis et ad horrida promptior arma,  
 non scelerata tamen; de duro est ultima ferro.  
 <abbr title="inmmediatemente">protinus</abbr> inrupit venae peioris <abbr title="para siempre">in aevum</abbr>  
 omne nefas: fugere pudor verumque fidesque;  
-in quorum subiere locum fraudesque dolusque               130  
+in quorum subiere locum fraudesque dolusque <sup class="text-[.5em] text-gray-400">130</sup>  
 insidiaeque et vis et amor sceleratus habendi.  
 vela dabant ventis nec adhuc bene noverat illos  
 navita, quaeque prius steterant in montibus altis,  
@@ -189,22 +189,22 @@ fluctibus ignotis <abbr title="brincar">insultavere</abbr> carinae,
 
 ![Carina](/carina.webp)
 
-communemque prius ceu lumina solis et auras               135  
+communemque prius ceu lumina solis et auras <sup class="text-[.5em] text-gray-400">135</sup>  
 cautus humum longo signavit limite <abbr title="Agrimensor">mensor</abbr>.  
 nec tantum segetes alimentaque debita dives  
 poscebatur humus, sed itum est in viscera terrae,  
 quasque recondiderat <a href="https://es.wikipedia.org/wiki/Estigia_(r%C3%ADo)">Stygiisque admoverat umbris</a>,  
-effodiuntur opes, <abbr title="estímulo">inritamenta</abbr> malorum.               140    
+effodiuntur opes, <abbr title="estímulo">inritamenta</abbr> malorum. <sup class="text-[.5em] text-gray-400">140</sup>    
 iamque nocens ferrum ferroque nocentius aurum  
 prodierat, prodit bellum, quod pugnat utroque,  
 sanguineaque manu crepitantia <abbr title="concutio: verb 3rd sg pres ind act; to strike together">concutit</abbr> arma.  
 vivitur ex rapto: non <abbr title="La palabra latina 'hospes' se traduce al español como 'huésped' o 'anfitrión', dependiendo del contexto. En latín, 'hospes' tiene un significado amplio y puede referirse tanto a la persona que recibe (anfitrión) como a la persona que es recibida o alojada (huésped).">hospes ab hospite</abbr> tutus,  
-non socer a genero, fratrum quoque gratia rara est;               145  
+non socer a genero, fratrum quoque gratia rara est; <sup class="text-[.5em] text-gray-400">145</sup>  
 inminet exitio vir coniugis, illa mariti,  
 lurida terribiles miscent <a href="https://es.wikipedia.org/wiki/Aconitum">aconita</a> novercae,  
 filius ante diem patrios inquirit in annos:  
 victa iacet pietas, et virgo caede madentis  
-ultima caelestum terras <a href="https://es.wikipedia.org/wiki/Dice">Astraea</a> reliquit.               150  
+ultima caelestum terras <a href="https://es.wikipedia.org/wiki/Dice">Astraea</a> reliquit. <sup class="text-[.5em] text-gray-400">150</sup>  
 
 ![Astrea abandona la tierra del año 1665. Salvator Rosa](/astrea.webp)
 
@@ -214,7 +214,7 @@ ultima caelestum terras <a href="https://es.wikipedia.org/wiki/Dice">Astraea</a>
 adfectasse ferunt regnum caeleste gigantas  
 altaque congestos struxisse ad sidera montis.  
 tum pater omnipotens misso perfregit Olympum  
-fulmine et <abbr title="sacar, expulsar, sacudir o hacer caer">excussit</abbr> subiecto Pelion Ossae.               155  
+fulmine et <abbr title="sacar, expulsar, sacudir o hacer caer">excussit</abbr> subiecto Pelion Ossae. <sup class="text-[.5em] text-gray-400">155</sup>  
 <abbr title="obruo: cubrir">obruta</abbr> mole sua cum corpora dira iacerent, 
 
 [![Pelion et Ossa](https://res.cloudinary.com/dimvf1zl2/image/upload/v1730385252/maps/montes-antiguos-grecia_xac3dj.png)](https://es.wikipedia.org/wiki/Anexo:Monta%C3%B1as_de_Grecia)
@@ -222,7 +222,7 @@ fulmine et <abbr title="sacar, expulsar, sacudir o hacer caer">excussit</abbr> s
 perfusam multo natorum sanguine Terram  
 immaduisse ferunt calidumque animasse cruorem  
 et, ne nulla suae stirpis monimenta manerent,  
-in faciem vertisse hominum; sed et illa propago               160  
+in faciem vertisse hominum; sed et illa propago <sup class="text-[.5em] text-gray-400">160</sup>  
 contemptrix superum saevaeque avidissima caedis  
 et violenta fuit: scires e sanguine natos.
 
@@ -230,7 +230,7 @@ et violenta fuit: scires e sanguine natos.
 
      Quae pater ut summa vidit Saturnius arce,  
 ingemit et facto nondum vulgata recenti  
-<a href="https://es.wikipedia.org/wiki/Lica%C3%B3n_(mitolog%C3%ADa)#/media/Archivo:J%C3%BApiter_y_Lica%C3%B3n_(jan_Cossiers).jpg">foeda Lycaoniae referens convivia mensae</a>               165  
+<a href="https://es.wikipedia.org/wiki/Lica%C3%B3n_(mitolog%C3%ADa)#/media/Archivo:J%C3%BApiter_y_Lica%C3%B3n_(jan_Cossiers).jpg">foeda Lycaoniae referens convivia mensae</a> <sup class="text-[.5em] text-gray-400">165</sup>  
 ingentes animo et dignas Iove concipit iras  
 conciliumque vocat: tenuit mora nulla vocatos.  
      Est via sublimis, caelo manifesta sereno;  
@@ -238,17 +238,17 @@ lactea nomen habet, candore notabilis ipso.
 
 ![Nacimiento de la Vía Láctea de Rubens](/nacimiento-via-lactea-rubens.jpg)
 
-hac iter est superis ad magni tecta Tonantis               170  
+hac iter est superis ad magni tecta Tonantis <sup class="text-[.5em] text-gray-400">170</sup>  
 regalemque domum: dextra laevaque deorum  
 atria nobilium valvis celebrantur apertis.  
 plebs habitat diversa locis: hac parte potentes  
 caelicolae clarique suos posuere penates;  
-hic locus est, quem, si verbis audacia detur,               175  
+hic locus est, quem, si verbis audacia detur, <sup class="text-[.5em] text-gray-400">175</sup>  
 haud timeam magni dixisse Palatia caeli.  
      Ergo ubi marmoreo superi sedere recessu,  
 celsior ipse loco <abbr title="sceptrum: cetro">sceptroque</abbr> <abbr title="innitor: apoyarse en">innixus</abbr> eburno  
 terrificam capitis concussit terque quaterque  
-caesariem, cum qua terram, mare, sidera movit.               180  
+caesariem, cum qua terram, mare, sidera movit. <sup class="text-[.5em] text-gray-400">180</sup>  
 talibus inde modis ora indignantia solvit:  
 'non ego pro mundi regno magis anxius illa  
 tempestate fui, qua centum quisque parabat  
@@ -256,22 +256,23 @@ tempestate fui, qua centum quisque parabat
 
 ![Gigantomaquia](/gigantomachia.jpg)
 
-nam quamquam ferus hostis erat, tamen illud ab uno               185  
+nam quamquam ferus hostis erat, tamen illud ab uno <sup class="text-[.5em] text-gray-400">185</sup>  
 corpore et ex una pendebat origine bellum;  
 nunc mihi qua totum <a href="https://es.wikipedia.org/wiki/Nereo">Nereus</a> circumsonat orbem,  
 perdendum est mortale genus: per flumina iuro  
 infera sub terras Stygio labentia luco!  
-cuncta prius temptanda, sed inmedicabile curae               190  
+cuncta prius temptanda, sed inmedicabile curae <sup class="text-[.5em] text-gray-400">190</sup>  
 ense recidendum, ne pars sincera trahatur.  
 sunt mihi semidei, sunt, rustica numina, nymphae   
 faunique satyrique et monticolae silvani;    
 quos quoniam caeli nondum dignamur honore,  
-quas dedimus, certe terras habitare sinamus.               195   
+quas dedimus, certe terras habitare sinamus. <sup class="text-[.5em] text-gray-400">195</sup>   
 an satis, o superi, tutos fore creditis illos,  
 cum mihi, qui fulmen, qui vos habeoque regoque,  
 struxerit insidias notus feritate Lycaon?'    
 
 
+[Siguiente](metamorphoseon-i-199)
 
 
 # Derivadas
