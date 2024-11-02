@@ -15,22 +15,33 @@ talia deposcunt: sic, cum manus inpia saevit <sup class="text-[.5em] text-gray-4
 sanguine Caesareo Romanum exstinguere nomen,  
 attonitum tantae subito terrore ruinae  
 humanum genus est totusque perhorruit orbis;  
+
+> Este pasaje parece referirse al horror que causó el asesinato de Julio César y la conmoción que generó en toda la humanidad. Ovidio utiliza este evento histórico para resaltar el impacto global de un acto de violencia tan significativo. Además, se muestra cómo la caída de una figura central de Roma provocó el temor y el desconcierto no solo entre los romanos, sino en todo el "orbe", o mundo conocido.
+
 nec tibi grata minus pietas, Auguste, tuorum  
 quam fuit illa Iovi. qui postquam voce manuque <sup class="text-[.5em] text-gray-400">205</sup>    
 murmura conpressit, tenuere silentia cuncti.   
 substitit ut clamor pressus gravitate regentis,  
 Iuppiter hoc iterum sermone silentia rupit:  
+
+**Licaón**
+
 'ille quidem poenas (curam hanc dimittite!) solvit;  
 quod tamen admissum, quae sit vindicta, docebo. <sup class="text-[.5em] text-gray-400">210</sup>  
 contigerat nostras infamia temporis aures;  
-quam cupiens falsam summo delabor Olympo  
-et deus humana lustro sub imagine terras.  
-longa mora est, quantum noxae sit ubique repertum,  
+quam cupiens falsam summo <abbr title="delabor -lapsus sum dep. 3 intr: caer">delabor</abbr> Olympo  
+et deus humana <abbr title="lustro 1 tr: lustrar, purificar">lustro</abbr> sub imagine terras.  
+longa mora est, quantum <abbr title="noxa, ae f. daño, delito, falta, crimen">noxae</abbr> sit ubique repertum,  
 enumerare: minor fuit ipsa infamia vero. <sup class="text-[.5em] text-gray-400">215</sup>  
-Maenala transieram latebris horrenda ferarum  
+Maenala transieram <abbr title="latebra, ae f. cueva">latebris</abbr> horrenda ferarum  
 et cum Cyllene gelidi pineta Lycaei:  
 Arcadis hinc sedes et inhospita tecta tyranni  
-ingredior, traherent cum sera crepuscula noctem.  
+<abbr title="ingredior -gressus sum dep. 3 trans: entrar en, penetrar">ingredior</abbr>, traherent cum <abbr title="crespusculum -i n. crepúsculo vespertinos. Los tardíos crepúsculos (aquí sujeto)">sera crepuscula</abbr> noctem. 
+
+> En este fragmento, el narrador (presumiblemente Júpiter) describe su viaje por las tierras de Arcadia, una región conocida por sus densos bosques y montañas salvajes. Este es el escenario en el que Júpiter se aproxima al hogar del tirano Licaón, un rey conocido por su impiedad y crueldad. La atmósfera es oscura y siniestra, lo que presagia el encuentro que tendrá lugar y el castigo que Júpiter decidirá imponer. Ver en el mapa Mélano, Cyllene y Liceo (Arcadia).
+
+![Pelion et Ossa](https://res.cloudinary.com/dimvf1zl2/image/upload/v1730385252/maps/montes-antiguos-grecia_xac3dj.png)
+
 signa dedi venisse deum, vulgusque precari <sup class="text-[.5em] text-gray-400">220</sup>  
 coeperat: inridet primo pia vota Lycaon,  
 mox ait "experiar deus hic discrimine aperto   
@@ -57,4 +68,4 @@ in facinus iurasse putes! dent ocius omnes,
 quas meruere pati, (sic stat sententia) poenas.'  
 
 
-[Anterior](metamorphoseon-i-1-198)
+[Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-1-198/)
