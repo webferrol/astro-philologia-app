@@ -65,14 +65,24 @@ fit lupus et veteris servat vestigia formae;
 <abbr title="canicie, o pelo de color gris">canities</abbr> eadem est, eadem violentia vultus,  
 idem oculi lucent, eadem feritatis imago est.  
 <abbr title="occido: matar. Pero en este contexto es caer">occidit</abbr> una domus, sed non domus una perire <sup class="text-[.5em] text-gray-400">240</sup>  
-digna fuit: qua terra patet, fera regnat Erinys.  
+digna fuit: qua terra patet, fera regnat <a href="https://es.wikipedia.org/wiki/Erinias">Erinys</a>.  
 
-> Erinys (en plural, Erinyes) es un término de la mitología griega que se refiere a las Erinias, también conocidas como las Furias. Estas deidades son representadas como entidades vengadoras que castigan a aquellos que cometen crímenes, especialmente los delitos relacionados con la familia, como el parricidio o el incesto. Su nombre proviene de la raíz griega que significa "ira" o "venganza".
+> Erinys (en plural, Erinyes) es un término de la mitología griega que se refiere a las Erinias, también conocidas como las Furias. Estas deidades son representadas como entidades vengadoras que castigan a aquellos que cometen crímenes, especialmente los delitos relacionados con la familia, como el parricidio o el incesto. Su nombre proviene de la raíz griega que significa "ira" o "venganza" (en griego antiguo Έρινύες Erinýes).
 
 in <abbr title="facinus, oris n: acto; crimen">facinus</abbr> iurasse putes! dent ocius omnes,  
 quas meruere pati, (sic stat sententia) poenas.' 
 
 **El concilio de los dioses (II)**
+
+Dicta Iovis pars voce probant stimulosque frementi  
+adiciunt, alii partes adsensibus inplent. <sup class="text-[.5em] text-gray-400">245</sup>  
+est tamen humani generis iactura dolori  
+omnibus, et quae sit terrae mortalibus orbae  
+forma futura rogant, quis sit laturus in aras  
+tura, ferisne paret populandas tradere terras.  
+talia quaerentes (sibi enim fore cetera curae) <sup class="text-[.5em] text-gray-400">250</sup>  
+rex superum trepidare vetat subolemque priori  
+dissimilem populo promittit origine mira.  
 
 
 [Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-1-198/)
