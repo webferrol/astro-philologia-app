@@ -48,26 +48,31 @@ signa dedi venisse deum, vulgusque precari <sup class="text-[.5em] text-gray-400
 coeperat: inridet primo pia vota Lycaon,  
 mox ait "experiar deus hic discrimine aperto   
 an sit mortalis: nec erit dubitabile verum."  
-nocte gravem somno necopina perdere morte  
+nocte gravem somno <abbr title="inopinado: que sucede sin haber pensado en ello, inesperado">necopina</abbr> perdere morte  
 comparat: haec illi placet experientia veri; <sup class="text-[.5em] text-gray-400">225</sup>  
 nec contentus eo, missi de gente Molossa  
 <abbr title="obses -sidis m. y f.: rehén de guerra">obsidis</abbr> unius iugulum <abbr title="mucro -onis m: punta; espada">mucrone</abbr> resolvit  
 atque ita <abbr title="seminex, -necis: medio muerto">semineces</abbr> partim ferventibus artus  
 mollit aquis, partim subiecto torruit igni.  
 quod simul inposuit mensis, ego vindice flamma <sup class="text-[.5em] text-gray-400">230</sup>  
-in domino dignos everti tecta penates;  
+in domino dignos <abbr title="destruír">everti</abbr> tecta penates;  
 territus ipse fugit nactusque silentia ruris  
 exululat frustraque loqui conatur: ab ipso  
 colligit os rabiem solitaeque cupidine caedis  
 vertitur in pecudes et nunc quoque sanguine gaudet. <sup class="text-[.5em] text-gray-400">235</sup>   
-in villos abeunt vestes, in crura lacerti:  
+in <abbr title="vellones, mechones de pelo">villos</abbr> abeunt vestes, in <abbr title="crus, -uris n. pierna">crura</abbr> <abbr title="lacertus, i m parte muscular de un brazo, brazo">lacerti</abbr>:  
 fit lupus et veteris servat vestigia formae;  
-canities eadem est, eadem violentia vultus,  
+<abbr title="canicie, o pelo de color gris">canities</abbr> eadem est, eadem violentia vultus,  
 idem oculi lucent, eadem feritatis imago est.  
-occidit una domus, sed non domus una perire <sup class="text-[.5em] text-gray-400">240</sup>  
+<abbr title="occido: matar. Pero en este contexto es caer">occidit</abbr> una domus, sed non domus una perire <sup class="text-[.5em] text-gray-400">240</sup>  
 digna fuit: qua terra patet, fera regnat Erinys.  
-in facinus iurasse putes! dent ocius omnes,  
-quas meruere pati, (sic stat sententia) poenas.'  
+
+> Erinys (en plural, Erinyes) es un término de la mitología griega que se refiere a las Erinias, también conocidas como las Furias. Estas deidades son representadas como entidades vengadoras que castigan a aquellos que cometen crímenes, especialmente los delitos relacionados con la familia, como el parricidio o el incesto. Su nombre proviene de la raíz griega que significa "ira" o "venganza".
+
+in <abbr title="facinus, oris n: acto; crimen">facinus</abbr> iurasse putes! dent ocius omnes,  
+quas meruere pati, (sic stat sententia) poenas.' 
+
+**El concilio de los dioses (II)**
 
 
 [Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-1-198/)
