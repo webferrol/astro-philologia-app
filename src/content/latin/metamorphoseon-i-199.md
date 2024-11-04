@@ -87,31 +87,75 @@ dissimilem populo promittit origine mira.
 **El dilubio**
 
 Iamque erat in totas sparsurus fulmina terras;  
-sed timuit, ne forte sacer tot ab ignibus aether  
-conciperet flammas longusque ardesceret axis: <sup class="text-[.5em] text-gray-400">255</sup>  
-esse quoque in fatis reminiscitur, adfore tempus,  
+sed timuit, ne [forte](#forte) sacer tot ab ignibus aether  
+<abbr title="inflamara">conciperet flammas</abbr> longusque ardesceret axis: <sup class="text-[.5em] text-gray-400">255</sup>  
+esse quoque in fatis reminiscitur, [adfore](#adfore) tempus,  
 quo mare, quo tellus correptaque regia caeli  
-ardeat et mundi moles obsessa laboret.  
-tela reponuntur manibus fabricata cyclopum;  
+ardeat et mundi moles [obsessa](#obsessa) laboret.  
+tela reponuntur manibus fabricata cyclopum; 
+
+![Hefestus et Cyclopes](/hefesto-ciclopes-pompeya.webp)
+
 poena placet diversa, genus mortale sub undis <sup class="text-[.5em] text-gray-400">260</sup>  
-perdere et ex omni nimbos demittere caelo.  
-Protinus Aeoliis Aquilonem claudit in antris  
-et quaecumque fugant inductas flamina nubes  
+perdere et ex omni [nimbos](#nimbos) demittere caelo.  
+Protinus Aeoliis <a href="https://es.wikipedia.org/wiki/B%C3%B3reas">Aquilonem</a> claudit in antris  
+
+> Eolio hace referencia a Eolo, quien es el dios de los vientos en la mitología griega y romana. Eolo es conocido como el gobernante y guardián de los vientos, y su dominio se extiende a los distintos vientos cardinales, incluidos Aquilón (Bóreas) del norte, Noto del sur, Céfiro del oeste y Euro del este.
+
+et quaecumque fugant inductas [flamina](#flamina) nubes  
 emittitque Notum. madidis Notus evolat alis,  
-terribilem picea tectus caligine vultum; <sup class="text-[.5em] text-gray-400">265</sup>  
-barba gravis nimbis, canis fluit unda capillis;  
+terribilem [picea](#picea) tectus caligine vultum; <sup class="text-[.5em] text-gray-400">265</sup>  
+barba gravis nimbis, canis fluit unda capillis;
+
+[![Notus. Viento del sur](/notus.webp)](https://historia.nationalgeographic.com.es/a/torre-vientos-atenas-primera-estacion-meteorologica-historia_10612)
+
 fronte sedent nebulae, rorant pennaeque sinusque.  
 utque manu lata pendentia nubila pressit,  
 fit fragor: hinc densi funduntur ab aethere nimbi;  
 nuntia Iunonis varios induta colores <sup class="text-[.5em] text-gray-400">270</sup>  
-concipit Iris aquas alimentaque nubibus adfert.  
-sternuntur segetes et deplorata coloni  
-vota iacent, longique perit labor inritus anni.  
+concipit <a href="https://es.wikipedia.org/wiki/Iris_(mitolog%C3%ADa)">Iris</a> aquas alimentaque nubibus adfert.  
+[sternuntur](#sternentur) segetes et deplorata coloni  
+vota iacent, longique perit labor [inritus](#inritus) anni. 
+Nec caelo contenta suo est Iovis ira, sed illum  
+caeruleus frater iuvat auxiliaribus undis. <sup class="text-[.5em] text-gray-400">275</sup>  
+convocat hic amnes: qui postquam tecta tyranni  
+intravere sui, 'non est hortamine longo  
+nunc' ait 'utendum; vires effundite vestras:  
+sic opus est! aperite domos ac mole remota  
+fluminibus vestris totas inmittite habenas!' <sup class="text-[.5em] text-gray-400">280</sup>  
+iusserat; hi redeunt ac fontibus ora relaxant  
+et defrenato volvuntur in aequora cursu.  
+Ipse tridente suo terram percussit, at illa  
+intremuit motuque vias patefecit aquarum.  
+exspatiata ruunt per apertos flumina campos <sup class="text-[.5em] text-gray-400">285</sup>  
+cumque satis arbusta simul pecudesque virosque  
+tectaque cumque suis rapiunt penetralia sacris.  
+si qua domus mansit potuitque resistere tanto  
+indeiecta malo, culmen tamen altior huius  
+unda tegit, pressaeque latent sub gurgite turres. <sup class="text-[.5em] text-gray-400">290</sup>  
+iamque mare et tellus nullum discrimen habebant:  
+omnia pontus erat, derant quoque litora ponto.   
 
 
 [Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-1-198/)
 
 ## Lexicon
+
+### a
+
+#### adfore
+
+Infinitivo de futuro de adsum estar prensete, venir
+
+### f
+
+#### flamina
+
+flamen -inis m: flamen (sacerdote romano); soplo, aliento; viento brisa
+
+#### forte
+
+forte adv. Por casualidad
 
 ### i
 
@@ -119,13 +163,37 @@ vota iacent, longique perit labor inritus anni.
 
 iactura, ae f. pérdida, perjuicio
 
+#### inritus
+
+inritus a um (in, ratus) no decidido, nulo, vano, inútil
+
+### n
+
+#### nimbos
+
+nimbus, i m. lluvia torrencial
+
 ### o
 
 #### occidit
 
 occido: matar. Pero en este contexto es caer
 
+#### obsessa
+
+obsideo -sedi -sessum 2 (ob, sedeo) INTR: estar sentado; habitar; asediar; ocupar, tomar
+
+### p
+
+#### picea
+
+piceus a um: de pez; negro como la pez, oscuro, tenebroso
+
 ### s 
+
+#### sternentur
+
+sterno stravi stratum: tender; echarse en el suelo; hacer caer derribar
 
 #### subolemque
 
