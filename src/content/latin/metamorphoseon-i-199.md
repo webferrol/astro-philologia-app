@@ -64,7 +64,7 @@ in <abbr title="vellones, mechones de pelo">villos</abbr> abeunt vestes, in <abb
 fit lupus et veteris servat vestigia formae;  
 <abbr title="canicie, o pelo de color gris">canities</abbr> eadem est, eadem violentia vultus,  
 idem oculi lucent, eadem feritatis imago est.  
-<abbr title="occido: matar. Pero en este contexto es caer">occidit</abbr> una domus, sed non domus una perire <sup class="text-[.5em] text-gray-400">240</sup>  
+[occidit](#occidit) una domus, sed non domus una perire <sup class="text-[.5em] text-gray-400">240</sup>  
 digna fuit: qua terra patet, fera regnat <a href="https://es.wikipedia.org/wiki/Erinias">Erinys</a>.  
 
 > Erinys (en plural, Erinyes) es un término de la mitología griega que se refiere a las Erinias, también conocidas como las Furias. Estas deidades son representadas como entidades vengadoras que castigan a aquellos que cometen crímenes, especialmente los delitos relacionados con la familia, como el parricidio o el incesto. Su nombre proviene de la raíz griega que significa "ira" o "venganza" (en griego antiguo Έρινύες Erinýes).
@@ -76,13 +76,67 @@ quas meruere pati, (sic stat sententia) poenas.'
 
 Dicta Iovis pars voce probant stimulosque frementi  
 adiciunt, alii partes adsensibus inplent. <sup class="text-[.5em] text-gray-400">245</sup>  
-est tamen humani generis iactura dolori  
+est tamen humani generis [iactura](#iactura) dolori  
 omnibus, et quae sit terrae mortalibus orbae  
 forma futura rogant, quis sit laturus in aras  
-tura, ferisne paret populandas tradere terras.  
+[tura](#tura), ferisne paret populandas [tradere](#tradere) terras.  
 talia quaerentes (sibi enim fore cetera curae) <sup class="text-[.5em] text-gray-400">250</sup>  
-rex superum trepidare vetat subolemque priori  
+rex superum trepidare vetat [subolemque](#subolemque) priori  
 dissimilem populo promittit origine mira.  
+
+**El dilubio**
+
+Iamque erat in totas sparsurus fulmina terras;  
+sed timuit, ne forte sacer tot ab ignibus aether  
+conciperet flammas longusque ardesceret axis: <sup class="text-[.5em] text-gray-400">255</sup>  
+esse quoque in fatis reminiscitur, adfore tempus,  
+quo mare, quo tellus correptaque regia caeli  
+ardeat et mundi moles obsessa laboret.  
+tela reponuntur manibus fabricata cyclopum;  
+poena placet diversa, genus mortale sub undis <sup class="text-[.5em] text-gray-400">260</sup>  
+perdere et ex omni nimbos demittere caelo.  
+Protinus Aeoliis Aquilonem claudit in antris  
+et quaecumque fugant inductas flamina nubes  
+emittitque Notum. madidis Notus evolat alis,  
+terribilem picea tectus caligine vultum; <sup class="text-[.5em] text-gray-400">265</sup>  
+barba gravis nimbis, canis fluit unda capillis;  
+fronte sedent nebulae, rorant pennaeque sinusque.  
+utque manu lata pendentia nubila pressit,  
+fit fragor: hinc densi funduntur ab aethere nimbi;  
+nuntia Iunonis varios induta colores <sup class="text-[.5em] text-gray-400">270</sup>  
+concipit Iris aquas alimentaque nubibus adfert.  
+sternuntur segetes et deplorata coloni  
+vota iacent, longique perit labor inritus anni.  
 
 
 [Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-1-198/)
+
+## Lexicon
+
+### i
+
+#### iactura
+
+iactura, ae f. pérdida, perjuicio
+
+### o
+
+#### occidit
+
+occido: matar. Pero en este contexto es caer
+
+### s 
+
+#### subolemque
+
+suboles, subolem f: decendencia, posteridad, linaje, prole
+
+### t 
+
+#### tura
+
+tus, turis n. incienso
+
+### tradet
+
+trado, -didi, -ditum 3 tra: entregar, dar
