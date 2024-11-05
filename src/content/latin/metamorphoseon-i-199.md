@@ -10,7 +10,7 @@ descriptio: Traductio, liber primus (199)
 
 - [Liber primus](https://la.wikisource.org/wiki/Metamorphoses_(Ovidius)/Liber_I#200)
 
-<abbr title="estremecerse">Confremuere</abbr> omnes studiisque ardentibus ausum  
+[Confremuere](#confremuere) omnes studiisque ardentibus ausum  
 talia deposcunt: sic, cum manus inpia saevit <sup class="text-[.5em] text-gray-400">200</sup>  
 sanguine Caesareo Romanum exstinguere nomen,  
 attonitum tantae subito terrore ruinae  
@@ -115,12 +115,15 @@ fit fragor: hinc densi funduntur ab aethere nimbi;
 nuntia Iunonis varios induta colores <sup class="text-[.5em] text-gray-400">270</sup>  
 concipit <a href="https://es.wikipedia.org/wiki/Iris_(mitolog%C3%ADa)">Iris</a> aquas alimentaque nubibus adfert.  
 [sternuntur](#sternentur) segetes et deplorata coloni  
-vota iacent, longique perit labor [inritus](#inritus) anni. 
+vota iacent, longique perit labor [inritus](#inritus) anni.  
 Nec caelo contenta suo est Iovis ira, sed illum  
 caeruleus frater iuvat auxiliaribus undis. <sup class="text-[.5em] text-gray-400">275</sup>  
-convocat hic amnes: qui postquam tecta tyranni  
-intravere sui, 'non est hortamine longo  
-nunc' ait 'utendum; vires effundite vestras:  
+
+![Neptunus](/netpunus.webp)
+
+convocat hic [amnes](#amnes): qui postquam tecta tyranni  
+intravere sui, 'non est [hortamine](#hortamine) longo  
+nunc' ait '<abbr title="utor. deponente">utendum</abbr>; vires effundite vestras:  
 sic opus est! aperite domos ac mole remota  
 fluminibus vestris totas inmittite habenas!' <sup class="text-[.5em] text-gray-400">280</sup>  
 iusserat; hi redeunt ac fontibus ora relaxant  
@@ -134,8 +137,29 @@ si qua domus mansit potuitque resistere tanto
 indeiecta malo, culmen tamen altior huius  
 unda tegit, pressaeque latent sub gurgite turres. <sup class="text-[.5em] text-gray-400">290</sup>  
 iamque mare et tellus nullum discrimen habebant:  
-omnia pontus erat, derant quoque litora ponto.   
+omnia pontus erat, derant quoque litora ponto.  
+Occupat hic collem, cumba sedet alter adunca  
+et ducit remos illic, ubi nuper arabat:  
+ille supra segetes aut mersae culmina villae <sup class="text-[.5em] text-gray-400">295</sup>  
+navigat, hic summa piscem deprendit in ulmo.  
+figitur in viridi, si fors tulit, ancora prato,  
+aut subiecta terunt curvae vineta carinae;  
+et, modo qua graciles gramen carpsere capellae,  
+nunc ibi deformes ponunt sua corpora phocae. <sup class="text-[.5em] text-gray-400">300</sup>  
+mirantur sub aqua lucos urbesque domosque  
+Nereides, silvasque tenent delphines et altis  
+incursant ramis agitataque robora pulsant.  
+nat lupus inter oves, fulvos vehit unda leones,  
+unda vehit tigres; nec vires fulminis apro, <sup class="text-[.5em] text-gray-400">305</sup>  
+crura nec ablato prosunt velocia cervo,  
+quaesitisque diu terris, ubi sistere possit,  
+in mare lassatis volucris vaga decidit alis.  
+obruerat tumulos inmensa licentia ponti,  
+pulsabantque novi montana cacumina fluctus. <sup class="text-[.5em] text-gray-400">310</sup>  
+maxima pars unda rapitur; quibus unda pepercit,  
+illos longa domant inopi ieiunia victu.  
 
+**Deucalión y Pirra**
 
 [Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-1-198/)
 
@@ -147,6 +171,20 @@ omnia pontus erat, derant quoque litora ponto.
 
 Infinitivo de futuro de adsum estar prensete, venir
 
+#### amnes
+
+amnis, is f: río
+
+Derivado: (líquido) amniótico
+
+## c
+
+#### confremuere
+
+estremecerse
+
+Derivado: (líquido) amniótico
+
 ### f
 
 #### flamina
@@ -156,6 +194,12 @@ flamen -inis m: flamen (sacerdote romano); soplo, aliento; viento brisa
 #### forte
 
 forte adv. Por casualidad
+# h
+
+#### horamine
+
+hortamen, hortaminis f.: "exhortación", "aliento" o "motivación". 
+Viene del verbo "hortari", que significa "animar" o "exhortar".
 
 ### i
 
