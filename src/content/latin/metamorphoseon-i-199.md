@@ -31,8 +31,8 @@ Iuppiter hoc iterum sermone silentia rupit:
 'ille quidem poenas (curam hanc dimittite!) solvit;  
 quod tamen admissum, quae sit vindicta, docebo. <sup class="text-[.5em] text-gray-400">210</sup>  
 contigerat nostras infamia temporis aures;  
-quam cupiens falsam summo <abbr title="delabor -lapsus sum dep. 3 intr: caer">delabor</abbr> Olympo  
-et deus humana <abbr title="lustro 1 tr: lustrar, purificar">lustro</abbr> sub imagine terras.  
+quam cupiens falsam summo [delabor](#delabor) Olympo  
+et deus humana [lustro](#lustro) sub imagine terras.  
 longa mora est, quantum <abbr title="noxa, ae f. daño, delito, falta, crimen">noxae</abbr> sit ubique repertum,  
 enumerare: minor fuit ipsa infamia vero. <sup class="text-[.5em] text-gray-400">215</sup>  
 Maenala transieram <abbr title="latebra, ae f. cueva">latebris</abbr> horrenda ferarum  
@@ -162,19 +162,34 @@ pulsabantque novi montana [cacumina](#cacumina) fluctus. <sup class="text-[.5em]
 maxima pars unda rapitur; quibus unda [pepercit](#pepercit),  
 illos longa domant inopi [ieiunia](#ieiunia) victu.  
 
-**Deucalion et Pyrrha**
+[**Deucalion et Pyrrha**](#deucalión-y-pirra-por-rubens)
 
 ![Deucalion et Pyrrha](https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1730885652/latin/Peter_Paul_Rubens_-_Deucalion_and_Pyrrha__1636_awq49z.jpg)
 
-Separat Aonios Oetaeis Phocis ab arvis,  
+Separat Aonios Oetaeis <a href="https://es.wikipedia.org/wiki/F%C3%B3cida"><abbr title="Phocis, -idis f. La Fócide">Phocis</abbr></a> ab arvis,  
 terra ferax, dum terra fuit, sed tempore in illo  
 pars maris et latus subitarum campus aquarum. <sup class="text-[.5em] text-gray-400">315</sup>  
+
+> 'La Fócide separa las tierras de Eónia de las campiñas de Eta.' 
+Phocis es la región de Fócide, que se encuentra entre Eónia (Aonios) y las tierras de Eta (Oetaeis arvis).  
+**Aonios** es un adjetivo latino que significa 'relacionado con Aonia' o 'de Aonia'. Aonia es una región mítica de la antigua Grecia, que generalmente se identifica con una parte de Beocia, cerca del monte Helicón, el hogar de las Musas.
+
+
 mons ibi verticibus petit arduus astra duobus,  
-nomine Parnasos, superantque cacumina nubes.  
+nomine [Parnasos](https://es.wikipedia.org/wiki/Monte_Parnaso), superantque cacumina nubes.  
 hic ubi Deucalion (nam cetera texerat aequor)  
-cum consorte tori parva rate vectus adhaesit,  
+cum consorte [tori](#tori) parva [rate](#rate) [vectus](#vectus) adhaesit, 
+
+![Ratis](/ratis.webp)
+
 Corycidas nymphas et numina montis adorant <sup class="text-[.5em] text-gray-400">320</sup>  
-fatidicamque Themin, quae tunc oracla tenebat:  
+
+> Corycidas nymphas se refiere a las ninfas Corícidas, que habitaban en la cueva de Coricia, en el monte Parnaso.
+
+<abbr title="profética">fatidicamque</abbr> Themin, quae tunc oracla tenebat: 
+
+> «Según los mitos, Temis fue la primera en introducir los vaticinios, los sacrificios y los preceptos relativos al culto de los dioses (thesmoí), y en instruir a los hombres en lo referente al buen gobierno y a la paz. Por este motivo son llamados thesmophýlakes y thesmothétai los que custodian los sagrados preceptos relativos a los dioses y las leyes de los hombres; y por el mismo motivo decimos que Apolo, cuando llega el momento de dar un oráculo, «hace como Temis» (themisteúein), porque fue Temis la inventora de los oráculos».
+
 non illo melior quisquam nec amantior aequi  
 vir fuit aut illa metuentior ulla deorum.  
 Iuppiter ut liquidis stagnare paludibus orbem  
@@ -238,6 +253,20 @@ estremecerse
 
 Derivado: (líquido) amniótico
 
+### d 
+
+#### delabor 
+
+delabor -lapsus sum dep. 3 intr: caer
+
+#### Deucalión y Pirra por Rubens
+
+Deucalion y Pirra es una pintura al óleo del siglo XVII, creada por Peter Paul Rubens en torno a 1636-1637. La obra se encuentra actualmente en el Museo del Prado, en Madrid.
+
+La pintura representa el momento en que Deucalion y su esposa Pirra, después del Diluvio Universal, arrojan piedras hacia atrás, según la mitología griega. Las piedras se transforman en seres humanos que poblarán la tierra. La escena está llena de detalles y movimiento, con los personajes principales en el centro y los seres humanos naciendo de las rocas en la parte derecha de la composición.
+
+Rubens demostró su habilidad para representar la figura femenina desnuda en la figura de Pirra, con una postura similar a la utilizada por Eurídice en otra obra del artista. La pintura también muestra la habilidad de Rubens para combinar la representación de la historia mitológica con la representación de la naturaleza humana.
+
 ### f
 
 #### flamina
@@ -277,6 +306,10 @@ El término "indeiecta" proviene del verbo latino "deiicio, deiicere, deieci, de
 
 inritus a um (in, ratus) no decidido, nulo, vano, inútil
 
+### l
+
+#### lustro "lustro 1 tr: lustrar, purificar"
+
 ### n
 
 #### nimbos
@@ -307,6 +340,12 @@ piceus a um: de pez; negro como la pez, oscuro, tenebroso
 
 prosum: ser útil
 
+### r 
+
+#### rate
+
+ratis, is f. balsa
+
 ### s 
 
 #### satis
@@ -323,20 +362,28 @@ suboles, subolem f: decendencia, posteridad, linaje, prole
 
 ### t 
 
-### terunt
+#### terunt
 
-tero, terere, trivi, tritum: "frotar", "gastar" o "triturar".
+tero, terere, trivi, tritum: "frotar", "gastar" o "triturar"
+
+#### tori
+
+torus, i m. lecho; saliente, protuberancia
 
 #### tura
 
 tus, turis n. incienso
 
-### tradet
+#### tradet
 
 trado, -didi, -ditum 3 tra: entregar, dar
 
 ### v 
 
-### vaga
+#### vaga
 
-vagus, a, un errante (vida errante), sin rumbo, 
+vagus, a, un errante (vida errante), sin rumbo 
+
+#### vectus
+
+vectus, a, un de veho vexi, vectum: llevar, transportar
