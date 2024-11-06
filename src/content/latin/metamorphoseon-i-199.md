@@ -118,48 +118,89 @@ concipit <a href="https://es.wikipedia.org/wiki/Iris_(mitolog%C3%ADa)">Iris</a> 
 vota iacent, longique perit labor [inritus](#inritus) anni.  
 Nec caelo contenta suo est Iovis ira, sed illum  
 caeruleus frater iuvat auxiliaribus undis. <sup class="text-[.5em] text-gray-400">275</sup>  
-
-![Neptunus](/netpunus.webp)
-
 convocat hic [amnes](#amnes): qui postquam tecta tyranni  
 intravere sui, 'non est [hortamine](#hortamine) longo  
 nunc' ait '<abbr title="utor. deponente">utendum</abbr>; vires effundite vestras:  
 sic opus est! aperite domos ac mole remota  
-fluminibus vestris totas inmittite habenas!' <sup class="text-[.5em] text-gray-400">280</sup>  
+fluminibus vestris totas inmittite [habenas](#habenas)!' <sup class="text-[.5em] text-gray-400">280</sup>  
 iusserat; hi redeunt ac fontibus ora relaxant  
 et defrenato volvuntur in aequora cursu.  
 Ipse tridente suo terram percussit, at illa  
-intremuit motuque vias patefecit aquarum.  
+intremuit motuque vias patefecit aquarum. 
+
+![Neptunus](/netpunus.webp)
+
 exspatiata ruunt per apertos flumina campos <sup class="text-[.5em] text-gray-400">285</sup>  
-cumque satis arbusta simul pecudesque virosque  
-tectaque cumque suis rapiunt penetralia sacris.  
+cumque [satis](#satis) arbusta simul pecudesque virosque  
+tectaque cumque suis <abbr title="arrastran">rapiunt</abbr> penetralia sacris.  
 si qua domus mansit potuitque resistere tanto  
-indeiecta malo, culmen tamen altior huius  
+[indeiecta](#indeiecta) malo, culmen tamen altior huius  
 unda tegit, pressaeque latent sub gurgite turres. <sup class="text-[.5em] text-gray-400">290</sup>  
 iamque mare et tellus nullum discrimen habebant:  
 omnia pontus erat, derant quoque litora ponto.  
-Occupat hic collem, cumba sedet alter adunca  
+Occupat hic collem, <abbr title="cumba adunca: barca curva">cumba sedet alter adunca</abbr>  
 et ducit remos illic, ubi nuper arabat:  
 ille supra segetes aut mersae culmina villae <sup class="text-[.5em] text-gray-400">295</sup>  
 navigat, hic summa piscem deprendit in ulmo.  
 figitur in viridi, si fors tulit, ancora prato,  
-aut subiecta terunt curvae vineta carinae;  
+aut subiecta [terunt](#terunt) curvae vineta carinae;  
 et, modo qua graciles gramen carpsere capellae,  
 nunc ibi deformes ponunt sua corpora phocae. <sup class="text-[.5em] text-gray-400">300</sup>  
 mirantur sub aqua lucos urbesque domosque  
 Nereides, silvasque tenent delphines et altis  
-incursant ramis agitataque robora pulsant.  
-nat lupus inter oves, fulvos vehit unda leones,  
-unda vehit tigres; nec vires fulminis apro, <sup class="text-[.5em] text-gray-400">305</sup>  
-crura nec ablato prosunt velocia cervo,  
-quaesitisque diu terris, ubi sistere possit,  
-in mare lassatis volucris vaga decidit alis.  
-obruerat tumulos inmensa licentia ponti,  
-pulsabantque novi montana cacumina fluctus. <sup class="text-[.5em] text-gray-400">310</sup>  
-maxima pars unda rapitur; quibus unda pepercit,  
-illos longa domant inopi ieiunia victu.  
+incursant ramis agitataque robora pulsant. 
 
-**Deucalión y Pirra**
+![La nereida Anfitrites](/anfitrite-nereida.webp)
+
+nat lupus inter oves, fulvos vehit unda leones,  
+unda vehit tigres; nec vires fulminis [apro](#apro), <sup class="text-[.5em] text-gray-400">305</sup>  
+crura nec <abbr title="arrebatado">ablato</abbr> [prosunt](#prosunt) velocia cervo,  
+quaesitisque diu terris, ubi sistere possit,  
+in mare lassatis volucris [vaga](#vaga) decidit alis.  
+obruerat tumulos inmensa licentia ponti,  
+pulsabantque novi montana [cacumina](#cacumina) fluctus. <sup class="text-[.5em] text-gray-400">310</sup>  
+maxima pars unda rapitur; quibus unda [pepercit](#pepercit),  
+illos longa domant inopi [ieiunia](#ieiunia) victu.  
+
+**Deucalion et Pyrrha**
+
+![Deucalion et Pyrrha](https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1730885652/latin/Peter_Paul_Rubens_-_Deucalion_and_Pyrrha__1636_awq49z.jpg)
+
+Separat Aonios Oetaeis Phocis ab arvis,  
+terra ferax, dum terra fuit, sed tempore in illo  
+pars maris et latus subitarum campus aquarum. <sup class="text-[.5em] text-gray-400">315</sup>  
+mons ibi verticibus petit arduus astra duobus,  
+nomine Parnasos, superantque cacumina nubes.  
+hic ubi Deucalion (nam cetera texerat aequor)  
+cum consorte tori parva rate vectus adhaesit,  
+Corycidas nymphas et numina montis adorant <sup class="text-[.5em] text-gray-400">320</sup>  
+fatidicamque Themin, quae tunc oracla tenebat:  
+non illo melior quisquam nec amantior aequi  
+vir fuit aut illa metuentior ulla deorum.  
+Iuppiter ut liquidis stagnare paludibus orbem  
+et superesse virum de tot modo milibus unum, <sup class="text-[.5em] text-gray-400">325</sup>  
+et superesse vidit de tot modo milibus unam,  
+innocuos ambo, cultores numinis ambo,  
+nubila disiecit nimbisque aquilone remotis  
+et caelo terras ostendit et aethera terris.  
+nec maris ira manet, positoque tricuspide telo <sup class="text-[.5em] text-gray-400">330</sup>  
+mulcet aquas rector pelagi supraque profundum  
+exstantem atque umeros innato murice tectum  
+caeruleum Tritona vocat conchaeque sonanti  
+inspirare iubet fluctusque et flumina signo  
+iam revocare dato: cava bucina sumitur illi, <sup class="text-[.5em] text-gray-400">335</sup>  
+tortilis in latum quae turbine crescit ab imo,  
+bucina, quae medio concepit ubi aera ponto,  
+litora voce replet sub utroque iacentia Phoebo;  
+tum quoque, ut ora dei madida rorantia barba  
+contigit et cecinit iussos inflata receptus, <sup class="text-[.5em] text-gray-400">340</sup>  
+omnibus audita est telluris et aequoris undis,  
+et quibus est undis audita, coercuit omnes.  
+iam mare litus habet, plenos capit alveus amnes,  
+flumina subsidunt collesque exire videntur;  
+surgit humus, crescunt sola decrescentibus undis, <sup class="text-[.5em] text-gray-400">345</sup>  
+postque diem longam nudata cacumina silvae  
+ostendunt limumque tenent in fronde relictum  
 
 [Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-1-198/)
 
@@ -177,7 +218,19 @@ amnis, is f: río
 
 Derivado: (líquido) amniótico
 
-## c
+#### apro
+
+aper, apri m. jabalí
+
+### c
+
+#### cacumina
+
+cacumen, cacuminis f: cumbre, cima
+
+Una **palabra patrimonial** es `cima`:
+
+La transformación de "cacumen" a "cima" pasó por procesos como la asimilación y eliminación de vocales (especialmente la "u" final), así como la simplificación de consonantes. La lengua romance empezó a evitar las combinaciones consonánticas complejas y a preferir formas más simples y fáciles de pronunciar.
 
 #### confremuere
 
@@ -194,9 +247,14 @@ flamen -inis m: flamen (sacerdote romano); soplo, aliento; viento brisa
 #### forte
 
 forte adv. Por casualidad
-# h
 
-#### horamine
+### h
+
+#### habenas
+
+habena, ae f. riendas, correas
+
+#### hortamine
 
 hortamen, hortaminis f.: "exhortación", "aliento" o "motivación". 
 Viene del verbo "hortari", que significa "animar" o "exhortar".
@@ -206,6 +264,14 @@ Viene del verbo "hortari", que significa "animar" o "exhortar".
 #### iactura
 
 iactura, ae f. pérdida, perjuicio
+
+#### ieiunia
+
+"ieiunium, ieiunii", que significa "ayuno"
+
+#### indeiecta
+
+El término "indeiecta" proviene del verbo latino "deiicio, deiicere, deieci, deiectum", que significa "derribar", "tirar abajo" o "hacer caer". Así, "indeiecta" significa literalmente "no derribado" o "no echado abajo".
 
 #### inritus
 
@@ -229,11 +295,23 @@ obsideo -sedi -sessum 2 (ob, sedeo) INTR: estar sentado; habitar; asediar; ocupa
 
 ### p
 
+#### pepercit
+
+"peperciō, peperci, pericere", que significa "ahorrar", "perdonar", o "hacer un descuento".
+
 #### picea
 
 piceus a um: de pez; negro como la pez, oscuro, tenebroso
 
+#### prosunt
+
+prosum: ser útil
+
 ### s 
+
+#### satis
+
+sembrados
 
 #### sternentur
 
@@ -245,6 +323,10 @@ suboles, subolem f: decendencia, posteridad, linaje, prole
 
 ### t 
 
+### terunt
+
+tero, terere, trivi, tritum: "frotar", "gastar" o "triturar".
+
 #### tura
 
 tus, turis n. incienso
@@ -252,3 +334,9 @@ tus, turis n. incienso
 ### tradet
 
 trado, -didi, -ditum 3 tra: entregar, dar
+
+### v 
+
+### vaga
+
+vagus, a, un errante (vida errante), sin rumbo, 
