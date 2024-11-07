@@ -199,34 +199,63 @@ innocuos ambo, cultores numinis ambo,
 nubila disiecit nimbisque <a href="https://dle.rae.es/aquil%C3%B3n">aquilone</a> remotis  
 et caelo terras ostendit et aethera terris. 
 
-> Aquilón vs Bóreas en Mitología  
-En la mitología clásica, Aquilón y Bóreas son dos dioses del viento del norte, aunque con algunas diferencias.  
-Aquilón  
-En la mitología romana, Aquilón (también conocido como Aquilo) era el dios del viento del norte, frío y tempestuoso. Su equivalente griego era Bóreas.  
-Bóreas  
-En la mitología griega, Bóreas (Βορέας) era el dios del viento del norte, también conocido como “devorador” debido a su capacidad para traer el invierno y el frío. Era descrito como un anciano alado con barbas y cabellos desgreñados, llevando una caracola y vistiendo una túnica de nubes.
+>  En la mitología romana, Aquilón (también conocido como Aquilo) era el dios del viento del norte, frío y tempestuoso. Su equivalente griego era Bóreas.
 
 nec maris ira manet, positoque <abbr title="con el arma de tres puntas">tricuspide telo</abbr> <sup class="text-[.5em] text-gray-400">330</sup>  
 mulcet aquas rector pelagi supraque profundum  
 exstantem atque umeros innato [murice](#murice) tectum  
 caeruleum Tritona vocat conchaeque sonanti  
 inspirare iubet fluctusque et flumina signo  
-iam revocare dato: [cava](#cava) bucina sumitur illi, <sup class="text-[.5em] text-gray-400">335</sup>  
+iam revocare dato: [cava](#cava) [bucina](#bucina) sumitur illi, <sup class="text-[.5em] text-gray-400">335</sup>  
 tortilis in latum quae [turbine](#turbine) crescit ab [imo](#imo),  
 bucina, quae medio concepit ubi aera ponto,  
 <abbr title="Los dos 'astros de Febe' mencionados en la poesía clásica se refieren a el sol y la luna. En la mitología romana, Febe es uno de los nombres de la diosa Selene (la diosa de la luna), y a menudo, se le asocia con los dos cuerpos celestes: el sol (asociado con el dios Febo o Apolo) y la luna (asociada con Febe).">litora voce replet sub utroque iacentia Phoebo</abbr>;
 
 ![Triton et Neptunus (Bernini)](/triton-neptuno-bernini.webp)
 
-tum quoque, ut ora dei madida rorantia barba  
-contigit et cecinit iussos inflata receptus, <sup class="text-[.5em] text-gray-400">340</sup>  
+tum quoque, ut ora dei madida [rorantia](#rorantia) barba  
+contigit et cecinit iussos inflata [receptus](#receptus), <sup class="text-[.5em] text-gray-400">340</sup>  
 omnibus audita est telluris et aequoris undis,  
 et quibus est undis audita, coercuit omnes.  
-iam mare litus habet, plenos capit alveus amnes,  
+iam mare litus habet, plenos capit [alveus](#alveus) amnes,  
 flumina subsidunt collesque exire videntur;  
 surgit humus, crescunt sola decrescentibus undis, <sup class="text-[.5em] text-gray-400">345</sup>  
 postque diem longam nudata cacumina silvae  
-ostendunt limumque tenent in fronde relictum  
+ostendunt limumque tenent in fronde relictum.  
+Redditus orbis erat; quem postquam vidit inanem  
+et desolatas agere alta silentia terras,  
+Deucalion lacrimis ita Pyrrham adfatur obortis: <sup class="text-[.5em] text-gray-400">350</sup>    
+'o soror, o coniunx, o femina sola superstes,  
+quam commune mihi genus et patruelis origo,  
+deinde torus iunxit, nunc ipsa pericula iungunt,  
+terrarum, quascumque vident occasus et ortus,  
+nos duo turba sumus; possedit cetera pontus. <sup class="text-[.5em] text-gray-400">355</sup>  
+haec quoque adhuc vitae non est fiducia nostrae  
+certa satis; terrent etiamnum nubila mentem.  
+quis tibi, si sine me fatis erepta fuisses,  
+nunc animus, miseranda, foret? quo sola timorem  
+ferre modo posses? quo consolante doleres! <sup class="text-[.5em] text-gray-400">360</sup>  
+namque ego (crede mihi), si te quoque pontus haberet,  
+te sequerer, coniunx, et me quoque pontus haberet.  
+o utinam possim populos reparare paternis  
+artibus atque animas formatae infundere terrae!  
+nunc genus in nobis restat mortale duobus. <sup class="text-[.5em] text-gray-400">365</sup>  
+sic visum superis: hominumque exempla manemus.'  
+dixerat, et flebant: placuit caeleste precari  
+numen et auxilium per sacras quaerere sortes.  
+nulla mora est: adeunt pariter Cephesidas undas,  
+ut nondum liquidas, sic iam vada nota secantes. <sup class="text-[.5em] text-gray-400">370</sup>  
+inde ubi libatos inroravere liquores  
+vestibus et capiti, flectunt vestigia sanctae  
+ad delubra deae, quorum fastigia turpi  
+pallebant musco stabantque sine ignibus arae.  
+ut templi tetigere gradus, procumbit uterque <sup class="text-[.5em] text-gray-400">375</sup>  
+pronus humi gelidoque pavens dedit oscula saxo  
+atque ita 'si precibus' dixerunt 'numina iustis  
+victa remollescunt, si flectitur ira deorum,  
+dic, Themi, qua generis damnum reparabile nostri  
+arte sit, et mersis fer opem, mitissima, rebus!' <sup class="text-[.5em] text-gray-400">380</sup>  
+
 
 [Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-1-198/)
 
@@ -238,6 +267,10 @@ ostendunt limumque tenent in fronde relictum
 
 Infinitivo de futuro de adsum estar prensete, venir
 
+#### alveus
+
+alveus, i m: cavidad, lecho de un río
+
 #### amnes
 
 amnis, is f: río
@@ -247,6 +280,13 @@ Derivado: (líquido) amniótico
 #### apro
 
 aper, apri m. jabalí
+
+### b
+
+
+#### bucina
+
+bucina, ae f. cuerno
 
 ### c
 
@@ -383,6 +423,14 @@ prosum: ser útil
 #### rate
 
 ratis, is f. balsa
+
+#### receptus
+
+receptus, us m. retirada
+
+#### rorantia
+
+roro tr.: caer rocío, caer gota a gota, humedecer, rociar
 
 ### s 
 
