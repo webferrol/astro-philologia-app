@@ -192,21 +192,32 @@ Corycidas nymphas et numina montis adorant <sup class="text-[.5em] text-gray-400
 
 non illo melior quisquam nec amantior aequi  
 vir fuit aut illa metuentior ulla deorum.  
-Iuppiter ut liquidis stagnare paludibus orbem  
+Iuppiter ut liquidis [stagnare](#stagnare) paludibus orbem  
 et superesse virum de tot modo milibus unum, <sup class="text-[.5em] text-gray-400">325</sup>  
 et superesse vidit de tot modo milibus unam,  
 innocuos ambo, cultores numinis ambo,  
-nubila disiecit nimbisque aquilone remotis  
-et caelo terras ostendit et aethera terris.  
-nec maris ira manet, positoque tricuspide telo <sup class="text-[.5em] text-gray-400">330</sup>  
+nubila disiecit nimbisque <a href="https://dle.rae.es/aquil%C3%B3n">aquilone</a> remotis  
+et caelo terras ostendit et aethera terris. 
+
+> Aquilón vs Bóreas en Mitología  
+En la mitología clásica, Aquilón y Bóreas son dos dioses del viento del norte, aunque con algunas diferencias.  
+Aquilón  
+En la mitología romana, Aquilón (también conocido como Aquilo) era el dios del viento del norte, frío y tempestuoso. Su equivalente griego era Bóreas.  
+Bóreas  
+En la mitología griega, Bóreas (Βορέας) era el dios del viento del norte, también conocido como “devorador” debido a su capacidad para traer el invierno y el frío. Era descrito como un anciano alado con barbas y cabellos desgreñados, llevando una caracola y vistiendo una túnica de nubes.
+
+nec maris ira manet, positoque <abbr title="con el arma de tres puntas">tricuspide telo</abbr> <sup class="text-[.5em] text-gray-400">330</sup>  
 mulcet aquas rector pelagi supraque profundum  
-exstantem atque umeros innato murice tectum  
+exstantem atque umeros innato [murice](#murice) tectum  
 caeruleum Tritona vocat conchaeque sonanti  
 inspirare iubet fluctusque et flumina signo  
-iam revocare dato: cava bucina sumitur illi, <sup class="text-[.5em] text-gray-400">335</sup>  
-tortilis in latum quae turbine crescit ab imo,  
+iam revocare dato: [cava](#cava) bucina sumitur illi, <sup class="text-[.5em] text-gray-400">335</sup>  
+tortilis in latum quae [turbine](#turbine) crescit ab [imo](#imo),  
 bucina, quae medio concepit ubi aera ponto,  
-litora voce replet sub utroque iacentia Phoebo;  
+<abbr title="Los dos 'astros de Febe' mencionados en la poesía clásica se refieren a el sol y la luna. En la mitología romana, Febe es uno de los nombres de la diosa Selene (la diosa de la luna), y a menudo, se le asocia con los dos cuerpos celestes: el sol (asociado con el dios Febo o Apolo) y la luna (asociada con Febe).">litora voce replet sub utroque iacentia Phoebo</abbr>;
+
+![Triton et Neptunus (Bernini)](/triton-neptuno-bernini.webp)
+
 tum quoque, ut ora dei madida rorantia barba  
 contigit et cecinit iussos inflata receptus, <sup class="text-[.5em] text-gray-400">340</sup>  
 omnibus audita est telluris et aequoris undis,  
@@ -246,6 +257,10 @@ cacumen, cacuminis f: cumbre, cima
 Una **palabra patrimonial** es `cima`:
 
 La transformación de "cacumen" a "cima" pasó por procesos como la asimilación y eliminación de vocales (especialmente la "u" final), así como la simplificación de consonantes. La lengua romance empezó a evitar las combinaciones consonánticas complejas y a preferir formas más simples y fáciles de pronunciar.
+
+#### cava
+
+cavus a um: huevo
 
 #### confremuere
 
@@ -298,6 +313,10 @@ iactura, ae f. pérdida, perjuicio
 
 "ieiunium, ieiunii", que significa "ayuno"
 
+### imo
+
+imus, a, um: más abajo, más profundo
+
 #### indeiecta
 
 El término "indeiecta" proviene del verbo latino "deiicio, deiicere, deieci, deiectum", que significa "derribar", "tirar abajo" o "hacer caer". Así, "indeiecta" significa literalmente "no derribado" o "no echado abajo".
@@ -309,6 +328,25 @@ inritus a um (in, ratus) no decidido, nulo, vano, inútil
 ### l
 
 #### lustro "lustro 1 tr: lustrar, purificar"
+
+### m
+
+#### murice
+
+**"Murice"** proviene del sustantivo latín **"murex, muricis"** (en latín clásico), que significa **"murice"** o **"caracol"**, específicamente una especie de caracol marino del que se extraía la famosa **púrpura** (un tinte morado) en la antigüedad. En este caso, **"murice"** es el ablativo singular de **"murex"**.
+
+### Análisis morfológico de **"murice"**:
+- **Raíz**: **"murex"** (caracol marino).
+- **Declinación**: **3ra declinación** (sustantivo de la tercera declinación).
+- **Forma**: **"murice"** es el **ablativo singular** de **"murex"**, utilizado aquí para indicar "con" o "por medio de" el "murice" o "caracol" (es decir, "cubierto con el caracol" o "por el caracol").
+
+### Palabra derivada:
+De **"murex"** derivan varias palabras relacionadas con el caracol y la púrpura:
+
+1. **Muricida**: Un término que describe a alguien que recolecta o produce **púrpura** de los caracoles **"murex"**.
+2. **Muriciforme**: Que tiene la forma de un caracol o algo relacionado con un "murex".
+
+En resumen, **"murice"** es el ablativo singular de **"murex"**, que hace referencia a un tipo de caracol marino utilizado históricamente para la producción del tinte púrpura, y de esta raíz surgen términos relacionados con la recolección y la forma del caracol.
 
 ### n
 
@@ -352,6 +390,10 @@ ratis, is f. balsa
 
 sembrados
 
+#### stagnare
+
+inundar, estancar
+
 #### sternentur
 
 sterno stravi stratum: tender; echarse en el suelo; hacer caer derribar
@@ -377,6 +419,10 @@ tus, turis n. incienso
 #### tradet
 
 trado, -didi, -ditum 3 tra: entregar, dar
+
+#### turbine
+
+"turbo, turbinis":  "torbellino", "tormenta", o "remolino"
 
 ### v 
 
