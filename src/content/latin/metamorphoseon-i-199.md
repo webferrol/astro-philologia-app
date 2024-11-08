@@ -221,12 +221,12 @@ iam mare litus habet, plenos capit [alveus](#alveus) amnes,
 flumina subsidunt collesque exire videntur;  
 surgit humus, crescunt sola decrescentibus undis, <sup class="text-[.5em] text-gray-400">345</sup>  
 postque diem longam nudata cacumina silvae  
-ostendunt limumque tenent in fronde relictum.  
+ostendunt limumque tenent in [fronde](#fronde) relictum.  
 Redditus orbis erat; quem postquam vidit inanem  
 et desolatas agere alta silentia terras,  
-Deucalion lacrimis ita Pyrrham adfatur obortis: <sup class="text-[.5em] text-gray-400">350</sup>    
-'o soror, o coniunx, o femina sola superstes,  
-quam commune mihi genus et patruelis origo,  
+Deucalion lacrimis ita Pyrrham adfatur [obortis](#obortis): <sup class="text-[.5em] text-gray-400">350</sup>    
+'o soror, o coniunx, o femina sola [superstes](#superstes),  
+quam commune mihi genus et [patruelis](#patruelis) origo,  
 deinde torus iunxit, nunc ipsa pericula iungunt,  
 terrarum, quascumque vident occasus et ortus,  
 nos duo turba sumus; possedit cetera pontus. <sup class="text-[.5em] text-gray-400">355</sup>  
@@ -238,16 +238,19 @@ ferre modo posses? quo consolante doleres! <sup class="text-[.5em] text-gray-400
 namque ego (crede mihi), si te quoque pontus haberet,  
 te sequerer, coniunx, et me quoque pontus haberet.  
 o utinam possim populos reparare paternis  
-artibus atque animas formatae infundere terrae!  
+artibus atque animas formatae infundere terrae! 
+
+> El padre de Deucalión es Prometeo, el titán en la mitología griega conocido por haber creado a la humanidad a partir de arcilla y por haber robado el fuego de los dioses para dárselo a los seres humanos.
+
 nunc genus in nobis restat mortale duobus. <sup class="text-[.5em] text-gray-400">365</sup>  
 sic visum superis: hominumque exempla manemus.'  
 dixerat, et flebant: placuit caeleste precari  
 numen et auxilium per sacras quaerere sortes.  
-nulla mora est: adeunt pariter Cephesidas undas,  
+nulla mora est: adeunt pariter [Cephesidas](https://es.wikipedia.org/wiki/Cefiso_(mitolog%C3%ADa)) undas,  
 ut nondum liquidas, sic iam vada nota secantes. <sup class="text-[.5em] text-gray-400">370</sup>  
-inde ubi libatos inroravere liquores  
+inde ubi [libatos](#libatos) inroravere liquores  
 vestibus et capiti, flectunt vestigia sanctae  
-ad delubra deae, quorum fastigia turpi  
+ad [delubra](#delubra) deae, quorum [fastigia](#fastigia) turpi  
 pallebant musco stabantque sine ignibus arae.  
 ut templi tetigere gradus, procumbit uterque <sup class="text-[.5em] text-gray-400">375</sup>  
 pronus humi gelidoque pavens dedit oscula saxo  
@@ -314,6 +317,10 @@ Derivado: (líquido) amniótico
 
 delabor -lapsus sum dep. 3 intr: caer
 
+#### delubra
+
+delubrum, i n: templo, santuario
+
 #### Deucalión y Pirra por Rubens
 
 Deucalion y Pirra es una pintura al óleo del siglo XVII, creada por Peter Paul Rubens en torno a 1636-1637. La obra se encuentra actualmente en el Museo del Prado, en Madrid.
@@ -324,6 +331,10 @@ Rubens demostró su habilidad para representar la figura femenina desnuda en la 
 
 ### f
 
+#### fastigia
+
+fastigium, i n: techumbre
+
 #### flamina
 
 flamen -inis m: flamen (sacerdote romano); soplo, aliento; viento brisa
@@ -331,6 +342,10 @@ flamen -inis m: flamen (sacerdote romano); soplo, aliento; viento brisa
 #### forte
 
 forte adv. Por casualidad
+
+#### fronde
+
+frons, frondis f.: fronde, follaje
 
 ### h
 
@@ -367,6 +382,14 @@ inritus a um (in, ratus) no decidido, nulo, vano, inútil
 
 ### l
 
+#### libatos
+
+libo 1 tr: libar, ofrecer
+
+"libare", que significa "derramar en honor a" o "ofrecer". En un contexto ritual, libar se refiere al acto de derramar un líquido como ofrenda a una deidad o en honor a una fuerza sagrada. En las culturas antiguas, como la griega y la romana, las libaciones eran una práctica común en ceremonias religiosas, donde se vertía vino, aceite, leche, agua o miel sobre el altar o directamente en el suelo como una muestra de respeto y devoción hacia los dioses.
+
+Por lo tanto, cuando se dice que alguien "liba" o realiza una "libación", significa que está haciendo una ofrenda líquida como parte de un rito sagrado.
+
 #### lustro "lustro 1 tr: lustrar, purificar"
 
 ### m
@@ -396,6 +419,10 @@ nimbus, i m. lluvia torrencial
 
 ### o
 
+#### obortis
+
+oborior -ortus sum 4º dep: nacer, aparecer, surgir
+
 #### occidit
 
 occido: matar. Pero en este contexto es caer
@@ -405,6 +432,10 @@ occido: matar. Pero en este contexto es caer
 obsideo -sedi -sessum 2 (ob, sedeo) INTR: estar sentado; habitar; asediar; ocupar, tomar
 
 ### p
+
+#### patruelis
+
+patruelis -elis: primo hermano [paterno]
 
 #### pepercit
 
@@ -449,6 +480,10 @@ sterno stravi stratum: tender; echarse en el suelo; hacer caer derribar
 #### subolemque
 
 suboles, subolem f: decendencia, posteridad, linaje, prole
+
+#### superstes
+
+superstes -stitis: testigo; superviviente
 
 ### t 
 
