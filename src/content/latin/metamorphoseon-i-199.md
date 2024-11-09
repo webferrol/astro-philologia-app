@@ -162,9 +162,8 @@ pulsabantque novi montana [cacumina](#cacumina) fluctus. <sup class="text-[.5em]
 maxima pars unda rapitur; quibus unda [pepercit](#pepercit),  
 illos longa domant inopi [ieiunia](#ieiunia) victu.  
 
-[**Deucalion et Pyrrha**](#deucalión-y-pirra-por-rubens)
+**Deucalion et Pyrrha**
 
-![Deucalion et Pyrrha](https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1730885652/latin/Peter_Paul_Rubens_-_Deucalion_and_Pyrrha__1636_awq49z.jpg)
 
 Separat Aonios Oetaeis <a href="https://es.wikipedia.org/wiki/F%C3%B3cida"><abbr title="Phocis, -idis f. La Fócide">Phocis</abbr></a> ab arvis,  
 terra ferax, dum terra fuit, sed tempore in illo  
@@ -251,13 +250,65 @@ ut nondum liquidas, sic iam vada nota secantes. <sup class="text-[.5em] text-gra
 inde ubi [libatos](#libatos) inroravere liquores  
 vestibus et capiti, flectunt vestigia sanctae  
 ad [delubra](#delubra) deae, quorum [fastigia](#fastigia) turpi  
-pallebant musco stabantque sine ignibus arae.  
-ut templi tetigere gradus, procumbit uterque <sup class="text-[.5em] text-gray-400">375</sup>  
+[pallebant](#pallebant) musco stabantque sine ignibus arae.  
+ut templi tetigere [gradus](#gradus), procumbit uterque <sup class="text-[.5em] text-gray-400">375</sup>  
 pronus humi gelidoque pavens dedit oscula saxo  
 atque ita 'si precibus' dixerunt 'numina iustis  
-victa remollescunt, si flectitur ira deorum,  
-dic, Themi, qua generis damnum reparabile nostri  
-arte sit, et mersis fer opem, mitissima, rebus!' <sup class="text-[.5em] text-gray-400">380</sup>  
+victa [remollescunt](#remollescunt), si flectitur ira deorum,  
+dic, [Themi](https://es.wikipedia.org/wiki/Temis_(mitolog%C3%ADa)), qua generis damnum reparabile nostri  
+arte sit, et [mersis](#mersis) fer opem, mitissima, rebus!' <sup class="text-[.5em] text-gray-400">380</sup>  
+Mota dea est sortemque dedit: '[discedite](#discedite) templo  
+et velate caput cinctasque resolvite vestes  
+ossaque post tergum magnae iactate <abbr title="La gran madre: La Tierra">parentis</abbr>!' 
+
+<figure>
+    <img src="https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1730885652/latin/Peter_Paul_Rubens_-_Deucalion_and_Pyrrha__1636_awq49z.jpg" alt="Deucalion y Pirra por Rubens" title="Deucalion y Pirra por Rubens" class="w-full">
+    <figcaption>
+        <a href="">
+            <cite title="Deucalion y Pirra por Rubens">
+                discedite templo
+                et velate caput cinctasque resolvite vestes
+                ossaque post tergum magnae iactate parentis!
+            </cite>
+        </a>
+    </figcaption>
+<figure>
+
+
+
+obstupuere diu: rumpitque silentia voce  
+Pyrrha prior iussisque deae [parere](#parere) recusat, <sup class="text-[.5em] text-gray-400">385</sup>  
+detque sibi [veniam](#veniam) pavido rogat ore [pavetque](#pavet)  
+laedere iactatis maternas ossibus umbras.  
+interea repetunt caecis obscura latebris  
+verba datae sortis secum inter seque volutant.  
+inde Promethides placidis Epimethida dictis <sup class="text-[.5em] text-gray-400">390</sup>  
+mulcet et 'aut fallax' ait 'est sollertia nobis,  
+aut (pia sunt nullumque nefas oracula suadent!)  
+magna parens terra est: lapides in corpore terrae  
+ossa reor dici; iacere hos post terga iubemur.'  
+Coniugis augurio quamquam Titania mota est, <sup class="text-[.5em] text-gray-400">395</sup>  
+spes tamen in dubio est: adeo caelestibus ambo  
+diffidunt monitis; sed quid temptare nocebit?  
+descendunt: velantque caput tunicasque recingunt  
+et iussos lapides sua post vestigia mittunt.  
+saxa (quis hoc credat, nisi sit pro teste vetustas?) <sup class="text-[.5em] text-gray-400">400</sup>  
+ponere duritiem coepere suumque rigorem  
+mollirique mora mollitaque ducere formam.  
+mox ubi creverunt naturaque mitior illis  
+contigit, ut quaedam, sic non manifesta videri  
+forma potest hominis, sed uti de marmore coepta <sup class="text-[.5em] text-gray-400">405</sup>  
+non exacta satis rudibusque simillima signis,  
+quae tamen ex illis aliquo pars umida suco  
+et terrena fuit, versa est in corporis usum;  
+quod solidum est flectique nequit, mutatur in ossa,  
+quae modo vena fuit, sub eodem nomine mansit, <sup class="text-[.5em] text-gray-400">410</sup>  
+inque brevi spatio superorum numine saxa  
+missa viri manibus faciem traxere virorum  
+et de femineo reparata est femina iactu.  
+inde genus durum sumus experiensque laborum  
+et documenta damus qua simus origine nati. <sup class="text-[.5em] text-gray-400">415</sup>  
+
 
 
 [Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-1-198/)
@@ -329,6 +380,10 @@ La pintura representa el momento en que Deucalion y su esposa Pirra, después de
 
 Rubens demostró su habilidad para representar la figura femenina desnuda en la figura de Pirra, con una postura similar a la utilizada por Eurídice en otra obra del artista. La pintura también muestra la habilidad de Rubens para combinar la representación de la historia mitológica con la representación de la naturaleza humana.
 
+#### discedite
+
+discedo: separar(se), alejarse
+
 ### f
 
 #### fastigia
@@ -346,6 +401,12 @@ forte adv. Por casualidad
 #### fronde
 
 frons, frondis f.: fronde, follaje
+
+### g
+
+#### gradus
+
+gradus, us m: escalera, escalón; paso
 
 ### h
 
@@ -394,6 +455,10 @@ Por lo tanto, cuando se dice que alguien "liba" o realiza una "libación", signi
 
 ### m
 
+#### mersis
+
+mergo mersi mersum: sumergir; precipitar
+
 #### murice
 
 **"Murice"** proviene del sustantivo latín **"murex, muricis"** (en latín clásico), que significa **"murice"** o **"caracol"**, específicamente una especie de caracol marino del que se extraía la famosa **púrpura** (un tinte morado) en la antigüedad. En este caso, **"murice"** es el ablativo singular de **"murex"**.
@@ -433,9 +498,21 @@ obsideo -sedi -sessum 2 (ob, sedeo) INTR: estar sentado; habitar; asediar; ocupa
 
 ### p
 
+#### pallebant
+
+palleo: estar pálido
+
+#### parere
+
+pareo -ui -itum 2 intr.: aparecer; obedecer
+
 #### patruelis
 
 patruelis -elis: primo hermano [paterno]
+
+#### pavet
+
+paveo pavi 2 intr: atemorizarse
 
 #### pepercit
 
@@ -458,6 +535,10 @@ ratis, is f. balsa
 #### receptus
 
 receptus, us m. retirada
+
+#### remollescunt
+
+remollesco 3 tr.: ablandarse
 
 #### rorantia
 
@@ -516,3 +597,7 @@ vagus, a, un errante (vida errante), sin rumbo
 #### vectus
 
 vectus, a, un de veho vexi, vectum: llevar, transportar
+
+#### veniam
+
+venia, a f: indulgencia; condescendencia
