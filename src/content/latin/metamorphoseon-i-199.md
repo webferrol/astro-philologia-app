@@ -280,34 +280,64 @@ obstupuere diu: rumpitque silentia voce
 Pyrrha prior iussisque deae [parere](#parere) recusat, <sup class="text-[.5em] text-gray-400">385</sup>  
 detque sibi [veniam](#veniam) pavido rogat ore [pavetque](#pavet)  
 laedere iactatis maternas ossibus umbras.  
-interea repetunt caecis obscura latebris  
-verba datae sortis secum inter seque volutant.  
-inde Promethides placidis Epimethida dictis <sup class="text-[.5em] text-gray-400">390</sup>  
-mulcet et 'aut fallax' ait 'est sollertia nobis,  
+interea [repetunt](#repetunt) caecis obscura [latebris](#latebris)  
+verba datae sortis secum inter seque [volutant](#volutant).  
+inde Promethides placidis [Epimethida](https://es.wikipedia.org/wiki/Epimeteo) dictis <sup class="text-[.5em] text-gray-400">390</sup>  
+[mulcet](#mulcet) et 'aut fallax' ait 'est [sollertia](#sollertia) nobis,  
 aut (pia sunt nullumque nefas oracula suadent!)  
 magna parens terra est: lapides in corpore terrae  
-ossa reor dici; iacere hos post terga iubemur.'  
+ossa [reor](#reor) dici; iacere hos post terga iubemur.'  
 Coniugis augurio quamquam Titania mota est, <sup class="text-[.5em] text-gray-400">395</sup>  
 spes tamen in dubio est: adeo caelestibus ambo  
-diffidunt monitis; sed quid temptare nocebit?  
+[diffidunt](#diffidunt) monitis; sed quid temptare nocebit?  
 descendunt: velantque caput tunicasque recingunt  
 et iussos lapides sua post vestigia mittunt.  
 saxa (quis hoc credat, nisi sit pro teste vetustas?) <sup class="text-[.5em] text-gray-400">400</sup>  
 ponere duritiem coepere suumque rigorem  
 mollirique mora mollitaque ducere formam.  
-mox ubi creverunt naturaque mitior illis  
+mox ubi creverunt naturaque [mitior](#mitior) illis  
 contigit, ut quaedam, sic non manifesta videri  
 forma potest hominis, sed uti de marmore coepta <sup class="text-[.5em] text-gray-400">405</sup>  
 non exacta satis rudibusque simillima signis,  
-quae tamen ex illis aliquo pars umida suco  
+quae tamen ex illis aliquo pars umida [suco](#suco)  
 et terrena fuit, versa est in corporis usum;  
-quod solidum est flectique nequit, mutatur in ossa,  
+quod solidum est flectique [nequit](#nequit), mutatur in ossa,  
 quae modo vena fuit, sub eodem nomine mansit, <sup class="text-[.5em] text-gray-400">410</sup>  
 inque brevi spatio superorum numine saxa  
 missa viri manibus faciem traxere virorum  
 et de femineo reparata est femina iactu.  
 inde genus durum sumus experiensque laborum  
-et documenta damus qua simus origine nati. <sup class="text-[.5em] text-gray-400">415</sup>  
+et documenta damus qua simus origine nati. <sup class="text-[.5em] text-gray-400">415</sup>   
+Cetera diversis tellus animalia formis    
+<abbr title="adv. voluntariamente">sponte</abbr> sua peperit, postquam vetus <abbr title="umor se usa para denotar la humedad primordial que existía en la Tierra antes del calor del sol y el proceso de regeneración después del diluvio">umor</abbr> ab igne  
+percaluit solis, [caenumque](#caenumque) udaeque paludes  
+intumuere aestu, fecundaque semina rerum  
+[vivaci](#vivaci) nutrita solo ceu matris in [alvo](#alvo) <sup class="text-[.5em] text-gray-400">420</sup>  
+creverunt faciemque aliquam cepere morando.  
+sic ubi [deseruit](#deseruit) madidos septemfluus agros  
+Nilus et antiquo sua flumina reddidit alveo  
+aetherioque recens exarsit sidere limus,  
+plurima cultores versis animalia glaebis <sup class="text-[.5em] text-gray-400">425</sup>  
+inveniunt et in his quaedam modo coepta per ipsum  
+nascendi spatium, quaedam inperfecta suisque  
+trunca vident numeris, et eodem in corpore saepe  
+altera pars vivit, rudis est pars altera tellus.  
+
+<figure>
+    <img src="/fauno-nilo-pompeya.jpg" alt="Nilus septemfluus" class="w-full">
+    <figcaption>
+        Escena del Nilo, de la Casa del Fauno, Pompeya
+    </figcaption>
+</figure>
+
+quippe ubi temperiem sumpsere umorque calorque, <sup class="text-[.5em] text-gray-400">430</sup>  
+concipiunt, et ab his oriuntur cuncta duobus,  
+cumque sit ignis aquae pugnax, vapor umidus omnes  
+res creat, et discors concordia fetibus apta est.  
+ergo ubi diluvio tellus lutulenta recenti  
+solibus aetheriis altoque recanduit aestu, <sup class="text-[.5em] text-gray-400">435</sup>  
+edidit innumeras species; partimque figuras  
+rettulit antiquas, partim nova monstra creavit.  
 
 
 
@@ -324,6 +354,10 @@ Infinitivo de futuro de adsum estar prensete, venir
 #### alveus
 
 alveus, i m: cavidad, lecho de un río
+
+#### alvo
+
+alvus, i: vientre
 
 #### amnes
 
@@ -352,6 +386,10 @@ Una **palabra patrimonial** es `cima`:
 
 La transformación de "cacumen" a "cima" pasó por procesos como la asimilación y eliminación de vocales (especialmente la "u" final), así como la simplificación de consonantes. La lengua romance empezó a evitar las combinaciones consonánticas complejas y a preferir formas más simples y fáciles de pronunciar.
 
+#### caenumque
+
+caenum, i n.: lodo
+
 #### cava
 
 cavus a um: huevo
@@ -372,6 +410,10 @@ delabor -lapsus sum dep. 3 intr: caer
 
 delubrum, i n: templo, santuario
 
+#### deseruit
+
+deserere, que significa "abandonar", "dejar", o "desertar".
+
 #### Deucalión y Pirra por Rubens
 
 Deucalion y Pirra es una pintura al óleo del siglo XVII, creada por Peter Paul Rubens en torno a 1636-1637. La obra se encuentra actualmente en el Museo del Prado, en Madrid.
@@ -379,6 +421,10 @@ Deucalion y Pirra es una pintura al óleo del siglo XVII, creada por Peter Paul 
 La pintura representa el momento en que Deucalion y su esposa Pirra, después del Diluvio Universal, arrojan piedras hacia atrás, según la mitología griega. Las piedras se transforman en seres humanos que poblarán la tierra. La escena está llena de detalles y movimiento, con los personajes principales en el centro y los seres humanos naciendo de las rocas en la parte derecha de la composición.
 
 Rubens demostró su habilidad para representar la figura femenina desnuda en la figura de Pirra, con una postura similar a la utilizada por Eurídice en otra obra del artista. La pintura también muestra la habilidad de Rubens para combinar la representación de la historia mitológica con la representación de la naturaleza humana.
+
+#### diffidunt
+
+diffido, diffidere, que significa "no confiar", "desconfiar" o "dudar"
 
 #### discedite
 
@@ -443,6 +489,10 @@ inritus a um (in, ratus) no decidido, nulo, vano, inútil
 
 ### l
 
+#### latebris
+
+latebra, ae f. cueva, escondrijo
+
 #### libatos
 
 libo 1 tr: libar, ofrecer
@@ -458,6 +508,14 @@ Por lo tanto, cuando se dice que alguien "liba" o realiza una "libación", signi
 #### mersis
 
 mergo mersi mersum: sumergir; precipitar
+
+#### mitior
+
+mitis, e: suave
+
+#### mulcet
+
+mulceo mulsi mulsum 2tr: acarciar, calmar
 
 #### murice
 
@@ -477,6 +535,10 @@ De **"murex"** derivan varias palabras relacionadas con el caracol y la púrpura
 En resumen, **"murice"** es el ablativo singular de **"murex"**, que hace referencia a un tipo de caracol marino utilizado históricamente para la producción del tinte púrpura, y de esta raíz surgen términos relacionados con la recolección y la forma del caracol.
 
 ### n
+
+#### nequit
+
+nequeo, nequire, que significa "no poder" o "no ser capaz".
 
 #### nimbos
 
@@ -540,6 +602,14 @@ receptus, us m. retirada
 
 remollesco 3 tr.: ablandarse
 
+#### reor
+
+reor, ratus sum dep. pensar
+
+#### repetunt
+
+repeto: intentar alcanzar de nuevo
+
 #### rorantia
 
 roro tr.: caer rocío, caer gota a gota, humedecer, rociar
@@ -549,6 +619,10 @@ roro tr.: caer rocío, caer gota a gota, humedecer, rociar
 #### satis
 
 sembrados
+
+#### sollertia
+
+sollertia, ae f. ingenio
 
 #### stagnare
 
@@ -561,6 +635,10 @@ sterno stravi stratum: tender; echarse en el suelo; hacer caer derribar
 #### subolemque
 
 suboles, subolem f: decendencia, posteridad, linaje, prole
+
+#### suco
+
+sucus, i m:  "jugo", "líquido" o "humedad"
 
 #### superstes
 
@@ -601,3 +679,11 @@ vectus, a, un de veho vexi, vectum: llevar, transportar
 #### veniam
 
 venia, a f: indulgencia; condescendencia
+
+#### vivaci
+
+vivax, -acis: vivaz
+
+#### volutant
+
+voluto: hacer rodar
