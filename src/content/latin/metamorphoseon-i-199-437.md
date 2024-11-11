@@ -1,6 +1,6 @@
 ---
-titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 199
-descriptio: Traductio, liber primus (199)
+titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 199-437
+descriptio: Traductio, liber primus (199-437)
 ---
 
 - [Volver a Latín](/latin)
@@ -317,8 +317,8 @@ creverunt faciemque aliquam cepere morando.
 sic ubi [deseruit](#deseruit) madidos septemfluus agros  
 Nilus et antiquo sua flumina reddidit alveo  
 aetherioque recens exarsit sidere limus,  
-plurima cultores versis animalia glaebis <sup class="text-[.5em] text-gray-400">425</sup>  
-inveniunt et in his quaedam modo coepta per ipsum  
+plurima cultores versis animalia [glaebis](#glaebis) <sup class="text-[.5em] text-gray-400">425</sup>  
+inveniunt et in his quaedam <abbr title="recientemente">modo</abbr> coepta per ipsum  
 nascendi spatium, quaedam inperfecta suisque  
 trunca vident numeris, et eodem in corpore saepe  
 altera pars vivit, rudis est pars altera tellus.  
@@ -330,12 +330,12 @@ altera pars vivit, rudis est pars altera tellus.
     </figcaption>
 </figure>
 
-quippe ubi temperiem sumpsere umorque calorque, <sup class="text-[.5em] text-gray-400">430</sup>  
+quippe ubi temperiem [sumpsere](#sumpsere) umorque calorque, <sup class="text-[.5em] text-gray-400">430</sup>  
 concipiunt, et ab his oriuntur cuncta duobus,  
 cumque sit ignis aquae pugnax, vapor umidus omnes  
-res creat, et discors concordia fetibus apta est.  
-ergo ubi diluvio tellus lutulenta recenti  
-solibus aetheriis altoque recanduit aestu, <sup class="text-[.5em] text-gray-400">435</sup>  
+res creat, et discors concordia [fetibus](#fetibus) apta est.  
+ergo ubi diluvio tellus [lutulenta](#lutulenta) recenti  
+<abbr title="soles del éter (del cielo): plural poético">solibus aetheriis</abbr> altoque recanduit aestu, <sup class="text-[.5em] text-gray-400">435</sup>  
 edidit innumeras species; partimque figuras  
 rettulit antiquas, partim nova monstra creavit.  
 
@@ -436,6 +436,10 @@ discedo: separar(se), alejarse
 
 fastigium, i n: techumbre
 
+#### fetibus
+
+fetus, a, um: que lleva el fruto de la fecundación, preñado; fecundo, productivo, abundante
+
 #### flamina
 
 flamen -inis m: flamen (sacerdote romano); soplo, aliento; viento brisa
@@ -449,6 +453,12 @@ forte adv. Por casualidad
 frons, frondis f.: fronde, follaje
 
 ### g
+
+#### glaebis
+
+glaeba, ae f. gleba, terrón, terreno de cultivo.
+
+ae > e monoptongación
 
 #### gradus
 
@@ -501,7 +511,13 @@ libo 1 tr: libar, ofrecer
 
 Por lo tanto, cuando se dice que alguien "liba" o realiza una "libación", significa que está haciendo una ofrenda líquida como parte de un rito sagrado.
 
-#### lustro "lustro 1 tr: lustrar, purificar"
+#### lustro 
+
+lustro 1 tr: "lustrar, purificar"
+
+#### lutulenta
+
+lutulentus, a, um: fangoso, sucio; feo
 
 ### m
 
@@ -639,6 +655,10 @@ suboles, subolem f: decendencia, posteridad, linaje, prole
 #### suco
 
 sucus, i m:  "jugo", "líquido" o "humedad"
+
+#### sumpsere
+
+sumo sumpsi sumptum tomar
 
 #### superstes
 
