@@ -29,7 +29,95 @@ vicerat, [aesculeae](#aesculeae) capiebat frondis honorem.
 nondum laurus erat, longoque decentia crine <sup class="text-[.5em] text-gray-400">450</sup>  
 [tempora](#tempora) cingebat de qualibet arbore Phoebus.  
 
-> Los juegos píticos fueron instituidos por Apolo en honor a su victoria sobre la serpiente Pitón, a quien mató en el monte Parnaso. En reconocimiento a su triunfo, Apolo estableció estos juegos, que se celebraban cada cuatro años en Delfos, un importante centro religioso de la antigua Grecia.
+<figure>
+    <img src="/focide.svg" class="w-full">
+    <figcaption>
+        <a href="https://www.revistaesfinge.com/2022/09/los-juegos-piticos/">
+            <cite title="Juegos píticos">
+                Los juegos píticos fueron instituidos por Apolo en honor a su victoria sobre la serpiente Pitón, a quien mató en el monte Parnaso. En reconocimiento a su triunfo, Apolo estableció estos juegos, que se celebraban cada cuatro años en Delfos, un importante centro religioso de la antigua Grecia.
+            </cite>
+        </a>
+    </figcaption>
+</figure>
+
+**Phoebus et Cupido**
+
+Primus amor Phoebi [Daphne](https://es.wikipedia.org/wiki/Dafne) Peneia, quem non  
+fors ignara dedit, sed saeva Cupidinis ira,  
+Delius hunc nuper, victa serpente superbus, 
+
+> Delius es un epíteto de Apolo que hace referencia a su nacimiento en la [isla de Delos](https://es.wikipedia.org/wiki/Delos). Según la mitología griega, la diosa Leto (Latona en la mitología romana) dio a luz a Apolo en Delos, una isla que fue consagrada al dios.
+
+viderat adducto [flectentem](#flectentem) cornua nervo <sup class="text-[.5em] text-gray-400">455</sup>  
+'quid' que 'tibi, lascive puer, cum fortibus armis?'  
+dixerat: 'ista decent umeros [gestamina](#gestamina) nostros,  
+qui dare certa ferae, dare vulnera possumus hosti,  
+qui modo pestifero tot iugera ventre prementem  
+[stravimus](#stravimus) innumeris tumidum Pythona sagittis. <sup class="text-[.5em] text-gray-400">460</sup>  
+tu face nescio quos esto contentus amores  
+inritare tua, nec laudes adsere nostras!'  
+filius huic Veneris 'figat tuus omnia, Phoebe,  
+te meus arcus' ait; 'quantoque animalia cedunt  
+cuncta deo, tanto minor est tua gloria nostra.' <sup class="text-[.5em] text-gray-400">465</sup>  
+dixit et eliso percussis aere pennis  
+inpiger umbrosa Parnasi constitit arce  
+eque sagittifera prompsit duo tela pharetra  
+diversorum operum: fugat hoc, facit illud amorem;  
+quod facit, auratum est et cuspide fulget acuta, <sup class="text-[.5em] text-gray-400">470</sup>  
+quod fugat, obtusum est et habet sub harundine plumbum.  
+hoc deus in nympha Peneide fixit, at illo  
+laesit Apollineas traiecta per ossa medullas;  
+protinus alter amat, fugit altera nomen amantis  
+silvarum latebris captivarumque ferarum <sup class="text-[.5em] text-gray-400">475</sup>  
+exuviis gaudens innuptaeque aemula Phoebes:  
+vitta coercebat positos sine lege capillos.  
+multi illam petiere, illa aversata petentes  
+inpatiens expersque viri nemora avia lustrat  
+nec, quid Hymen, quid Amor, quid sint conubia curat. <sup class="text-[.5em] text-gray-400">480</sup>  
+saepe pater dixit: 'generum mihi, filia, debes,'  
+saepe pater dixit: 'debes mihi, nata, nepotes';  
+illa velut crimen taedas exosa iugales  
+pulchra verecundo suffuderat ora rubore  
+inque patris blandis haerens cervice lacertis <sup class="text-[.5em] text-gray-400">485</sup>  
+'da mihi perpetua, genitor carissime,' dixit  
+'virginitate frui! dedit hoc pater ante Dianae.'  
+ille quidem obsequitur, sed te decor iste quod optas  
+esse vetat, votoque tuo tua forma repugnat:  
+Phoebus amat visaeque cupit conubia Daphnes, <sup class="text-[.5em] text-gray-400">490</sup>  
+quodque cupit, sperat, suaque illum oracula fallunt,  
+utque leves stipulae demptis adolentur aristis,  
+ut facibus saepes ardent, quas forte viator  
+vel nimis admovit vel iam sub luce reliquit,  
+sic deus in flammas abiit, sic pectore toto <sup class="text-[.5em] text-gray-400">495</sup>  
+uritur et sterilem sperando nutrit amorem.  
+spectat inornatos collo pendere capillos  
+et 'quid, si comantur?' ait. videt igne micantes  
+sideribus similes oculos, videt oscula, quae non  
+est vidisse satis; laudat digitosque manusque <sup class="text-[.5em] text-gray-400">500</sup>  
+bracchiaque et nudos media plus parte lacertos;  
+si qua latent, meliora putat. fugit ocior aura  
+illa levi neque ad haec revocantis verba resistit:  
+'nympha, precor, Penei, mane! non insequor hostis;  
+nympha, mane! sic agna lupum, sic cerva leonem, <sup class="text-[.5em] text-gray-400">505</sup>  
+sic aquilam penna fugiunt trepidante columbae,  
+hostes quaeque suos: amor est mihi causa sequendi!  
+me miserum! ne prona cadas indignave laedi  
+crura notent sentes et sim tibi causa doloris!  
+aspera, qua properas, loca sunt: moderatius, oro, <sup class="text-[.5em] text-gray-400">510</sup>  
+curre fugamque inhibe, moderatius insequar ipse.  
+cui placeas, inquire tamen: non incola montis,  
+non ego sum pastor, non hic armenta gregesque  
+horridus observo. nescis, temeraria, nescis,  
+quem fugias, ideoque fugis: mihi Delphica tellus <sup class="text-[.5em] text-gray-400">515</sup>  
+et Claros et Tenedos Patareaque regia servit;  
+Iuppiter est genitor; per me, quod eritque fuitque  
+estque, patet; per me concordant carmina nervis.  
+certa quidem nostra est, nostra tamen una sagitta  
+certior, in vacuo quae vulnera pectore fecit! <sup class="text-[.5em] text-gray-400">520</sup>  
+inventum medicina meum est, opiferque per orbem  
+dicor, et herbarum subiecta potentia nobis.  
+ei mihi, quod nullis amor est sanabilis herbis  
+nec prosunt domino, quae prosunt omnibus, artes!'  
 
 
 
@@ -52,12 +140,7 @@ aesculea, ae f. roble, encina
 
 ### b
 
-
-
-
 ### c
-
-
 
 ### d 
 
@@ -71,64 +154,27 @@ dēleō, dēlēre, dēlēvī, dēlētum — "borrar" o "destruir"
 
 ### f
 
+#### flectentem
 
+flego flexi flectum: doblar
 
 ### g
 
-#### glaebis
+#### gestamina
 
-glaeba, ae f. gleba, terrón, terreno de cultivo.
-
-ae > e monoptongación
-
-#### gradus
-
-gradus, us m: escalera, escalón; paso
+gestamen, gestaminis n: objeto llevado o transportado [peso, fardo, vestido, adorno, armas]
 
 ### h
 
-#### habenas
-
-habena, ae f. riendas, correas
-
-#### hortamine
-
-hortamen, hortaminis f.: "exhortación", "aliento" o "motivación". 
-Viene del verbo "hortari", que significa "animar" o "exhortar".
-
 ### i
-
-#### iactura
-
-iactura, ae f. pérdida, perjuicio
-
-#### ieiunia
-
-"ieiunium, ieiunii", que significa "ayuno"
-
-### imo
-
-imus, a, um: más abajo, más profundo
-
-#### indeiecta
-
-El término "indeiecta" proviene del verbo latino "deiicio, deiicere, deieci, deiectum", que significa "derribar", "tirar abajo" o "hacer caer". Así, "indeiecta" significa literalmente "no derribado" o "no echado abajo".
-
-#### inritus
-
-inritus a um (in, ratus) no decidido, nulo, vano, inútil
 
 ### l
 
-
 ### m
-
 
 ### n
 
-
 ### o
-
 
 ### p
 
@@ -138,9 +184,11 @@ pharetra, ae f.: carcaj, aljava
 
 ### r
 
-
 ### s 
 
+#### stravimus
+
+sterno stravi stratum: tender
 
 ### t 
 
@@ -148,22 +196,4 @@ pharetra, ae f.: carcaj, aljava
 
 tempus, oris n: Sienes en este contexto
 
-#### vaga
-
-vagus, a, un errante (vida errante), sin rumbo 
-
-#### vectus
-
-vectus, a, un de veho vexi, vectum: llevar, transportar
-
-#### veniam
-
-venia, a f: indulgencia; condescendencia
-
-#### vivaci
-
-vivax, -acis: vivaz
-
-#### volutant
-
-voluto: hacer rodar
+### v
