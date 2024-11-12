@@ -50,21 +50,24 @@ Delius hunc nuper, victa serpente superbus,
 
 viderat adducto [flectentem](#flectentem) cornua nervo <sup class="text-[.5em] text-gray-400">455</sup>  
 'quid' que 'tibi, lascive puer, cum fortibus armis?'  
-dixerat: 'ista decent umeros [gestamina](#gestamina) nostros,  
-qui dare certa ferae, dare vulnera possumus hosti,  
-qui modo pestifero tot iugera ventre prementem  
+dixerat: 'ista [decent](#decent) umeros [gestamina](#gestamina) nostros,  
+qui dare <abbr title="con golpes certeros">certa</abbr> ferae, dare vulnera possumus hosti,  
+qui modo pestifero tot [iugera](#iugera) ventre prementem  
 [stravimus](#stravimus) innumeris tumidum Pythona sagittis. <sup class="text-[.5em] text-gray-400">460</sup>  
+
+> En latín, 'iugerum' (plural: iugera) era una unidad de medida de superficie utilizada en la Antigua Roma. Un iugerum equivale aproximadamente a 2.500 metros cuadrados (0,25 hectáreas) y era la cantidad de tierra que una pareja de bueyes podía arar en un día.
+
 tu face nescio quos esto contentus amores  
-inritare tua, nec laudes adsere nostras!'  
-filius huic Veneris 'figat tuus omnia, Phoebe,  
+inritare tua, nec laudes [adsere](#adsere) nostras!'  
+[filius huic Veneris](https://es.wikipedia.org/wiki/Cupido) '[figat](#figat) tuus omnia, Phoebe,  
 te meus arcus' ait; 'quantoque animalia cedunt  
 cuncta deo, tanto minor est tua gloria nostra.' <sup class="text-[.5em] text-gray-400">465</sup>  
-dixit et eliso percussis aere pennis  
-inpiger umbrosa Parnasi constitit arce  
+dixit et [eliso](#eliso) percussis aere pennis  
+[inpiger](#inpiger) umbrosa Parnasi constitit arce  
 eque sagittifera prompsit duo tela pharetra  
 diversorum operum: fugat hoc, facit illud amorem;  
 quod facit, auratum est et cuspide fulget acuta, <sup class="text-[.5em] text-gray-400">470</sup>  
-quod fugat, obtusum est et habet sub harundine plumbum.  
+quod fugat, obtusum est et habet sub [harundine](#harundine) plumbum.  
 hoc deus in nympha Peneide fixit, at illo  
 laesit Apollineas traiecta per ossa medullas;  
 protinus alter amat, fugit altera nomen amantis  
@@ -134,6 +137,16 @@ nec prosunt domino, quae prosunt omnibus, artes!'
 
 ### a
 
+#### adsere
+
+adsero -serui -sertum 3 tr: reivindicar, declarar
+
+> adsere: verbo, 2ª persona singular del presente imperativo de adsere (atribuir, reclamar). Forma una orden dirigida a tu.
+
+**Palabras patrimoniales**
+
+Aserto, asertivo
+
 #### aesculeae
 
 aesculea, ae f. roble, encina
@@ -148,11 +161,25 @@ aesculea, ae f. roble, encina
 
 damma, ae m.: gamo
 
+#### decent
+
+decet decuit impers. 2 tr: estar o sentar bien, ser apropiado, convenir
+
 #### delere
 
 dēleō, dēlēre, dēlēvī, dēlētum — "borrar" o "destruir"
 
+### e
+
+#### eliso
+
+elido elisus: expulsar
+
 ### f
+
+#### figat
+
+figo fixi fixum 3 tr: clavar, hincar
 
 #### flectentem
 
@@ -166,7 +193,19 @@ gestamen, gestaminis n: objeto llevado o transportado [peso, fardo, vestido, ado
 
 ### h
 
+#### harundine
+
+harundo, -inis f: caña
+
 ### i
+
+#### inpiger
+
+impiger -ra -rum: activo, diligente
+
+#### iugera
+
+iugerum, i: iugada
 
 ### l
 
