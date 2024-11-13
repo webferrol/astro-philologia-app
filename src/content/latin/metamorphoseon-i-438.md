@@ -42,7 +42,10 @@ nondum laurus erat, longoque decentia crine <sup class="text-[.5em] text-gray-40
 
 **Phoebus et Cupido**
 
-Primus amor Phoebi [Daphne](https://es.wikipedia.org/wiki/Dafne) Peneia, quem non  
+> El término Phoebus proviene del latín Phoebus, que a su vez fue tomado del griego antiguo Φοῖβος (Phoîbos), que significa 'brillante' o 'resplandeciente'.   
+El nombre Dafne proviene del griego antiguo Δάφνη (Daphnē), que significa 'laurel'. En la mitología griega, Dafne era una ninfa asociada con los ríos y los árboles
+
+Primus amor Phoebi [Daphne](https://es.wikipedia.org/wiki/Dafne) <abbr title="Aquí Ovidio la pone como hija del río Peneo de Tesalia,">Peneia</abbr>, quem non  
 fors ignara dedit, sed saeva Cupidinis ira,  
 Delius hunc nuper, victa serpente superbus, 
 
@@ -57,25 +60,34 @@ qui modo pestifero tot [iugera](#iugera) ventre prementem
 
 > En latín, 'iugerum' (plural: iugera) era una unidad de medida de superficie utilizada en la Antigua Roma. Un iugerum equivale aproximadamente a 2.500 metros cuadrados (0,25 hectáreas) y era la cantidad de tierra que una pareja de bueyes podía arar en un día.
 
-tu face nescio quos esto contentus amores  
+tu face nescio quos <abbr title="Segunda persona singular del imperativo futuro: estarás">esto</abbr> contentus amores  
 inritare tua, nec laudes [adsere](#adsere) nostras!'  
 [filius huic Veneris](https://es.wikipedia.org/wiki/Cupido) '[figat](#figat) tuus omnia, Phoebe,  
 te meus arcus' ait; 'quantoque animalia cedunt  
 cuncta deo, tanto minor est tua gloria nostra.' <sup class="text-[.5em] text-gray-400">465</sup>  
+
+<figure>
+  <a href="https://es.wikipedia.org/wiki/Cupido"><img src="https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731487881/latin/Allori_Venus_Cupido_cg06zj.jpg" alt="Cupidus et Venus"></a>
+  <figcaption>filius Veneris</figcaption>
+</figure>
+
 dixit et [eliso](#eliso) percussis aere pennis  
 [inpiger](#inpiger) umbrosa Parnasi constitit arce  
-eque sagittifera prompsit duo tela pharetra  
+eque sagittifera prompsit duo tela [pharetra](#pharetra)  
 diversorum operum: fugat hoc, facit illud amorem;  
 quod facit, auratum est et cuspide fulget acuta, <sup class="text-[.5em] text-gray-400">470</sup>  
 quod fugat, obtusum est et habet sub [harundine](#harundine) plumbum.  
-hoc deus in nympha Peneide fixit, at illo  
+hoc deus in <abbr title="Aquí Ovidio la pone como hija del río Peneo de Tesalia,">nympha Peneide</abbr> fixit, at illo  
 laesit Apollineas traiecta per ossa medullas;  
 protinus alter amat, fugit altera nomen amantis  
 silvarum latebris captivarumque ferarum <sup class="text-[.5em] text-gray-400">475</sup>  
-exuviis gaudens innuptaeque aemula Phoebes:  
-vitta coercebat positos sine lege capillos.  
+[exuviis](#exuviis) gaudens innuptaeque [aemula](#aemula) [Phoebes](#phoebes):
+
+> En estos versos, Ovidio describe a Dafne (la 'ella' del primer verso) rechazando el papel de amante o de pareja romántica. Dafne disfruta de la vida en la naturaleza, rodeada de los bosques y vistiendo pieles de animales que ha cazado, en un estilo de vida similar al de la diosa Febe (Diana/Artemisa), la diosa de la caza y de la virginidad, a quien Dafne admira y con quien se identifica.
+
+[vitta](#vitta) coercebat positos sine lege capillos.  
 multi illam petiere, illa aversata petentes  
-inpatiens expersque viri nemora avia lustrat  
+inpatiens [expersque](#expersque) viri [nemora](#nemora) [avia](#avia) lustrat  
 nec, quid Hymen, quid Amor, quid sint conubia curat. <sup class="text-[.5em] text-gray-400">480</sup>  
 saepe pater dixit: 'generum mihi, filia, debes,'  
 saepe pater dixit: 'debes mihi, nata, nepotes';  
@@ -147,9 +159,18 @@ adsero -serui -sertum 3 tr: reivindicar, declarar
 
 Aserto, asertivo
 
+#### aemula
+
+aemulus, a, um: émulo, igual; adversario, envidioso
+
+
 #### aesculeae
 
 aesculea, ae f. roble, encina
+
+#### avia
+
+avius, a, um: sin camino, inaccesible
 
 ### b
 
@@ -174,6 +195,14 @@ dēleō, dēlēre, dēlēvī, dēlētum — "borrar" o "destruir"
 #### eliso
 
 elido elisus: expulsar
+
+#### expersque
+
+expers, -pertis: que no tiene parte, privado de
+
+#### exuviis
+
+exuviae, arum f.: prendas, vestidos, pieles; botín, despojos
 
 ### f
 
@@ -213,9 +242,17 @@ iugerum, i: iugada
 
 ### n
 
+#### nemora
+
+nemus, oris n: bosque, seto
+
 ### o
 
 ### p
+
+#### Phoebes
+
+Phoebe -es f: Hermana de Febo (Apolo):  Diana (Artemisa en la mitología griega)
 
 #### pharetra
 
@@ -236,3 +273,7 @@ sterno stravi stratum: tender
 tempus, oris n: Sienes en este contexto
 
 ### v
+
+#### vitta
+
+vitta, ae f: venda o cinta
