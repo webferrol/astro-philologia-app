@@ -68,7 +68,7 @@ cuncta deo, tanto minor est tua gloria nostra.' <sup class="text-[.5em] text-gra
 
 <figure>
   <a href="https://es.wikipedia.org/wiki/Cupido"><img src="https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731487881/latin/Allori_Venus_Cupido_cg06zj.jpg" alt="Cupidus et Venus"></a>
-  <figcaption>filius Veneris</figcaption>
+  <figcaption>Cupidus: filius Veneris</figcaption>
 </figure>
 
 dixit et [eliso](#eliso) percussis aere pennis  
@@ -91,48 +91,85 @@ inpatiens [expersque](#expersque) viri [nemora](#nemora) [avia](#avia) lustrat
 nec, quid Hymen, quid Amor, quid sint conubia curat. <sup class="text-[.5em] text-gray-400">480</sup>  
 saepe pater dixit: 'generum mihi, filia, debes,'  
 saepe pater dixit: 'debes mihi, nata, nepotes';  
-illa velut crimen taedas exosa iugales  
-pulchra verecundo suffuderat ora rubore  
+illa velut crimen <abbr title="taeda, ae f: anchorcha (nupcial)">taedas</abbr> [exosa](#exosa) iugales  
+pulchra [verecundo](#verecundo) suffuderat ora rubore  
 inque patris blandis haerens cervice lacertis <sup class="text-[.5em] text-gray-400">485</sup>  
 'da mihi perpetua, genitor carissime,' dixit  
-'virginitate frui! dedit hoc pater ante Dianae.'  
-ille quidem obsequitur, sed te decor iste quod optas  
+'virginitate [frui](#frui)! dedit hoc pater ante Dianae.'  
+ille quidem [obsequitur](#obsequitur), sed te decor iste quod optas  
 esse vetat, votoque tuo tua forma repugnat:  
 Phoebus amat visaeque cupit conubia Daphnes, <sup class="text-[.5em] text-gray-400">490</sup>  
 quodque cupit, sperat, suaque illum oracula fallunt,  
-utque leves stipulae demptis adolentur aristis,  
-ut facibus saepes ardent, quas forte viator  
+utque leves stipulae [demptis](#demptis) [adolentur](#adolentur) aristis,  
+ut facibus [saepes](#saepes) ardent, quas forte viator  
 vel nimis admovit vel iam sub luce reliquit,  
 sic deus in flammas abiit, sic pectore toto <sup class="text-[.5em] text-gray-400">495</sup>  
 uritur et sterilem sperando nutrit amorem.  
 spectat inornatos collo pendere capillos  
-et 'quid, si comantur?' ait. videt igne micantes  
+et 'quid, si [comantur](#comantur)?' ait. videt igne [micantes](#micantes)  
 sideribus similes oculos, videt oscula, quae non  
 est vidisse satis; laudat digitosque manusque <sup class="text-[.5em] text-gray-400">500</sup>  
 bracchiaque et nudos media plus parte lacertos;  
-si qua latent, meliora putat. fugit ocior aura  
+si qua latent, meliora putat. fugit ocior [aura](#aura)  
 illa levi neque ad haec revocantis verba resistit:  
 'nympha, precor, Penei, mane! non insequor hostis;  
 nympha, mane! sic agna lupum, sic cerva leonem, <sup class="text-[.5em] text-gray-400">505</sup>  
 sic aquilam penna fugiunt trepidante columbae,  
 hostes quaeque suos: amor est mihi causa sequendi!  
 me miserum! ne prona cadas indignave laedi  
-crura notent sentes et sim tibi causa doloris!  
-aspera, qua properas, loca sunt: moderatius, oro, <sup class="text-[.5em] text-gray-400">510</sup>  
+crura notent [sentes](#sentes) et sim tibi causa doloris!  
+aspera, qua [properas](#properas), loca sunt: moderatius, oro, <sup class="text-[.5em] text-gray-400">510</sup>  
 curre fugamque inhibe, moderatius insequar ipse.  
 cui placeas, inquire tamen: non incola montis,  
-non ego sum pastor, non hic armenta gregesque  
+non ego sum pastor, non hic [armenta](#armenta) gregesque  
 horridus observo. nescis, temeraria, nescis,  
-quem fugias, ideoque fugis: mihi Delphica tellus <sup class="text-[.5em] text-gray-400">515</sup>  
-et Claros et Tenedos Patareaque regia servit;  
+quem fugias, ideoque fugis: mihi [Delphica tellus](#santuarios) <sup class="text-[.5em] text-gray-400">515</sup>  
+et [Claros](#santuarios) et [Tenedos](#santuarios) [Patareaque](#santuarios) regia servit;  
 Iuppiter est genitor; per me, quod eritque fuitque  
 estque, patet; per me concordant carmina nervis.  
 certa quidem nostra est, nostra tamen una sagitta  
 certior, in vacuo quae vulnera pectore fecit! <sup class="text-[.5em] text-gray-400">520</sup>  
-inventum medicina meum est, opiferque per orbem  
+<abbr title="Apolo es el dios de la música y la lira. La curación pertenece a su reino: era el padre de Asclepio, el dios de la medicina">inventum medicina meum est</abbr>, [opiferque](opiferque) per orbem  
 dicor, et herbarum subiecta potentia nobis.  
 ei mihi, quod nullis amor est sanabilis herbis  
-nec prosunt domino, quae prosunt omnibus, artes!'  
+nec [prosunt](#prosunt) domino, quae prosunt omnibus, artes!' 
+
+
+<figure>
+    <image src="https://res.cloudinary.com/dimvf1zl2/image/upload/v1731582635/latin/Fresco-pompeyano-en-el-que-se-distingue-al-dios-de-la-medicina-Apolo_mnh8ln.jpg" alt="Apolo y Asclepio" class="w-full">
+    <figcaption>
+       Fresco de Pompeya en el que se distingue al dios de la medicina Apolo (izquierda), al centauro Quirón (centro) y al dios Asclepio (derecha)
+    </figcaption>
+</figure>
+
+Plura locuturum timido Peneia cursu <sup class="text-[.5em] text-gray-400">525</sup>  
+fugit cumque ipso verba inperfecta reliquit,  
+tum quoque visa decens; nudabant corpora venti,  
+obviaque adversas vibrabant flamina vestes,  
+et levis inpulsos retro dabat aura capillos,  
+auctaque forma fuga est. sed enim non sustinet ultra <sup class="text-[.5em] text-gray-400">530</sup>  
+perdere blanditias iuvenis deus, utque monebat  
+ipse Amor, admisso sequitur vestigia passu.  
+ut canis in vacuo leporem cum Gallicus arvo  
+vidit, et hic praedam pedibus petit, ille salutem;  
+alter inhaesuro similis iam iamque tenere <sup class="text-[.5em] text-gray-400">535</sup>  
+sperat et extento stringit vestigia rostro,  
+alter in ambiguo est, an sit conprensus, et ipsis  
+morsibus eripitur tangentiaque ora relinquit:  
+sic deus et virgo est hic spe celer, illa timore.  
+qui tamen insequitur pennis adiutus Amoris, <sup class="text-[.5em] text-gray-400">540</sup>  
+ocior est requiemque negat tergoque fugacis  
+inminet et crinem sparsum cervicibus adflat.  
+viribus absumptis expalluit illa citaeque  
+victa labore fugae spectans Peneidas undas  
+'fer, pater,' inquit 'opem! si flumina numen habetis, <sup class="text-[.5em] text-gray-400">545</sup>  
+qua nimium placui, mutando perde figuram!'  
+[quae facit ut laedar mutando perde figuram.]  
+vix prece finita torpor gravis occupat artus,  
+mollia cinguntur tenui praecordia libro,  
+in frondem crines, in ramos bracchia crescunt, <sup class="text-[.5em] text-gray-400">550</sup>  
+pes modo tam velox pigris radicibus haeret,  
+ora cacumen habet: remanet nitor unus in illa.  
 
 
 
@@ -148,6 +185,10 @@ nec prosunt domino, quae prosunt omnibus, artes!'
 ## Lexicon
 
 ### a
+
+#### adolentur
+
+adoleo -olui, adultum: convertir en vapor; cubrir de vapor; quemar, encender, pegar fuego
 
 #### adsere
 
@@ -168,6 +209,14 @@ aemulus, a, um: émulo, igual; adversario, envidioso
 
 aesculea, ae f. roble, encina
 
+#### armenta
+
+armentum, i n.: ganado mayor
+
+#### aura
+
+aura, ae f: soplo ligero
+
 #### avia
 
 avius, a, um: sin camino, inaccesible
@@ -175,6 +224,10 @@ avius, a, um: sin camino, inaccesible
 ### b
 
 ### c
+
+####  comantur
+
+como compsi comptum 3 tr: peinar,rizar; adornar, acicalar
 
 ### d 
 
@@ -190,11 +243,19 @@ decet decuit impers. 2 tr: estar o sentar bien, ser apropiado, convenir
 
 dēleō, dēlēre, dēlēvī, dēlētum — "borrar" o "destruir"
 
+#### demptis
+
+demo dempsi demptum 3: quitar, sustraer
+
 ### e
 
 #### eliso
 
 elido elisus: expulsar
+
+#### exosa
+
+exosus, a, um: que odia, destesta, aborrece
 
 #### expersque
 
@@ -213,6 +274,10 @@ figo fixi fixum 3 tr: clavar, hincar
 #### flectentem
 
 flego flexi flectum: doblar
+
+### frui
+
+fruor fructus sum dep.  3 INTR: usar, gozar, disfrutar
 
 ### g
 
@@ -240,6 +305,10 @@ iugerum, i: iugada
 
 ### m
 
+#### micantes
+
+mico -ui 1: agitarse, ir y venir; estremecerse
+
 ### n
 
 #### nemora
@@ -247,6 +316,14 @@ iugerum, i: iugada
 nemus, oris n: bosque, seto
 
 ### o
+
+#### obsequitur
+
+obsequor: mostrarse complaciente
+
+#### opiferque
+
+opifer -era -erum: auxiliador
 
 ### p
 
@@ -258,9 +335,25 @@ Phoebe -es f: Hermana de Febo (Apolo):  Diana (Artemisa en la mitología griega)
 
 pharetra, ae f.: carcaj, aljava
 
+#### properas
+
+propero 1 tr: apresurarse
+
+#### prosunt
+
+prosum -fui: aprovechar, ser útil
+
 ### r
 
 ### s 
+
+#### saepes
+
+saepes, is f: seto, vallado
+
+#### sentes
+
+sentis, is f.: zarza
 
 #### stravimus
 
@@ -274,6 +367,25 @@ tempus, oris n: Sienes en este contexto
 
 ### v
 
+#### verecundo
+
+verecundus a um : vergonzoso
+
 #### vitta
 
 vitta, ae f: venda o cinta
+
+
+## Santuarios
+
+Los lugares mencionados en la frase son todos santuarios y centros de culto de la antigua Grecia asociados con el dios Apolo:
+
+1. **Delphica tellus (Delfos)**: Se refiere al santuario de Delfos, el más famoso oráculo de Apolo, situado en la región de Fócide en Grecia. Delfos era considerado el centro del mundo en la mitología griega.
+
+2. **Claros**: Un importante centro de culto de Apolo en Asia Menor (actual Turquía), cerca de la ciudad de Colofón. Claros también tenía un oráculo famoso.
+
+3. **Tenedos**: Una isla en el mar Egeo, cercana a Troya, donde había un templo y un culto dedicado a Apolo. Tenedos era conocida en la mitología griega como un lugar asociado con las profecías.
+
+4. **Patarea (Patara)**: Ubicada en Licia (en la actual Turquía), Patara tenía un famoso templo y oráculo de Apolo. Era considerado uno de los centros oraculares más importantes, después de Delfos y Claros.
+
+Estos lugares servían como santuarios importantes donde se adoraba a Apolo y se consultaba a sus oráculos.
