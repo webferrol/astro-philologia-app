@@ -182,15 +182,18 @@ oscula dat ligno; refugit tamen oscula lignum.
 
 cui deus 'at, quoniam coniunx mea non potes esse,  
 arbor eris certe' dixit 'mea! semper habebunt  
-te coma, te citharae, te nostrae, laure, pharetrae;  
+te coma, te citharae, te nostrae, laure, pharetrae; 
+
+> Coma: Sustantivo en nominativo singular que significa 'cabellera' (metonimia para 'corona' o guirnalda).
+
 tu ducibus Latiis aderis, cum laeta Triumphum <sup class="text-[.5em] text-gray-400">560</sup>  
 vox canet et visent longas Capitolia pompas;  
-postibus Augustis eadem fidissima custos  
-ante fores stabis mediamque tuebere quercum,  
-utque meum intonsis caput est iuvenale capillis,  
+postibus <abbr title="Cayo Julio César Augusto, o simplemente Augusto (en latín, Augustus; Roma, 23 de septiembre de 63 a. C.-Nola, 19 de agosto de 14 d. C.), también conocido como Octaviano (Octavianus)">Augustis</abbr> eadem fidissima custos  
+ante fores stabis mediamque [tuebere](#tuebere) quercum,  
+utque meum [intonsis](#intonsis) caput est iuvenale capillis,  
 tu quoque perpetuos semper gere frondis honores!' <sup class="text-[.5em] text-gray-400">565</sup>  
-finierat Paean: factis modo laurea ramis  
-adnuit utque caput visa est agitasse cacumen.  
+finierat <abbr title="Παιάν: su significado origal es 'sanación'. Luego se convirtió en un epíteto para Apolo como Sanador o Médico Divino">Paean</abbr>: factis modo laurea ramis  
+[adnuit](#adnuit) utque caput visa est agitasse cacumen.  
 
 **Iuppiter et Ío (I)** 
 
@@ -212,6 +215,10 @@ adnuit utque caput visa est agitasse cacumen.
 #### adiutus
 
 adiuvo, adiuvare, adiuvi, adiutum: que significa "ayudar" o "asistir."
+
+#### adnuit
+
+annuo -nui -nutum: hacer una señal
 
 #### adolentur
 
@@ -336,6 +343,10 @@ harundo, -inis f: caña
 
 impiger -ra -rum: activo, diligente
 
+#### intonsis
+
+intonus, a, um: intonso, que no tiene el pelo cortado
+
 #### iugera
 
 iugerum, i: iugada
@@ -411,6 +422,12 @@ sterno stravi stratum: tender
 #### tempora
 
 tempus, oris n: Sienes en este contexto
+
+#### tuebere
+
+tueor tuitus o tutus sum dep. 2. tr.: proteger
+
+Morfológicamente, "tuebere" es una segunda persona singular del futuro de indicativo del verbo "tueri".
 
 ### v
 
