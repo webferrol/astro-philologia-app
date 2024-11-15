@@ -45,7 +45,7 @@ nondum laurus erat, longoque decentia crine <sup class="text-[.5em] text-gray-40
 > El término Phoebus proviene del latín Phoebus, que a su vez fue tomado del griego antiguo Φοῖβος (Phoîbos), que significa 'brillante' o 'resplandeciente'.   
 El nombre Dafne proviene del griego antiguo Δάφνη (Daphnē), que significa 'laurel'. En la mitología griega, Dafne era una ninfa asociada con los ríos y los árboles
 
-Primus amor Phoebi [Daphne](https://es.wikipedia.org/wiki/Dafne) <abbr title="Aquí Ovidio la pone como hija del río Peneo de Tesalia,">Peneia</abbr>, quem non  
+Primus amor Phoebi [Daphne](https://es.wikipedia.org/wiki/Dafne) <a href="https://es.wikipedia.org/wiki/Peneo_(mitolog%C3%ADa)"><abbr title="Aquí Ovidio la pone como hija del río Peneo de Tesalia,">Peneia</abbr></a>, quem non  
 fors ignara dedit, sed saeva Cupidinis ira,  
 Delius hunc nuper, victa serpente superbus, 
 
@@ -67,8 +67,8 @@ te meus arcus' ait; 'quantoque animalia cedunt
 cuncta deo, tanto minor est tua gloria nostra.' <sup class="text-[.5em] text-gray-400">465</sup>  
 
 <figure>
-  <a href="https://es.wikipedia.org/wiki/Cupido"><img src="https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731487881/latin/Allori_Venus_Cupido_cg06zj.jpg" alt="Cupidus et Venus"></a>
-  <figcaption>Cupidus: filius Veneris</figcaption>
+  <a href="https://es.wikipedia.org/wiki/Cupido"><img src="https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731487881/latin/Allori_Venus_Cupido_cg06zj.jpg" alt="Cupīdō et Venus"></a>
+  <figcaption>Cupīdō: filius Veneris</figcaption>
 </figure>
 
 dixit et [eliso](#eliso) percussis aere pennis  
@@ -142,34 +142,57 @@ nec [prosunt](#prosunt) domino, quae prosunt omnibus, artes!'
     </figcaption>
 </figure>
 
-Plura locuturum timido Peneia cursu <sup class="text-[.5em] text-gray-400">525</sup>  
+<abbr title="a punto de decir más (participio de futuro)">Plura locuturum</abbr> timido Peneia cursu <sup class="text-[.5em] text-gray-400">525</sup>  
 fugit cumque ipso verba inperfecta reliquit,  
 tum quoque visa decens; nudabant corpora venti,  
 obviaque adversas vibrabant flamina vestes,  
 et levis inpulsos retro dabat aura capillos,  
-auctaque forma fuga est. sed enim non sustinet ultra <sup class="text-[.5em] text-gray-400">530</sup>  
+[auctaque](#aucta) forma fuga est. sed enim non sustinet ultra <sup class="text-[.5em] text-gray-400">530</sup>  
 perdere blanditias iuvenis deus, utque monebat  
 ipse Amor, admisso sequitur vestigia passu.  
-ut canis in vacuo leporem cum Gallicus arvo  
+ut canis in vacuo leporem cum <abbr title="(perro) galgo">Gallicus</abbr> arvo  
 vidit, et hic praedam pedibus petit, ille salutem;  
-alter inhaesuro similis iam iamque tenere <sup class="text-[.5em] text-gray-400">535</sup>  
+alter [inhaesuro](#inhaesuro) similis iam iamque tenere <sup class="text-[.5em] text-gray-400">535</sup>  
 sperat et extento stringit vestigia rostro,  
 alter in ambiguo est, an sit conprensus, et ipsis  
 morsibus eripitur tangentiaque ora relinquit:  
 sic deus et virgo est hic spe celer, illa timore.  
-qui tamen insequitur pennis adiutus Amoris, <sup class="text-[.5em] text-gray-400">540</sup>  
-ocior est requiemque negat tergoque fugacis  
+qui tamen insequitur pennis [adiutus](#adiutus) Amoris, <sup class="text-[.5em] text-gray-400">540</sup>  
+ocior est [requiemque](#requiem) negat tergoque fugacis  
 inminet et crinem sparsum cervicibus adflat.  
-viribus absumptis expalluit illa citaeque  
+viribus absumptis [expalluit](#expalluit) illa citaeque  
 victa labore fugae spectans Peneidas undas  
 'fer, pater,' inquit 'opem! si flumina numen habetis, <sup class="text-[.5em] text-gray-400">545</sup>  
-qua nimium placui, mutando perde figuram!'  
+<abbr title="ablativo. Concuerda con 'figuram'">qua</abbr> nimium placui, mutando perde figuram!'  
 [quae facit ut laedar mutando perde figuram.]  
 vix prece finita torpor gravis occupat artus,  
 mollia cinguntur tenui praecordia libro,  
 in frondem crines, in ramos bracchia crescunt, <sup class="text-[.5em] text-gray-400">550</sup>  
 pes modo tam velox pigris radicibus haeret,  
-ora cacumen habet: remanet nitor unus in illa.  
+ora cacumen habet: remanet nitor unus in illa.   
+Hanc quoque Phoebus amat positaque in [stipite](#stipite) dextra  
+sentit adhuc trepidare novo sub cortice pectus  
+conplexusque suis ramos ut membra lacertis <sup class="text-[.5em] text-gray-400">555</sup>  
+oscula dat ligno; refugit tamen oscula lignum.
+
+<figure>
+<img src="https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1731668664/latin/apolo-dafne-escultura_jczrsd.jpg" alt="Apollus et Daphne">
+<figcaption>Apolo y Dafne, de Gian Lorenzo Bernini</figcaption>
+</figure>
+
+cui deus 'at, quoniam coniunx mea non potes esse,  
+arbor eris certe' dixit 'mea! semper habebunt  
+te coma, te citharae, te nostrae, laure, pharetrae;  
+tu ducibus Latiis aderis, cum laeta Triumphum <sup class="text-[.5em] text-gray-400">560</sup>  
+vox canet et visent longas Capitolia pompas;  
+postibus Augustis eadem fidissima custos  
+ante fores stabis mediamque tuebere quercum,  
+utque meum intonsis caput est iuvenale capillis,  
+tu quoque perpetuos semper gere frondis honores!' <sup class="text-[.5em] text-gray-400">565</sup>  
+finierat Paean: factis modo laurea ramis  
+adnuit utque caput visa est agitasse cacumen.  
+
+**Iuppiter et Ío (I)** 
 
 
 
@@ -185,6 +208,10 @@ ora cacumen habet: remanet nitor unus in illa.
 ## Lexicon
 
 ### a
+
+#### adiutus
+
+adiuvo, adiuvare, adiuvi, adiutum: que significa "ayudar" o "asistir."
 
 #### adolentur
 
@@ -212,6 +239,10 @@ aesculea, ae f. roble, encina
 #### armenta
 
 armentum, i n.: ganado mayor
+
+#### aucta
+
+augere, auxi, auctum:  que significa "aumentar" o "acrecentar."
 
 #### aura
 
@@ -257,6 +288,10 @@ elido elisus: expulsar
 
 exosus, a, um: que odia, destesta, aborrece
 
+#### expalluit
+
+expallesco expallui: palidecer || temer
+
 #### expersque
 
 expers, -pertis: que no tiene parte, privado de
@@ -292,6 +327,10 @@ gestamen, gestaminis n: objeto llevado o transportado [peso, fardo, vestido, ado
 harundo, -inis f: caña
 
 ### i
+
+#### inhaesuro
+
+ inhaereo, inhaerere, inhaesi, inhaesum: que significa "adherirse" o "aferrarse."
 
 #### inpiger
 
@@ -345,6 +384,10 @@ prosum -fui: aprovechar, ser útil
 
 ### r
 
+#### requiem
+
+requies  -quietis f.: descanso, reposo
+
 ### s 
 
 #### saepes
@@ -354,6 +397,10 @@ saepes, is f: seto, vallado
 #### sentes
 
 sentis, is f.: zarza
+
+#### stipite
+
+stipes -itis m: palo, tronco del árbol
 
 #### stravimus
 
