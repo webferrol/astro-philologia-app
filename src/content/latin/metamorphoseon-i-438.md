@@ -197,26 +197,34 @@ finierat <abbr title="Παιάν: su significado origal es 'sanación'. Luego se
 
 **Iuppiter et Ío (I)** 
 
-Est nemus Haemoniae, praerupta quod undique claudit  
-silva: vocant Tempe; per quae Peneos ab imo  
-effusus Pindo spumosis volvitur undis <sup class="text-[.5em] text-gray-400">570</sup>  
-deiectuque gravi tenues agitantia fumos  
-nubila conducit summisque adspergine silvis  
+Est nemus <abbr title="Epíteto relacionado a Tesalia (Haemón, rey de Tesalia). Tesalia tiene gran importancia en los mitos griegos. Es conocida como el lugar de la batalla de los Lapitas y Centauros, la morada de los dioses del Olimpo en sus límites y el sitio de eventos destacados como los asociados a Apolo y el Valle de Tempe.">Haemoniae</abbr>, [praerupta](#praerupta) quod undique claudit  
+silva: vocant Tempe; per quae Peneos ab [imo](#imo)  
+effusus <abbr title="desde la base (imo) [del monte] Pindo">Pindo</abbr> spumosis volvitur undis <sup class="text-[.5em] text-gray-400">570</sup>  
+[deiectuque](#deiectu) gravi tenues [agitantia](#agitantia) fumos  
+nubila conducit summisque [adspergine](#adspergine) silvis  
 inpluit et sonitu plus quam vicina fatigat:  
-haec domus, haec sedes, haec sunt penetralia magni  
-amnis, in his residens facto de cautibus antro, <sup class="text-[.5em] text-gray-400">575</sup>  
-undis iura dabat nymphisque colentibus undas.  
+haec domus, haec sedes, haec sunt [penetralia](#penetralia) magni  
+amnis, in his residens facto de [cautibus](#cautibus) antro, <sup class="text-[.5em] text-gray-400">575</sup>  
+undis iura dabat <abbr title="Las ninfas de las aguas: Las náyades eran ninfas asociadas a los ríos y las fuentes, y aquí se las presenta como habitantes del río, obedeciendo las leyes del dios del Peneo.">nymphisque colentibus</abbr> undas.  
+
+> El Valle de Tempe era un lugar mítico en la cultura griega, asociado con la vegetación exuberante, las aguas puras y los rituales sagrados. En este pasaje, se describe como un bosque cerrado por todos lados, probablemente para evocar una atmósfera de aislamiento y santidad. Este lugar es significativo en la historia de Apolo, ya que aquí se decía que descansaba después de sus hazañas.
+
 conveniunt illuc popularia flumina primum,  
-nescia, gratentur consolenturne parentem,  
+nescia, [gratentur](#gratentur) consolenturne parentem,  
 populifer Sperchios et inrequietus Enipeus  
 Apidanosque senex lenisque Amphrysos et Aeas, <sup class="text-[.5em] text-gray-400">580</sup>  
 moxque amnes alii, qui, qua tulit inpetus illos,  
-in mare deducunt fessas erroribus undas.  
+in mare deducunt [fessas](#fessas) erroribus undas. 
+
+![Ríos de Tesalia](https://res.cloudinary.com/dimvf1zl2/image/upload/v1731798472/maps/Tessalia_ujt8az.webp)
+
 Inachus unus abest imoque reconditus antro  
 fletibus auget aquas natamque miserrimus Io  
 luget ut amissam: nescit, vitane fruatur <sup class="text-[.5em] text-gray-400">585</sup>  
 an sit apud manes; sed quam non invenit usquam,  
-esse putat nusquam atque animo peiora veretur.  
+esse putat nusquam atque animo peiora veretur. 
+
+> Ínaco, el dios del río y padre de Ío, está devastado por la desaparición de su hija. En la mitología, Ío fue transformada en una vaca por Zeus para protegerla de los celos de Hera.
 
 
 
@@ -254,6 +262,10 @@ adsero -serui -sertum 3 tr: reivindicar, declarar
 
 Aserto, asertivo
 
+#### adspergine
+
+aspergo, -inis f: aspersión, rociadura; goteo
+
 #### aemula
 
 aemulus, a, um: émulo, igual; adversario, envidioso
@@ -262,6 +274,10 @@ aemulus, a, um: émulo, igual; adversario, envidioso
 #### aesculeae
 
 aesculea, ae f. roble, encina
+
+#### agitantia
+
+agito 1: conducir; agitar
 
 #### armenta
 
@@ -283,6 +299,10 @@ avius, a, um: sin camino, inaccesible
 
 ### c
 
+#### cautibus
+
+cautes -is f: roca, escollo, arrefice
+
 ####  comantur
 
 como compsi comptum 3 tr: peinar,rizar; adornar, acicalar
@@ -296,6 +316,10 @@ damma, ae m.: gamo
 #### decent
 
 decet decuit impers. 2 tr: estar o sentar bien, ser apropiado, convenir
+
+#### deiectu
+
+deiectus, us m: pendiente, cuesta
 
 #### delere
 
@@ -329,6 +353,10 @@ exuviae, arum f.: prendas, vestidos, pieles; botín, despojos
 
 ### f
 
+#### fessas
+
+fessus a um: fatigado pp de fatiscor
+
 #### figat
 
 figo fixi fixum 3 tr: clavar, hincar
@@ -347,6 +375,10 @@ fruor fructus sum dep.  3 INTR: usar, gozar, disfrutar
 
 gestamen, gestaminis n: objeto llevado o transportado [peso, fardo, vestido, adorno, armas]
 
+#### gratentur
+
+grator dep. 1 intr: felicitar
+
 ### h
 
 #### harundine
@@ -354,6 +386,10 @@ gestamen, gestaminis n: objeto llevado o transportado [peso, fardo, vestido, ado
 harundo, -inis f: caña
 
 ### i
+
+#### imo
+
+imus a um: íntimo, bajo, profundo
 
 #### inhaesuro
 
@@ -397,6 +433,10 @@ opifer -era -erum: auxiliador
 
 ### p
 
+#### penetralia
+
+penetralis, e: recóndito, secreto, retirado
+
 #### Phoebes
 
 Phoebe -es f: Hermana de Febo (Apolo):  Diana (Artemisa en la mitología griega)
@@ -404,6 +444,10 @@ Phoebe -es f: Hermana de Febo (Apolo):  Diana (Artemisa en la mitología griega)
 #### pharetra
 
 pharetra, ae f.: carcaj, aljava
+
+#### praerupta
+
+praeruptus a um: escarpado
 
 #### properas
 
