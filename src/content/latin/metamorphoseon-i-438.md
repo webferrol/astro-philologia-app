@@ -197,6 +197,26 @@ finierat <abbr title="Παιάν: su significado origal es 'sanación'. Luego se
 
 **Iuppiter et Ío (I)** 
 
+Est nemus Haemoniae, praerupta quod undique claudit  
+silva: vocant Tempe; per quae Peneos ab imo  
+effusus Pindo spumosis volvitur undis <sup class="text-[.5em] text-gray-400">570</sup>  
+deiectuque gravi tenues agitantia fumos  
+nubila conducit summisque adspergine silvis  
+inpluit et sonitu plus quam vicina fatigat:  
+haec domus, haec sedes, haec sunt penetralia magni  
+amnis, in his residens facto de cautibus antro, <sup class="text-[.5em] text-gray-400">575</sup>  
+undis iura dabat nymphisque colentibus undas.  
+conveniunt illuc popularia flumina primum,  
+nescia, gratentur consolenturne parentem,  
+populifer Sperchios et inrequietus Enipeus  
+Apidanosque senex lenisque Amphrysos et Aeas, <sup class="text-[.5em] text-gray-400">580</sup>  
+moxque amnes alii, qui, qua tulit inpetus illos,  
+in mare deducunt fessas erroribus undas.  
+Inachus unus abest imoque reconditus antro  
+fletibus auget aquas natamque miserrimus Io  
+luget ut amissam: nescit, vitane fruatur <sup class="text-[.5em] text-gray-400">585</sup>  
+an sit apud manes; sed quam non invenit usquam,  
+esse putat nusquam atque animo peiora veretur.  
 
 
 
