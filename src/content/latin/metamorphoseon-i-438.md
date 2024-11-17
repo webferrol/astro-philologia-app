@@ -195,7 +195,7 @@ tu quoque perpetuos semper gere frondis honores!' <sup class="text-[.5em] text-g
 finierat <abbr title="Παιάν: su significado origal es 'sanación'. Luego se convirtió en un epíteto para Apolo como Sanador o Médico Divino">Paean</abbr>: factis modo laurea ramis  
 [adnuit](#adnuit) utque caput visa est agitasse cacumen.  
 
-**Iuppiter et Ío (I)** 
+**Iuppiter et Io (I)** 
 
 Est nemus <abbr title="Epíteto relacionado a Tesalia (Haemón, rey de Tesalia). Tesalia tiene gran importancia en los mitos griegos. Es conocida como el lugar de la batalla de los Lapitas y Centauros, la morada de los dioses del Olimpo en sus límites y el sitio de eventos destacados como los asociados a Apolo y el Valle de Tempe.">Haemoniae</abbr>, [praerupta](#praerupta) quod undique claudit  
 silva: vocant Tempe; per quae Peneos ab [imo](#imo)  
@@ -220,13 +220,49 @@ in mare deducunt [fessas](#fessas) erroribus undas.
 
 Inachus unus abest imoque reconditus antro  
 fletibus auget aquas natamque miserrimus Io  
-luget ut amissam: nescit, vitane fruatur <sup class="text-[.5em] text-gray-400">585</sup>  
+luget ut amissam: nescit, vitane [fruatur](#frui) <sup class="text-[.5em] text-gray-400">585</sup>  
 an sit apud manes; sed quam non invenit usquam,  
 esse putat nusquam atque animo peiora veretur. 
 
 > Ínaco, el dios del río y padre de Ío, está devastado por la desaparición de su hija. En la mitología, Ío fue transformada en una vaca por Zeus para protegerla de los celos de Hera.
 
+Viderat a patrio redeuntem Iuppiter illam  
+flumine et 'o virgo Iove digna tuoque beatum  
+nescio quem factura toro, pete' dixerat 'umbras <sup class="text-[.5em] text-gray-400">590</sup>  
+altorum nemorum' (et nemorum monstraverat umbras)  
+'dum calet, et medio sol est altissimus orbe!  
+quodsi sola times latebras intrare ferarum,  
+praeside tuta deo nemorum secreta subibis,  
+nec de plebe deo, sed qui caelestia magna <sup class="text-[.5em] text-gray-400">595</sup>  
+sceptra manu teneo, sed qui vaga fulmina mitto.  
+ne fuge me!' fugiebat enim. iam pascua Lernae  
+consitaque arboribus Lyrcea reliquerat arva,  
+cum deus inducta latas caligine terras  
+occuluit tenuitque fugam rapuitque pudorem. <sup class="text-[.5em] text-gray-400">600</sup>  
 
+**Argos**
+
+Interea medios Iuno despexit in Argos  
+et noctis faciem nebulas fecisse volucres  
+sub nitido mirata die, non fluminis illas  
+esse, nec umenti sensit tellure remitti;  
+atque suus coniunx ubi sit circumspicit, ut quae <sup class="text-[.5em] text-gray-400">605</sup>  
+deprensi totiens iam nosset furta mariti.  
+quem postquam caelo non repperit, 'aut ego fallor  
+aut ego laedor' ait delapsaque ab aethere summo  
+constitit in terris nebulasque recedere iussit.  
+coniugis adventum praesenserat inque nitentem <sup class="text-[.5em] text-gray-400">610</sup>  
+Inachidos vultus mutaverat ille iuvencam;  
+bos quoque formosa est. speciem Saturnia vaccae,  
+quamquam invita, probat nec non, et cuius et unde  
+quove sit armento, veri quasi nescia quaerit.  
+Iuppiter e terra genitam mentitur, ut auctor <sup class="text-[.5em] text-gray-400">615</sup>  
+desinat inquiri: petit hanc Saturnia munus.  
+quid faciat? crudele suos addicere amores,  
+non dare suspectum est: Pudor est, qui suadeat illinc,  
+hinc dissuadet Amor. victus Pudor esset Amore,  
+sed leve si munus sociae generisque torique <sup class="text-[.5em] text-gray-400">620</sup>  
+vacca negaretur, poterat non vacca videri!  
 
 
 
