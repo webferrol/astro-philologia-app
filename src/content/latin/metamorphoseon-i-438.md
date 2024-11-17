@@ -219,7 +219,7 @@ in mare deducunt [fessas](#fessas) erroribus undas.
 ![Ríos de Tesalia](https://res.cloudinary.com/dimvf1zl2/image/upload/v1731798472/maps/Tessalia_ujt8az.webp)
 
 Inachus unus abest imoque reconditus antro  
-fletibus auget aquas natamque miserrimus Io  
+fletibus auget aquas natamque miserrimus <a href="https://es.wikipedia.org/wiki/Io_(mitolog%C3%ADa)"><abbr title="sacerdotisa de Hera">Io</abbr></a>  
 luget ut amissam: nescit, vitane [fruatur](#frui) <sup class="text-[.5em] text-gray-400">585</sup>  
 an sit apud manes; sed quam non invenit usquam,  
 esse putat nusquam atque animo peiora veretur. 
@@ -234,15 +234,21 @@ altorum nemorum' (et nemorum monstraverat umbras)
 quodsi sola times latebras intrare ferarum,  
 praeside tuta deo nemorum secreta subibis,  
 nec de plebe deo, sed qui caelestia magna <sup class="text-[.5em] text-gray-400">595</sup>  
-sceptra manu teneo, sed qui vaga fulmina mitto.  
-ne fuge me!' fugiebat enim. iam pascua Lernae  
-consitaque arboribus Lyrcea reliquerat arva,  
+[sceptra](#sceptra) manu teneo, sed qui vaga fulmina mitto.  
+ne fuge me!' fugiebat enim. iam pascua <abbr title="Los pastos de Lerna y los campos de Lircea son escenarios propios del Peloponeso, donde se desarrollan muchos episodios del mito griego.">Lernae</abbr>
+[consitaque](#consita) arboribus Lyrcea reliquerat arva,  
 cum deus inducta latas caligine terras  
 occuluit tenuitque fugam rapuitque pudorem. <sup class="text-[.5em] text-gray-400">600</sup>  
 
-**Argos**
+<figure title="Antonio Allegri, llamado Correggio, Jupiter and Io">
+    <a href="https://es.wikipedia.org/wiki/Antonio_Allegri_da_Correggio"><img src="https://res.cloudinary.com/dimvf1zl2/image/upload/v1731864649/latin/466px-Antonio_Allegri__called_Correggio_-_Jupiter_and_Io_-_Google_Art_Project_eupz9m.jpg" class="w-auto"></a>
+    <figcaption>
+        cum deus inducta latas caligine terras<br>  
+        occuluit tenuitque fugam rapuitque pudorem.
+    </figcaption>
+</figure>
 
-Interea medios Iuno despexit in Argos  
+Interea medios Iuno despexit in [Argos](https://es.wikipedia.org/wiki/Argos_(Grecia))  
 et noctis faciem nebulas fecisse volucres  
 sub nitido mirata die, non fluminis illas  
 esse, nec umenti sensit tellure remitti;  
@@ -255,14 +261,73 @@ coniugis adventum praesenserat inque nitentem <sup class="text-[.5em] text-gray-
 Inachidos vultus mutaverat ille iuvencam;  
 bos quoque formosa est. speciem Saturnia vaccae,  
 quamquam invita, probat nec non, et cuius et unde  
-quove sit armento, veri quasi nescia quaerit.  
+quove sit [armento](#armenta), veri quasi nescia quaerit. 
+
+<figure title="Pieter Lastman, Juno Discovering Jupiter with Io">
+   <img src="https://res.cloudinary.com/dimvf1zl2/image/upload/v1731867983/latin/1031px-Pieter_Lastman_-_Juno_Discovering_Jupiter_with_Io_-_WGA12485_lqqiv9.jpg" class="w-auto">
+    <figcaption>
+        Júpiter mira con ojos sobresaltados a la furiosa Juno, quien está acompañada por los pavos reales que son su atributo. Dos figuras apartan un paño de la cabeza de la transformada Io.
+    </figcaption>
+</figure>
+
 Iuppiter e terra genitam mentitur, ut auctor <sup class="text-[.5em] text-gray-400">615</sup>  
-desinat inquiri: petit hanc Saturnia munus.  
+[desinat](#desinat) inquiri: petit hanc Saturnia munus.  
 quid faciat? crudele suos addicere amores,  
 non dare suspectum est: Pudor est, qui suadeat illinc,  
 hinc dissuadet Amor. victus Pudor esset Amore,  
 sed leve si munus sociae generisque torique <sup class="text-[.5em] text-gray-400">620</sup>  
 vacca negaretur, poterat non vacca videri!  
+[Paelice](#paelice) donata non protinus exuit omnem  
+diva metum timuitque Iovem et fuit anxia furti,  
+donec Arestoridae servandam tradidit [Argo](https://es.wikipedia.org/wiki/Argos_Panoptes).  
+
+> Este pasaje refleja la desconfianza de Juno y su determinación para mantener a Io bajo control. La figura de Argos, con sus cien ojos, simboliza la vigilancia constante y se convierte en una herramienta de Juno para frustrar cualquier intento de Júpiter de liberar a Io. Este episodio también prepara el terreno para el famoso enfrentamiento entre Argos y Mercurio (Hermes), enviado por Júpiter para rescatar a Io.
+
+**Argos**
+
+centum luminibus cinctum caput Argus habebat <sup class="text-[.5em] text-gray-400">625</sup>  
+inde suis vicibus capiebant bina quietem,  
+cetera servabant atque in statione manebant.  
+constiterat quocumque modo, spectabat ad Io,  
+ante oculos Io, quamvis aversus, habebat.  
+luce sinit pasci; cum sol tellure sub alta est, <sup class="text-[.5em] text-gray-400">630</sup>  
+claudit et indigno circumdat vincula collo.  
+frondibus arboreis et amara pascitur herba.  
+proque toro terrae non semper gramen habenti  
+incubat infelix limosaque flumina potat.  
+illa etiam supplex Argo cum bracchia vellet <sup class="text-[.5em] text-gray-400">635</sup>  
+tendere, non habuit, quae bracchia tenderet Argo,  
+conatoque queri mugitus edidit ore  
+pertimuitque sonos propriaque exterrita voce est.  
+venit et ad ripas, ubi ludere saepe solebat,  
+Inachidas: rictus novaque ut conspexit in unda <sup class="text-[.5em] text-gray-400">640</sup>  
+cornua, pertimuit seque exsternata refugit.  
+naides ignorant, ignorat et Inachus ipse,  
+quae sit; at illa patrem sequitur sequiturque sorores  
+et patitur tangi seque admirantibus offert.  
+decerptas senior porrexerat Inachus herbas: <sup class="text-[.5em] text-gray-400">645</sup>  
+illa manus lambit patriisque dat oscula palmis  
+nec retinet lacrimas et, si modo verba sequantur,  
+oret opem nomenque suum casusque loquatur;  
+littera pro verbis, quam pes in pulvere duxit,  
+corporis indicium mutati triste peregit. <sup class="text-[.5em] text-gray-400">650</sup>  
+'me miserum!' exclamat pater Inachus inque gementis  
+cornibus et nivea pendens cervice iuvencae  
+'me miserum!' ingeminat; 'tune es quaesita per omnes  
+nata mihi terras? tu non inventa reperta  
+luctus eras levior! retices nec mutua nostris <sup class="text-[.5em] text-gray-400">655</sup>  
+dicta refers, alto tantum suspiria ducis  
+pectore, quodque unum potes, ad mea verba remugis!  
+at tibi ego ignarus thalamos taedasque parabam,  
+spesque fuit generi mihi prima, secunda nepotum.  
+de grege nunc tibi vir, nunc de grege natus habendus. <sup class="text-[.5em] text-gray-400">660</sup>  
+nec finire licet tantos mihi morte dolores;  
+sed nocet esse deum, praeclusaque ianua leti  
+aeternum nostros luctus extendit in aevum.'  
+talia maerenti stellatus submovet Argus  
+ereptamque patri diversa in pascua natam <sup class="text-[.5em] text-gray-400">665</sup>  
+abstrahit. ipse procul montis sublime cacumen  
+occupat, unde sedens partes speculatur in omnes.  
 
 
 
@@ -343,6 +408,10 @@ cautes -is f: roca, escollo, arrefice
 
 como compsi comptum 3 tr: peinar,rizar; adornar, acicalar
 
+#### consita
+
+consero -sevi -setum: plantar, sembrar
+
 ### d 
 
 #### dammis
@@ -364,6 +433,10 @@ dēleō, dēlēre, dēlēvī, dēlētum — "borrar" o "destruir"
 #### demptis
 
 demo dempsi demptum 3: quitar, sustraer
+
+#### desinat
+
+desino -sii -situm: dejar, acabar
 
 ### e
 
@@ -469,6 +542,10 @@ opifer -era -erum: auxiliador
 
 ### p
 
+#### paelice
+
+paelex, -icis f: concubina
+
 #### penetralia
 
 penetralis, e: recóndito, secreto, retirado
@@ -504,6 +581,10 @@ requies  -quietis f.: descanso, reposo
 #### saepes
 
 saepes, is f: seto, vallado
+
+#### sceptra
+
+sceptrum, i n: cetro
 
 #### sentes
 
