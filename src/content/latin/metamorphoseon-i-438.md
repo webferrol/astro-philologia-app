@@ -285,19 +285,27 @@ donec Arestoridae servandam tradidit [Argo](https://es.wikipedia.org/wiki/Argos_
 
 **Argos**
 
+<figure>
+   <img src="https://res.cloudinary.com/dimvf1zl2/image/upload/v1731929545/latin/Argos_Panoptes_hzns5d.webp" class="w-auto">
+    <figcaption>
+        Ἄργος ὁ Πανόπτης (Argos el que todo lo ve)
+    </figcaption>
+</figure>
+
+
 centum luminibus cinctum caput Argus habebat <sup class="text-[.5em] text-gray-400">625</sup>  
-inde suis vicibus capiebant bina quietem,  
-cetera servabant atque in statione manebant.  
+inde <abbr title="por turnos">suis vicibus</abbr> capiebant bina <abbr title="descanso">quietem</abbr>,  
+cetera servabant atque in [statione](#statione) manebant.  
 constiterat quocumque modo, spectabat ad Io,  
 ante oculos Io, quamvis aversus, habebat.  
-luce sinit pasci; cum sol tellure sub alta est, <sup class="text-[.5em] text-gray-400">630</sup>  
+luce [sinit](#sinit) pasci; cum sol tellure sub alta est, <sup class="text-[.5em] text-gray-400">630</sup>  
 claudit et indigno circumdat vincula collo.  
-frondibus arboreis et amara pascitur herba.  
+frondibus arboreis et amara <abbr title="se alimentaba de">pascitur</abbr> herba.  
 proque toro terrae non semper gramen habenti  
-incubat infelix limosaque flumina potat.  
+[incubat](#incubat) infelix limosaque flumina potat.  
 illa etiam supplex Argo cum bracchia vellet <sup class="text-[.5em] text-gray-400">635</sup>  
 tendere, non habuit, quae bracchia tenderet Argo,  
-conatoque queri mugitus edidit ore  
+[conatoque](#conato) queri mugitus edidit ore  
 pertimuitque sonos propriaque exterrita voce est.  
 venit et ad ripas, ubi ludere saepe solebat,  
 Inachidas: rictus novaque ut conspexit in unda <sup class="text-[.5em] text-gray-400">640</sup>  
@@ -310,15 +318,18 @@ illa manus lambit patriisque dat oscula palmis
 nec retinet lacrimas et, si modo verba sequantur,  
 oret opem nomenque suum casusque loquatur;  
 littera pro verbis, quam pes in pulvere duxit,  
-corporis indicium mutati triste peregit. <sup class="text-[.5em] text-gray-400">650</sup>  
+corporis indicium mutati triste peregit. <sup class="text-[.5em] text-gray-400">650</sup> 
+
+![Io Recognised by Her Father by Victor Honoré Janssens (second half of 17th century](https://res.cloudinary.com/dimvf1zl2/image/upload/v1731946671/latin/Victor-Janssens_Io-recognized-by-her-father_czedfe.webp)
+
 'me miserum!' exclamat pater Inachus inque gementis  
 cornibus et nivea pendens cervice iuvencae  
 'me miserum!' ingeminat; 'tune es quaesita per omnes  
-nata mihi terras? tu non inventa reperta  
+nata mihi terras? tu non inventa [reperta](#reperta)  
 luctus eras levior! retices nec mutua nostris <sup class="text-[.5em] text-gray-400">655</sup>  
 dicta refers, alto tantum suspiria ducis  
 pectore, quodque unum potes, ad mea verba remugis!  
-at tibi ego ignarus thalamos taedasque parabam,  
+at tibi ego ignarus thalamos <abbr title="antorchas nupciales">taedasque</abbr> parabam,  
 spesque fuit generi mihi prima, secunda nepotum.  
 de grege nunc tibi vir, nunc de grege natus habendus. <sup class="text-[.5em] text-gray-400">660</sup>  
 nec finire licet tantos mihi morte dolores;  
@@ -407,6 +418,10 @@ cautes -is f: roca, escollo, arrefice
 ####  comantur
 
 como compsi comptum 3 tr: peinar,rizar; adornar, acicalar
+
+#### conato
+
+conatum, i n: esfuerzo; empresa, tentativa
 
 #### consita
 
@@ -500,6 +515,10 @@ harundo, -inis f: caña
 
 imus a um: íntimo, bajo, profundo
 
+#### incubat
+
+incubo 1 tr.: estar echado; yacer
+
 #### inhaesuro
 
  inhaereo, inhaerere, inhaesi, inhaesum: que significa "adherirse" o "aferrarse."
@@ -572,6 +591,10 @@ prosum -fui: aprovechar, ser útil
 
 ### r
 
+#### reperta
+
+reperio -pperi -pertum: encontrar, encontrar; descubrir
+
 #### requiem
 
 requies  -quietis f.: descanso, reposo
@@ -589,6 +612,14 @@ sceptrum, i n: cetro
 #### sentes
 
 sentis, is f.: zarza
+
+#### sinit
+
+sino sivi situm: dejar [libre]
+
+#### statione
+
+statio, -onis f: parada; guardia
 
 #### stipite
 
