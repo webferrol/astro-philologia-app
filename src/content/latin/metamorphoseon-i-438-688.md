@@ -1,12 +1,12 @@
 ---
-titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 438
-descriptio: Traductio, liber primus (438)
+titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 438-688
+descriptio: Traductio, liber primus (438-688)
 ---
 
 - [Volver a Latín](/latin)
 - [Inicio](/)
 
-# P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 438
+# P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 438-688
 
 - [Liber primus](https://la.wikisource.org/wiki/Metamorphoses_(Ovidius)/Liber_I#440)
 
@@ -346,22 +346,26 @@ Pleias [enixa est](#enixa) [letoque](#leti) det imperat Argum. <sup class="text-
 > Phorónidos (Φορωνίδος en griego, genitivo de Φορωνίς, 'Phoronis') es un término que aparece en la mitología griega y la literatura para referirse a Io, hija de Ínaco y sacerdotisa de Hera. El nombre Phoronis hace referencia a su linaje, ya que se le relaciona con Foroneo (Φορωνεύς), un rey legendario de Argos y ancestro de muchas figuras míticas griegas.  
 Llama a su hijo Mercurio (quien es hijo de Júpiter y Maia, una de las Pléyades)
 
-![Hermes slaying Argus Panoptes, Athenian red-figure vase C5th B.C.](https://res.cloudinary.com/dimvf1zl2/image/upload/v1732008466/maps/L11.3ArgosPanoptes_nezfmv.webp)
+![Hermes slaying Argus Panoptes, Athenian red-figure vase C5th B.C.
+](https://res.cloudinary.com/dimvf1zl2/image/upload/v1732008466/maps/L11.3ArgosPanoptes_nezfmv.webp)
 
 parva mora est alas pedibus virgamque potenti  
-somniferam sumpsisse manu tegumenque capillis.  
+somniferam sumpsisse manu [tegumenque](#tegumen) capillis.  
 haec ubi disposuit, patria Iove natus ab arce  
-desilit in terras; illic tegumenque removit  
+desilit in terras; illic [tegumenque](#tegumen) removit  
 et posuit pennas, tantummodo virga retenta est: <sup class="text-[.5em] text-gray-400">675</sup>  
-hac agit, ut pastor, per devia rura capellas  
-dum venit abductas, et structis cantat avenis.  
+hac agit, ut pastor, per [devia](#devia) rura capellas  
+dum venit abductas, et [structis](#structis) cantat [avenis](#avenis).  
 voce nova captus custos Iunonius 'at tu,  
 quisquis es, hoc poteras mecum considere saxo'  
 Argus ait; 'neque enim pecori fecundior ullo <sup class="text-[.5em] text-gray-400">680</sup>  
 herba loco est, aptamque vides pastoribus umbram.'  
 Sedit Atlantiades et euntem multa loquendo  
 detinuit sermone diem iunctisque canendo  
-vincere harundinibus servantia lumina temptat.  
+vincere [harundinibus](#harundine) servantia lumina temptat.  
+
+> Este pasaje hace referencia a la historia mitológica de Mercurio (hijo de Atlas, de ahí 'Atlantiades'), quien intenta adormecer a Argos, el guardián de Juno, para liberar a Io
+
 ille tamen pugnat molles evincere somnos <sup class="text-[.5em] text-gray-400">685</sup>  
 et, quamvis sopor est oculorum parte receptus,  
 parte tamen vigilat. quaerit quoque (namque reperta  
@@ -430,6 +434,10 @@ augere, auxi, auctum:  que significa "aumentar" o "acrecentar."
 
 aura, ae f: soplo ligero
 
+#### avenis
+
+avena, ae f: avena; rastrojo; flauta pastoril
+
 #### avia
 
 avius, a, um: sin camino, inaccesible
@@ -479,6 +487,10 @@ demo dempsi demptum 3: quitar, sustraer
 #### desinat
 
 desino -sii -situm: dejar, acabar
+
+#### devia
+
+devius a um: apartado, desviado
 
 ### e
 
@@ -538,7 +550,7 @@ grator dep. 1 intr: felicitar
 
 #### harundine
 
-harundo, -inis f: caña
+harundo, -inis f: caña; flauta
 
 ### i
 
@@ -676,7 +688,15 @@ stipes -itis m: palo, tronco del árbol
 
 sterno stravi stratum: tender
 
+#### structis
+
+struo struxi structum: disponer por capas
+
 ### t 
+
+#### tegumen
+
+tegumen, -inis n: todo lo que sirve para cubrir.
 
 #### tempora
 
