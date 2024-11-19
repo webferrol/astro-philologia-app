@@ -218,7 +218,7 @@ in mare deducunt [fessas](#fessas) erroribus undas.
 
 ![Ríos de Tesalia](https://res.cloudinary.com/dimvf1zl2/image/upload/v1731798472/maps/Tessalia_ujt8az.webp)
 
-Inachus unus abest imoque reconditus antro  
+[Inachus](https://es.wikipedia.org/wiki/%C3%8Dnaco) unus abest imoque reconditus antro  
 fletibus auget aquas natamque miserrimus <a href="https://es.wikipedia.org/wiki/Io_(mitolog%C3%ADa)"><abbr title="sacerdotisa de Hera">Io</abbr></a>  
 luget ut amissam: nescit, vitane [fruatur](#frui) <sup class="text-[.5em] text-gray-400">585</sup>  
 an sit apud manes; sed quam non invenit usquam,  
@@ -333,12 +333,39 @@ at tibi ego ignarus thalamos <abbr title="antorchas nupciales">taedasque</abbr> 
 spesque fuit generi mihi prima, secunda nepotum.  
 de grege nunc tibi vir, nunc de grege natus habendus. <sup class="text-[.5em] text-gray-400">660</sup>  
 nec finire licet tantos mihi morte dolores;  
-sed nocet esse deum, praeclusaque ianua leti  
+sed [nocet](#nocet) esse deum, praeclusaque [ianua](#ianua) [leti](#leti)  
 aeternum nostros luctus extendit in aevum.'  
 talia maerenti stellatus submovet Argus  
 ereptamque patri diversa in pascua natam <sup class="text-[.5em] text-gray-400">665</sup>  
-abstrahit. ipse procul montis sublime cacumen  
+abstrahit. ipse procul montis sublime cacumen   
 occupat, unde sedens partes speculatur in omnes.  
+Nec superum rector mala tanta Phoronidos ultra  
+ferre potest natumque vocat, quem lucida partu  
+Pleias [enixa est](#enixa) [letoque](#leti) det imperat Argum. <sup class="text-[.5em] text-gray-400">670</sup>  
+
+> Phorónidos (Φορωνίδος en griego, genitivo de Φορωνίς, 'Phoronis') es un término que aparece en la mitología griega y la literatura para referirse a Io, hija de Ínaco y sacerdotisa de Hera. El nombre Phoronis hace referencia a su linaje, ya que se le relaciona con Foroneo (Φορωνεύς), un rey legendario de Argos y ancestro de muchas figuras míticas griegas.  
+Llama a su hijo Mercurio (quien es hijo de Júpiter y Maia, una de las Pléyades)
+
+![Hermes slaying Argus Panoptes, Athenian red-figure vase C5th B.C.](https://res.cloudinary.com/dimvf1zl2/image/upload/v1732008466/maps/L11.3ArgosPanoptes_nezfmv.webp)
+
+parva mora est alas pedibus virgamque potenti  
+somniferam sumpsisse manu tegumenque capillis.  
+haec ubi disposuit, patria Iove natus ab arce  
+desilit in terras; illic tegumenque removit  
+et posuit pennas, tantummodo virga retenta est: <sup class="text-[.5em] text-gray-400">675</sup>  
+hac agit, ut pastor, per devia rura capellas  
+dum venit abductas, et structis cantat avenis.  
+voce nova captus custos Iunonius 'at tu,  
+quisquis es, hoc poteras mecum considere saxo'  
+Argus ait; 'neque enim pecori fecundior ullo <sup class="text-[.5em] text-gray-400">680</sup>  
+herba loco est, aptamque vides pastoribus umbram.'  
+Sedit Atlantiades et euntem multa loquendo  
+detinuit sermone diem iunctisque canendo  
+vincere harundinibus servantia lumina temptat.  
+ille tamen pugnat molles evincere somnos <sup class="text-[.5em] text-gray-400">685</sup>  
+et, quamvis sopor est oculorum parte receptus,  
+parte tamen vigilat. quaerit quoque (namque reperta  
+fistula nuper erat), qua sit ratione reperta.    
 
 
 
@@ -459,6 +486,10 @@ desino -sii -situm: dejar, acabar
 
 elido elisus: expulsar
 
+#### enixa
+
+enitor enisus [enixus] sum dep. 3 INTR: procurar esforzarse
+
 #### exosa
 
 exosus, a, um: que odia, destesta, aborrece
@@ -511,6 +542,10 @@ harundo, -inis f: caña
 
 ### i
 
+#### ianua
+
+iacua, ae f: puerta
+
 #### imo
 
 imus a um: íntimo, bajo, profundo
@@ -537,6 +572,14 @@ iugerum, i: iugada
 
 ### l
 
+#### leti
+
+letum, i n: muerte, ruinam, destrucción
+
+**Cultimos**
+
+El impacto de "lētum" se conserva principalmente en términos cultos como "letal" y algunas expresiones poéticas. 
+
 ### m
 
 #### micantes
@@ -548,6 +591,10 @@ mico -ui 1: agitarse, ir y venir; estremecerse
 #### nemora
 
 nemus, oris n: bosque, seto
+
+#### nocet
+
+noceo -ui -itum: dañar, perjudicar
 
 ### o
 
