@@ -46,27 +46,46 @@ effecisse sonum tenuem similemque querenti.
 <figcaption> Pan und Syrinx - Nicolas Poussin (1637)</figcaption>
 </figure>
 
-**Iuppiter et Io (II)**
 
 arte nova vocisque deum dulcedine captum <sup class="text-[.5em] text-gray-400">710</sup>  
 'hoc mihi colloquium tecum' dixisse 'manebit,'  
 atque ita disparibus calamis conpagine cerae  
 inter se iunctis nomen tenuisse puellae.  
-talia dicturus vidit Cyllenius omnes  
-subcubuisse oculos adopertaque lumina somno; <sup class="text-[.5em] text-gray-400">715</sup>  
-supprimit extemplo vocem firmatque soporem  
-languida permulcens medicata lumina virga.  
-nec mora, falcato nutantem vulnerat ense,  
+
+**Iuppiter et Io (II)**
+
+talia dicturus vidit <abbr title="Era considerado el lugar donde nació Mercurio (Hermes). El término Cyllenium o Cyllene (en griego antiguo: Κυλλήνη, Kyllēnē) hace referencia a un lugar en la mitología griega y en la geografía antigua: el Monte Cilene se encuentra en la región de Arcadia, en el Peloponeso">Cyllenius</abbr> omnes  
+subcubuisse oculos [adopertaque](#adoperta) lumina somno; <sup class="text-[.5em] text-gray-400">715</sup>  
+supprimit [extemplo](#extemplo) vocem firmatque soporem  
+languida [permulcens](#permulcens) <abbr title="medicata virga (con la vara mágica)">medicata</abbr> lumina virga.  
+nec mora, [falcato](#falcato) [nutantem](#nutantem) vulnerat ense,  
 qua collo est confine caput, saxoque cruentum  
 deicit et maculat praeruptam sanguine rupem. <sup class="text-[.5em] text-gray-400">720</sup>  
 Arge, iaces, quodque in tot lumina lumen habebas,  
 exstinctum est, centumque oculos nox occupat una.  
-Excipit hos volucrisque suae Saturnia pennis  
-collocat et gemmis caudam stellantibus inplet.  
-protinus exarsit nec tempora distulit irae <sup class="text-[.5em] text-gray-400">725</sup>  
+
+<figure>
+    <img alt="Mercurio y Argos" src="https://res.cloudinary.com/dimvf1zl2/image/upload/v1732116774/latin/mercurio-argos-rubens-1600x964_wc2ehx.jpg">
+    <figcaption>
+        Mercurio y Argos, de Pedro Pablo Rubens, hacia 1636 – 1638. Óleo sobre lienzo. Museo del Prado, Madrid, España. Rubens representa el momento en el que Hermes decapita a Argo, que se encuentra dormido debido a la música de flauta con la que ha hechizado al gigante.
+    </figcaption>
+<figure>
+
+Excipit hos [volucrisque](#volucris) suae <abbr title="Nominativo. La Saturnia (Hera)">Saturnia</abbr> pennis  
+collocat et gemmis caudam stellantibus inplet. 
+
+![El mito de Argos, los ojos del pavo real. Rubens](https://res.cloudinary.com/dimvf1zl2/image/upload/v1732117681/latin/argos1_eamr5a.webp)
+
+> Este fragmento pertenece al mito de Argos Panoptes y su relación con la diosa Juno (Saturnia). Después de que Mercurio mata a Argos, Juno, en un gesto de homenaje y memoria, toma los cien ojos del gigante y los coloca en las plumas del pavo real, su ave sagrada. Es por eso que la cola del pavo real aparece adornada con "ojos" en su diseño.    
+Este detalle mitológico explica simbólicamente la conexión entre Juno y el pavo real, y cómo los ojos de Argos perduran en el plumaje de esta ave majestuosa.
+
+protinus [exarsit](#exarsit) nec tempora distulit irae <sup class="text-[.5em] text-gray-400">725</sup>  
 horriferamque oculis animoque obiecit Erinyn  
 paelicis Argolicae stimulosque in pectore caecos  
 condidit et profugam per totum exercuit orbem.  
+
+> El término Erinyn (plural Erinyes) hace referencia en la mitología griega a las Erinias, conocidas también como las Furias en la mitología romana. Son divinidades femeninas relacionadas con la venganza y la justicia divina. 
+
 ultimus inmenso restabas, Nile, labori;  
 quem simulac tetigit, positisque in margine ripae <sup class="text-[.5em] text-gray-400">730</sup>  
 procubuit genibus resupinoque ardua collo,  
@@ -85,6 +104,10 @@ haec erit,' et Stygias iubet hoc audire paludes.
 
 ### a
 
+### adoperta
+
+adoperio -operui -opertum: cubrir, cerrar
+
 ### b
 
 ### c
@@ -93,7 +116,19 @@ haec erit,' et Stygias iubet hoc audire paludes.
 
 ### e
 
+#### exarsit
+
+exardesco -arsi -arsum 3: inflamarse, encenderse; irritarse
+
+### extemplo
+
+extemplo adv.: inmediatemente
+
 ### f
+
+### falcato
+
+falcatus a um: en forma de hoz
 
 ### g
 
@@ -113,9 +148,17 @@ harundo, -inis f: caña; flauta
 
 ### n
 
+#### nutantem
+
+nuto 1: hacer señas con la cabeza; vacilar, bambolearse
+
 ### o
 
 ### p
+
+#### permulcens
+
+permulceo -mulsi -mulsum: acariciar, tocar suavemente
 
 ### r
 
@@ -133,3 +176,7 @@ Syrinx -ingis f: Syringa (ninfa de la Arcadia)
 ### t 
 
 ### v
+
+#### volucris
+
+volucris -is f. y m.: pájaro
