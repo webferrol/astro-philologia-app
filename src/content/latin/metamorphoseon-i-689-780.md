@@ -84,18 +84,64 @@ horriferamque oculis animoque obiecit Erinyn
 paelicis Argolicae stimulosque in pectore caecos  
 condidit et profugam per totum exercuit orbem.  
 
-> El término Erinyn (plural Erinyes) hace referencia en la mitología griega a las Erinias, conocidas también como las Furias en la mitología romana. Son divinidades femeninas relacionadas con la venganza y la justicia divina. 
+<figure>
+<img src="https://res.cloudinary.com/dimvf1zl2/image/upload/v1732190478/latin/las_Erinias_o_Furias_y_Orestes_xsmewh.webp" alt="Erinyes">
+<figcaption>El término Erinyn (plural Erinyes) o Furias hace referencia en la mitología griega a las Erinias, conocidas también como las Furias en la mitología romana. Son divinidades femeninas relacionadas con la venganza y la justicia divina.
+</figcaption>
+</figure>
 
 ultimus inmenso restabas, Nile, labori;  
 quem simulac tetigit, positisque in margine ripae <sup class="text-[.5em] text-gray-400">730</sup>  
 procubuit genibus resupinoque ardua collo,  
 quos potuit solos, tollens ad sidera vultus  
-et gemitu et lacrimis et luctisono mugitu  
+et gemitu et lacrimis et [luctisono](#luctisono) mugitu  
 cum Iove visa queri finemque orare malorum.  
 coniugis ille suae conplexus colla lacertis, <sup class="text-[.5em] text-gray-400">735</sup>  
 finiat ut poenas tandem, rogat 'in' que 'futurum  
 pone metus' inquit: 'numquam tibi causa doloris  
-haec erit,' et Stygias iubet hoc audire paludes.  
+haec erit,' et Stygias iubet hoc audire [paludes](#paludes).  
+Ut lenita dea est, vultus capit illa priores  
+fitque, quod ante fuit: fugiunt e corpore saetae, <sup class="text-[.5em] text-gray-400">740</sup>  
+cornua decrescunt, fit luminis [artior](#artior) orbis,  
+contrahitur rictus, redeunt umerique manusque,  
+ungulaque in [quinos](#quinos) dilapsa absumitur ungues:  
+de bove nil superest formae nisi candor in illa.  
+officioque pedum <abbr title="nymphe: nominativo griego">nymphe contenta</abbr> duorum <sup class="text-[.5em] text-gray-400">745</sup>  
+erigitur metuitque loqui, ne more iuvencae  
+mugiat, et timide verba [intermissa](#intermissa) retemptat.  
+Nunc dea linigera colitur celeberrima turba.  
+huic Epaphus magni genitus de semine tandem  
+creditur esse Iovis perque urbes iuncta parenti <sup class="text-[.5em] text-gray-400">750</sup>  
+templa tenet. fuit huic animis aequalis et annis <sup class="text-[.8em] text-yellow-200">Phaethon</sup>  
+Sole satus Phaethon, quem quondam magna loquentem  
+nec sibi cedentem Phoeboque parente superbum  
+non tulit Inachides 'matri' que ait 'omnia demens  
+credis et es tumidus genitoris imagine falsi.' <sup class="text-[.5em] text-gray-400">755</sup>  
+erubuit Phaethon iramque pudore repressit  
+et tulit ad Clymenen Epaphi convicia matrem  
+'quo' que 'magis doleas, genetrix' ait, 'ille ego liber,  
+ille ferox tacui! pudet haec opprobria nobis  
+et dici potuisse et non potuisse refelli. <sup class="text-[.5em] text-gray-400">760</sup>  
+at tu, si modo sum caelesti stirpe creatus,  
+ede notam tanti generis meque adsere caelo!'  
+dixit et inplicuit materno bracchia collo  
+perque suum Meropisque caput taedasque sororum  
+traderet oravit veri sibi signa parentis. <sup class="text-[.5em] text-gray-400">765</sup>  
+ambiguum Clymene precibus Phaethontis an ira  
+mota magis dicti sibi criminis utraque caelo  
+bracchia porrexit spectansque ad lumina solis  
+'per iubar hoc' inquit 'radiis insigne coruscis,  
+nate, tibi iuro, quod nos auditque videtque, <sup class="text-[.5em] text-gray-400">770</sup>  
+hoc te, quem spectas, hoc te, qui temperat orbem,  
+Sole satum; si ficta loquor, neget ipse videndum  
+se mihi, sitque oculis lux ista novissima nostris!  
+nec longus labor est patrios tibi nosse penates.  
+unde oritur, domus est terrae contermina nostrae: <sup class="text-[.5em] text-gray-400">775</sup>  
+si modo fert animus, gradere et scitabere ab ipso!'  
+emicat extemplo laetus post talia matris  
+dicta suae Phaethon et concipit aethera mente  
+Aethiopasque suos positosque sub ignibus Indos  
+sidereis transit patriosque adit inpiger ortus. <sup class="text-[.5em] text-gray-400">780</sup>  
 
 
 [Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-438-688/)
@@ -104,9 +150,13 @@ haec erit,' et Stygias iubet hoc audire paludes.
 
 ### a
 
-### adoperta
+#### adoperta
 
 adoperio -operui -opertum: cubrir, cerrar
+
+#### artior
+
+artus a um estrecho
 
 ### b
 
@@ -140,9 +190,20 @@ harundo, -inis f: caña; flauta
 
 ### i
 
+#### intermissa
+
+intermissus a um Interrumpidas
+
 ### l
 
-#### leti
+#### luctisono
+
+luctisonus a um: de sonido lamentable, doloroso o lúgubre.  
+
+El término luctisono proviene del latín y es un adjetivo que se compone de:  
+
+"luctus": que significa "dolor", "luto" o "aflicción".  
+"sonus": que significa "sonido".
 
 ### m
 
@@ -154,7 +215,18 @@ nuto 1: hacer señas con la cabeza; vacilar, bambolearse
 
 ### o
 
+### q  
+
+#### quinos
+
+quīnus, -a, -um es un adjetivo latino que significa "de cinco en cinco" o "de cinco unidades".  
+Ejemplo: "Quīni militēs" → "Cinco soldados (por grupo)".
+
 ### p
+
+#### paludes
+
+palus, -udis f.: pantano, marisma, ciénaga
 
 #### permulcens
 
