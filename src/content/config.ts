@@ -9,5 +9,6 @@ const latinCollection = defineCollection({
 });
 
 export const collection = {
-    'latin': latinCollection
+    'latin': latinCollection,
+	'metamorphoseon': latinCollection,
 }

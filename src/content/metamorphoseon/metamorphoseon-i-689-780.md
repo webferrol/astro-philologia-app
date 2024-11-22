@@ -3,7 +3,7 @@ titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 689-780
 descriptio: Traductio, liber primus (689-780)
 ---
 
-- [Volver a Latín](/latin)
+- [Volver](/metamorphoseon)
 - [Inicio](/)
 
 # P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 689-780
@@ -19,7 +19,7 @@ naias una fuit: nymphae [Syringa](#syringa) vocabant.
 > En la mitología griega, las hamadríades o hamadríadas (en griego Ἁμαδρυάδες - junto a los árboles) son un tipo de ninfas vinculadas a los árboles.  
 En la mitología griega, las náyades (en griego antiguo: Ναϊάδες Naiádes, Ναίδες Naídes o Νάιτιδες Náitides de νάω ‘fluir’) eran las ninfas de los cuerpos de agua dulce (fuentes, pozos, manantiales, arroyos y riachuelos).
 
-non semel et satyros eluserat illa sequentes  
+non [semel](#semel) et satyros eluserat illa sequentes  
 et quoscumque deos umbrosaque silva feraxque  
 rus habet. [Ortygiam](https://es.wikipedia.org/wiki/Ortigia) studiis ipsaque colebat  
 virginitate deam; ritu quoque cincta Dianae <sup class="text-[.5em] text-gray-400">695</sup>  
@@ -109,42 +109,58 @@ de bove nil superest formae nisi candor in illa.
 officioque pedum <abbr title="nymphe: nominativo griego">nymphe contenta</abbr> duorum <sup class="text-[.5em] text-gray-400">745</sup>  
 erigitur metuitque loqui, ne more iuvencae  
 mugiat, et timide verba [intermissa](#intermissa) retemptat.  
-Nunc dea linigera colitur celeberrima turba.  
-huic Epaphus magni genitus de semine tandem  
+Nunc dea <abbr title="linigera: que lleva lino">linigera</abbr> colitur celeberrima turba. 
+
+> Ió es transportada a Egipto, donde es venerada como una diosa. En este contexto, se identifica con Isis, la diosa egipcia asociada a la maternidad, la fertilidad y la magia.  
+Isis es representada como "linigera" porque sus sacerdotes usaban lino como vestimenta ritual.
+
+huic [Epaphus](https://es.wikipedia.org/wiki/%C3%89pafo) magni genitus de semine tandem  
 creditur esse Iovis perque urbes iuncta parenti <sup class="text-[.5em] text-gray-400">750</sup>  
-templa tenet. fuit huic animis aequalis et annis <sup class="text-[.8em] text-yellow-200">Phaethon</sup>  
+templa tenet. fuit huic animis aequalis et annis <sup class="text-[.5em] text-yellow-200">Phaethon</sup>  
 Sole satus Phaethon, quem quondam magna loquentem  
-nec sibi cedentem Phoeboque parente superbum  
-non tulit Inachides 'matri' que ait 'omnia demens  
+nec sibi cedentem Phoeboque parente [superbum](#superbum)  
+non tulit Inachides '<abbr title="la ninfa Clímene. Su linaje es cuestionado en este pasaje, lo que lo lleva a buscar pruebas de su ascendencia, desencadenando su trágico final">matri</abbr>' que ait 'omnia demens  
 credis et es tumidus genitoris imagine falsi.' <sup class="text-[.5em] text-gray-400">755</sup>  
-erubuit Phaethon iramque pudore repressit  
-et tulit ad Clymenen Epaphi convicia matrem  
+
+> Epafos (llamado Inachides por ser descendiente de Ínaco)  
+Inachides es un epíteto que significa 'descendiente de Ínaco', un personaje de la mitología griega que fue el primer rey de Argos y personificación del río Ínaco en esa región. 
+
+[erubuit](#erubuit) Phaethon iramque pudore repressit  
+et tulit ad Clymenen Epaphi [convicia](#convicia) matrem  
 'quo' que 'magis doleas, genetrix' ait, 'ille ego liber,  
-ille ferox tacui! pudet haec opprobria nobis  
+ille ferox tacui! [pudet](#pudet) haec opprobria nobis  
 et dici potuisse et non potuisse refelli. <sup class="text-[.5em] text-gray-400">760</sup>  
 at tu, si modo sum caelesti stirpe creatus,  
 ede notam tanti generis meque adsere caelo!'  
-dixit et inplicuit materno bracchia collo  
+dixit et [inplicuit](#inplicuit) materno bracchia collo  
 perque suum Meropisque caput taedasque sororum  
 traderet oravit veri sibi signa parentis. <sup class="text-[.5em] text-gray-400">765</sup>  
+
+>  La acción de pedirle las 'antorchas de las hermanas de Merope' es un pedido metafórico para obtener una señal que respalde su linaje divino.  
+Está haciendo referencia a un símbolo celestial asociado a las estrellas, que las Pleyades representan.
+
 ambiguum Clymene precibus Phaethontis an ira  
 mota magis dicti sibi criminis utraque caelo  
 bracchia porrexit spectansque ad lumina solis  
-'per iubar hoc' inquit 'radiis insigne coruscis,  
-nate, tibi iuro, quod nos auditque videtque, <sup class="text-[.5em] text-gray-400">770</sup>  
+'per [iubar](#iubar) hoc' inquit 'radiis insigne [coruscis](#coruscis),  
+nate, tibi iuro, <abbr title="concuerda con iubar">quod</abbr> nos auditque videtque, <sup class="text-[.5em] text-gray-400">770</sup>  
 hoc te, quem spectas, hoc te, qui temperat orbem,  
 Sole satum; si ficta loquor, neget ipse videndum  
-se mihi, sitque oculis lux ista novissima nostris!  
-nec longus labor est patrios tibi nosse penates.  
-unde oritur, domus est terrae contermina nostrae: <sup class="text-[.5em] text-gray-400">775</sup>  
-si modo fert animus, gradere et scitabere ab ipso!'  
+se mihi, sitque oculis lux ista <abbr title="En superlativo coge el significado de 'última'">novissima</abbr> nostris!  
+nec longus labor est patrios tibi <abbr title="La palabra 'nosse' en latín es una forma abreviada (contracta) de 'novisse' que se puede traducir como 'haber conocido'">nosse</abbr> penates.  
+unde oritur, domus est terrae [contermina](#contermina) nostrae: <sup class="text-[.5em] text-gray-400">775</sup>  
+si modo fert animus, [gradere](#gradere) et [scitabere](#scitabere) ab ipso!'  
 emicat extemplo laetus post talia matris  
 dicta suae Phaethon et concipit aethera mente  
 Aethiopasque suos positosque sub ignibus Indos  
-sidereis transit patriosque adit inpiger ortus. <sup class="text-[.5em] text-gray-400">780</sup>  
+sidereis transit patriosque adit [inpiger](#inpiger) ortus. <sup class="text-[.5em] text-gray-400">780</sup>  
+
+> Aethiopasque suos positosque sub ignibus Indos:  
+**Aethiopas suos**: Hace referencia a los etíopes, pueblos tradicionalmente asociados con la región cercana al Sol debido a su piel oscura, que según la mitología está 'quemada' por la cercanía al astro.  
+**Sub ignibus Indos**: Los indios están también 'bajo los rayos ardientes' del Sol, refiriéndose a las regiones cálidas del mundo conocido por los romanos.
 
 
-[Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-438-688/)
+[Anterior](https://philologia.netlify.app/metamorphoseon/metamorphoseon-i-438-688/)
 
 ## Lexicon
 
@@ -162,15 +178,31 @@ artus a um estrecho
 
 ### c
 
+#### contermina
+
+conterminus a um: conlindante, continuo
+
+#### convicia
+
+convicium, i n.: insulto, ofensa
+
+#### coruscis
+
+coruscus a um: centelleante, resplandeciente
+
 ### d 
 
 ### e
+
+#### erubuit
+
+ērubēscō, ērubēscere, ērubuī, —: enrojecerse
 
 #### exarsit
 
 exardesco -arsi -arsum 3: inflamarse, encenderse; irritarse
 
-### extemplo
+#### extemplo
 
 extemplo adv.: inmediatemente
 
@@ -182,6 +214,10 @@ falcatus a um: en forma de hoz
 
 ### g
 
+#### gradere
+
+gradior gressus sum dep.: marchar, andar
+
 ### h
 
 #### harundine
@@ -190,9 +226,31 @@ harundo, -inis f: caña; flauta
 
 ### i
 
+#### inpiger
+
+inpiger, inpigra, inpigrum: diligente, activo, vivo
+
+#### inplicuit
+
+implicō, implicāre, implicāvī, implicātum: envolver
+
 #### intermissa
 
 intermissus a um Interrumpidas
+
+#### iubar
+
+iubar, aris n.: luz resplandenciente, replandor (del sol)
+
+El origen indoeuropeo de la palabra **"iubar"** puede rastrearse hasta la raíz **\*yeu̯-** o **\*yu-**, que está relacionada con conceptos de **brillar, resplandecer o emitir luz**. Esta raíz indoeuropea es la base de muchas palabras en las lenguas derivadas que denotan luz, brillo o claridad.
+
+### Desarrollo de la raíz:
+1. **\*yeu̯- / \*yu-**: raíz indoeuropea asociada con **luz, brillo o claridad**.
+2. En el latín, evolucionó hacia términos como:
+   - **Iubar, iubaris**, específicamente para referirse al **resplandor celestial**, especialmente el del sol o de los astros.
+3. En otras lenguas, esta raíz también produjo vocablos relacionados con el brillo o la luz, como ocurre con algunas formas en griego antiguo y lenguas germánicas.
+
+Por tanto, el origen de "iubar" remite a una concepción primigenia de luz brillante y divina que se encuentra profundamente arraigada en las lenguas indoeuropeas.
 
 ### l
 
@@ -215,6 +273,14 @@ nuto 1: hacer señas con la cabeza; vacilar, bambolearse
 
 ### o
 
+### p 
+
+#### pudet
+
+pudet, pudēre, puduit, puditum est: avergonzar, ofender.  
+
+Forma impersonal: causa vergüenza, ofensa
+
 ### q  
 
 #### quinos
@@ -236,9 +302,26 @@ permulceo -mulsi -mulsum: acariciar, tocar suavemente
 
 ### s 
 
+#### scitabere
+
+scitor, scitārī, scitātus sum dep.: "indagar", "preguntar", "investigar". (a uno, ab aliguo)
+
+- Raíz verbal: "scitā-", del verbo scitor.
+- Desinencia temporal/modo: "-be-", indicando el futuro.
+- Desinencia personal: "-re", para la segunda persona singular.
+- Traducción: "tú indagarás" o "tú preguntarás".
+
+#### semel
+
+semel adv.: una vez, por una vez
+
 #### spretis
 
 sperno sprevi spretum: apartar; rechazar
+
+#### superbum
+
+superbus a um: orgulloso
 
 #### syringa
 

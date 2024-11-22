@@ -3,7 +3,7 @@ titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 1-198
 descriptio: Traductio, liber primus
 ---
 
-- [Volver a Latín](/latin)
+- [Volver](/metamorphoseon)
 - [Inicio](/)
 
 # P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 1-198
@@ -272,7 +272,7 @@ cum mihi, qui fulmen, qui vos habeoque regoque,
 struxerit insidias notus feritate Lycaon?'    
 
 
-[Siguiente](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-199/)
+[Siguiente](https://philologia.netlify.app/metamorphoseon/metamorphoseon-i-199/)
 
 
 # Derivadas

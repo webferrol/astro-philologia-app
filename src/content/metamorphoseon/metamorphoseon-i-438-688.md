@@ -3,7 +3,7 @@ titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 438-688
 descriptio: Traductio, liber primus (438-688)
 ---
 
-- [Volver a Latín](/latin)
+- [Volver](/metamorphoseon)
 - [Inicio](/)
 
 # P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 438-688
@@ -377,7 +377,7 @@ fistula nuper erat), qua sit ratione reperta.
 
 
 
-[Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-199-437/)
+[Anterior](https://philologia.netlify.app/metamorphoseon/metamorphoseon-i-199-437/)
 
 ## Lexicon
 

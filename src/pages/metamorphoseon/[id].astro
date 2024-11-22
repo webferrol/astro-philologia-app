@@ -1,0 +1,33 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+    const posts = await getCollection('metamorphoseon');
+    return posts.map((post) => ({
+        params: { id: post.slug },
+        props: { post },
+    }));
+}
+
+
+const { post } = Astro.props;
+
+const { titulus, descriptio } = post.data;
+
+const { Content } = await post.render();
+
+
+
+---
+
+
+<meta name="description" content={descriptio} />
+
+
+<Layout title={titulus}>
+    <main class="max-w-screen-md m-auto p-4 prose prose-invert prose-img:rounded-xl prose-headings:underline prose-a:text-blue-600">
+       
+        <Content />
+    </main>
+</Layout>

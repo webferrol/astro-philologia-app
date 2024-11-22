@@ -3,7 +3,7 @@ titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 199-437
 descriptio: Traductio, liber primus (199-437)
 ---
 
-- [Volver a Latín](/latin)
+- [Volver](/metamorphoseon)
 - [Inicio](/)
 
 # P. OVIDI NASONIS METAMORPHOSEON LIBER PRIMVS, 199
@@ -341,7 +341,7 @@ rettulit antiquas, partim nova monstra creavit.
 
 
 
-[Anterior](https://philologia.netlify.app/latinitatis-exercitationes/metamorphoseon-i-1-198/)
+[Anterior](https://philologia.netlify.app/metamorphoseon/metamorphoseon-i-1-198/)
 
 ## Lexicon
 
