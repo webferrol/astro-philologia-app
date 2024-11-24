@@ -31,7 +31,7 @@ materiam superabat opus: nam <abbr title="Mulciber (el que apacigua) es uno de l
 terrarumque orbem caelumque, quod imminet orbi.  
 caeruleos habet unda deos, Tritona [canorum](#canorum)  
 [Proteaque](https://es.wikipedia.org/wiki/Proteo) ambiguum ballaenarumque prementem  
-[Aegaeona](https://es.wikipedia.org/wiki/Ege%C3%B3n) suis [inmania](#inmania) terga lacertis 10  
+[Aegaeona](https://es.wikipedia.org/wiki/Ege%C3%B3n) suis [inmania](#inmania) terga lacertis <sup class="text-[.5em] text-gray-400">10</sup>  
 [Doridaque](https://es.wikipedia.org/wiki/Doris_(oce%C3%A1nide)) et natas, quarum pars nare videtur,  
 pars in mole sedens viridis siccare capillos,  
 pisce vehi quaedam: facies non omnibus una,  
@@ -44,7 +44,7 @@ non diversa tamen, qualem decet esse sororum.
     </figcaption>    
 </figure>
 
-terra viros urbesque gerit silvasque ferasque <sup class="text-[.5em] text-gray-400">10</sup>  
+terra viros urbesque gerit silvasque ferasque <sup class="text-[.5em] text-gray-400">15</sup>  
 fluminaque et nymphas et cetera numina ruris.  
 haec super inposita est caeli fulgentis imago,  
 signaque sex foribus dextris totidemque sinistris.  
@@ -52,9 +52,99 @@ signaque sex foribus dextris totidemque sinistris.
 > Aquí Ovidio alude a los doce signos del zodiaco, distribuidos simétricamente en dos grupos de seis, a la derecha y a la izquierda de las puertas del palacio.
 
 
+Quo simul [adclivi](#adclivi) [Clymeneia](https://es.wikipedia.org/wiki/Cl%C3%ADmene_(oce%C3%A1nide)) limite proles  
+venit et intravit dubitati tecta parentis, <sup class="text-[.5em] text-gray-400">20</sup>  
+protinus ad patrios sua fert vestigia vultus  
+consistitque procul; neque enim <abbr title="más cercano">propiora</abbr> ferebat  
+lumina: purpurea velatus veste sedebat  
+in solio Phoebus claris lucente [smaragdis](#smaragdis).  
+a dextra laevaque Dies et Mensis et Annus <sup class="text-[.5em] text-gray-400">25</sup>  
+Saeculaque et positae spatiis aequalibus Horae  
+Verque novum stabat cinctum florente corona,  
+stabat nuda Aestas et spicea [serta](#serta) gerebat,  
+stabat et Autumnus [calcatis](#calcatis) sordidus uvis  
+et glacialis Hiems canos hirsuta capillos. <sup class="text-[.5em] text-gray-400">30</sup>  
+Ipse loco medius rerum novitate [paventem](#paventem)  
+Sol oculis iuvenem, quibus adspicit omnia, vidit  
+'quae' que 'viae tibi causa? quid hac' ait 'arce petisti,  
+progenies, Phaethon, haud [infitianda](#infitianda) parenti?'  
+ille refert: 'o lux inmensi publica mundi, <sup class="text-[.5em] text-gray-400">35</sup>  
+Phoebe pater, si das usum mihi nominis huius,  
+nec falsa Clymene culpam sub imagine celat,  
+[pignora](#pignora) da, genitor, per quae tua vera propago  
+credar, et hunc animis errorem detrahe nostris!'  
+dixerat, at genitor circum caput omne micantes <sup class="text-[.5em] text-gray-400">40</sup>  
+deposuit radios propiusque accedere iussit  
+amplexuque dato 'nec tu meus esse negari  
+dignus es, et Clymene veros' ait 'edidit ortus,  
+quoque minus dubites, [quodvis](#quodvis) pete munus, ut illud  
+me tribuente feras! promissi testis adesto <sup class="text-[.5em] text-gray-400">45</sup>  
+dis iuranda [palus](#palus), oculis incognita nostris!'  
+vix bene desierat, currus rogat ille paternos  
+inque diem alipedum ius et [moderamen](#moderamen) equorum.  
+Paenituit iurasse patrem: qui terque quaterque  
+concutiens inlustre caput 'temeraria' dixit <sup class="text-[.5em] text-gray-400">50</sup>  
+'vox mea facta tua est; utinam promissa liceret  
+non dare! confiteor, solum hoc tibi, nate, negarem.  
+dissuadere licet: non est tua tuta voluntas!  
+magna petis, Phaethon, et quae nec viribus istis  
+munera conveniant nec tam puerilibus annis: <sup class="text-[.5em] text-gray-400">55</sup>  
+sors tua mortalis, non est mortale, quod optas.  
+plus etiam, quam quod superis contingere possit,  
+nescius adfectas; placeat sibi quisque licebit,  
+non tamen ignifero quisquam consistere in axe  
+me valet excepto; vasti quoque rector Olympi, <sup class="text-[.5em] text-gray-400">60</sup>  
+qui fera terribili iaculatur fulmina dextra,  
+non agat hos currus: et quid Iove maius habemus?  
+ardua prima via est et qua vix mane recentes  
+enituntur equi; medio est altissima caelo,  
+unde mare et terras ipsi mihi saepe videre <sup class="text-[.5em] text-gray-400">65</sup>  
+fit timor et pavida trepidat formidine pectus;  
+ultima prona via est et eget moderamine certo:  
+tunc etiam quae me subiectis excipit undis,  
+ne ferar in praeceps, Tethys solet ipsa vereri.  
+adde, quod adsidua rapitur vertigine caelum <sup class="text-[.5em] text-gray-400">70</sup>  
+sideraque alta trahit celerique volumine torquet.  
+nitor in adversum, nec me, qui cetera, vincit  
+inpetus, et rapido contrarius evehor orbi.  
+finge datos currus: quid ages? poterisne rotatis  
+obvius ire polis, ne te citus auferat axis? <sup class="text-[.5em] text-gray-400">75</sup>  
+forsitan et lucos illic urbesque deorum  
+concipias animo delubraque ditia donis  
+esse: per insidias iter est formasque ferarum!  
+utque viam teneas nulloque errore traharis,  
+per tamen adversi gradieris cornua tauri <sup class="text-[.5em] text-gray-400">80</sup>  
+Haemoniosque arcus violentique ora Leonis  
+saevaque circuitu curvantem bracchia longo  
+Scorpion atque aliter curvantem bracchia Cancrum.  
+nec tibi quadripedes animosos ignibus illis,  
+quos in pectore habent, quos ore et naribus efflant, <sup class="text-[.5em] text-gray-400">85</sup>  
+in promptu regere est: vix me patiuntur, ubi acres  
+incaluere animi cervixque repugnat habenis.  
+at tu, funesti ne sim tibi muneris auctor,  
+nate, cave, dum resque sinit tua corrige vota!  
+scilicet ut nostro genitum te sanguine credas, <sup class="text-[.5em] text-gray-400">90</sup>  
+pignora certa petis: do pignora certa timendo  
+et patrio pater esse metu probor. adspice vultus  
+ecce meos; utinamque oculos in pectora posses  
+inserere et patrias intus deprendere curas!  
+denique quidquid habet dives, circumspice, mundus <sup class="text-[.5em] text-gray-400">95</sup>  
+eque tot ac tantis caeli terraeque marisque  
+posce bonis aliquid; nullam patiere repulsam.  
+deprecor hoc unum, quod vero nomine poena,  
+non honor est: poenam, Phaethon, pro munere poscis!  
+quid mea colla tenes blandis, ignare, lacertis? <sup class="text-[.5em] text-gray-400">100</sup>  
+ne dubita! dabitur (Stygias iuravimus undas),  
+quodcumque optaris; sed tu sapientius opta!'  
+
+
 ## Lexicon
 
 ### a
+
+#### adclivi
+
+acclivis, e: que está cuesta arriba
 
 #### aequora
 
@@ -67,6 +157,10 @@ aequor, -oris n.: superficie plana
 #### caelarat
 
 caelo 1 tr: grabar, cincelar, adornar
+
+#### calcatis
+
+calco 1 tr.: pisotear
 
 #### canorum
 
@@ -82,16 +176,15 @@ canorus a um: melodioso
 
 fastigium, ii n.: techo de doble pendiente, techumbre; pendiente
 
-
 ### g
-
-
 
 ### h
 
-
-
 ### i
+
+#### infitianda
+
+infitior 1 dep: negar
 
 #### inmania
 
@@ -99,21 +192,35 @@ inmanis, e: extraordinario, monstruoso
 
 ### l
 
-
-
 ### m
 
-### n
+#### moderamen
 
+moderamen, -inis n.: lo que sirve para dirigir, timón
+
+### n
 
 ### o
 
 ### p 
 
+#### palus
 
+palus, -udis f.: pantano, laguna (Estigia)
 
-### q  
+#### pignora
 
+pignoro 1 tr: empeñar, dar en prenda
+
+### q 
+
+#### quodvis
+
+quivis quaevis quodvis: cualquiera, cualquier cosa
+
+#### paventem
+
+paveo -ui 2: atemorizarse
 
 ### p
 
@@ -125,8 +232,13 @@ pyropus, i m.: aleación de cobre y oro
 
 ### s 
 
+#### serta
 
+sertum, i n.: guirnalda
 
+#### smaragdis
+
+smaragdus, i m. y f.: esmeralda
 
 ### t 
 
