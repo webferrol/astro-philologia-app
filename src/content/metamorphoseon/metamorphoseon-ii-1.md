@@ -83,26 +83,29 @@ dis iuranda [palus](#palus), oculis incognita nostris!'
 vix bene desierat, currus rogat ille paternos  
 inque diem alipedum ius et [moderamen](#moderamen) equorum.  
 Paenituit iurasse patrem: qui terque quaterque  
-concutiens inlustre caput 'temeraria' dixit <sup class="text-[.5em] text-gray-400">50</sup>  
+[concutiens](#concutiens) inlustre caput 'temeraria' dixit <sup class="text-[.5em] text-gray-400">50</sup>  
 'vox mea facta tua est; utinam promissa liceret  
 non dare! confiteor, solum hoc tibi, nate, negarem.  
 dissuadere licet: non est tua tuta voluntas!  
 magna petis, Phaethon, et quae nec viribus istis  
 munera conveniant nec tam puerilibus annis: <sup class="text-[.5em] text-gray-400">55</sup>  
 sors tua mortalis, non est mortale, quod optas.  
-plus etiam, quam quod superis contingere possit,  
-nescius adfectas; placeat sibi quisque licebit,  
+<abbr title="aún más">plus etiam</abbr>, quam quod superis contingere possit,  
+nescius [adfectas](#adfectas); placeat sibi quisque [licebit](#licebit),  
 non tamen ignifero quisquam consistere in axe  
 me valet excepto; vasti quoque rector Olympi, <sup class="text-[.5em] text-gray-400">60</sup>  
 qui fera terribili iaculatur fulmina dextra,  
 non agat hos currus: et quid Iove maius habemus?  
-ardua prima via est et qua vix mane recentes  
+ardua prima via est et qua vix [mane](#mane) recentes  
 enituntur equi; medio est altissima caelo,  
 unde mare et terras ipsi mihi saepe videre <sup class="text-[.5em] text-gray-400">65</sup>  
-fit timor et pavida trepidat formidine pectus;  
-ultima prona via est et eget moderamine certo:  
-tunc etiam quae me subiectis excipit undis,  
+fit timor et pavida trepidat [formidine](#formidine) pectus;  
+ultima prona via est et eget [moderamine](#moderamine) certo:  
+tunc etiam quae me subiectis <abbr title="acoger">excipit</abbr> undis,  
 ne ferar in praeceps, Tethys solet ipsa vereri.  
+
+> Tethys es una diosa primordial del mar en la mitología griega, hija de Urano (el Cielo) y Gea (la Tierra). Era una figura importante en la cosmogonía griega y se la asociaba con los ríos y los mares. Tethys es, además, la esposa de Océano, con quien tuvo numerosos hijos, incluyendo las Ninfas de los ríos y las Oceánides, divinidades que personificaban los cuerpos de agua.
+
 adde, quod adsidua rapitur vertigine caelum <sup class="text-[.5em] text-gray-400">70</sup>  
 sideraque alta trahit celerique volumine torquet.  
 nitor in adversum, nec me, qui cetera, vincit  
@@ -146,6 +149,10 @@ quodcumque optaris; sed tu sapientius opta!'
 
 acclivis, e: que está cuesta arriba
 
+#### adfectas
+
+adficio, adficere, adfeci, adfectum: "afectar", "influir", "desear" o "aspirar"
+
 #### aequora
 
 aequor, -oris n.: superficie plana
@@ -166,6 +173,10 @@ calco 1 tr.: pisotear
 
 canorus a um: melodioso
 
+#### concutiens
+
+concutio, concutere, concussi, concussum, que significa "sacudir", "agitar violentamente" o incluso "temblar".
+
 ### d 
 
 ### e
@@ -175,6 +186,10 @@ canorus a um: melodioso
 #### fastigia
 
 fastigium, ii n.: techo de doble pendiente, techumbre; pendiente
+
+#### formidine
+
+formido, -inis f.: miedo, temor
 
 ### g
 
@@ -192,9 +207,18 @@ inmanis, e: extraordinario, monstruoso
 
 ### l
 
+#### licebit
+
+licet: es permitido, es posible
+
 ### m
 
+#### mane
+
+mane adv. : al amanecer, por la mañana
+
 #### moderamen
+#### moderamine
 
 moderamen, -inis n.: lo que sirve para dirigir, timón
 
