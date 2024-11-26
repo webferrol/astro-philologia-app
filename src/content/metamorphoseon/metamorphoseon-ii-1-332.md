@@ -1,12 +1,12 @@
 ---
-titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER SECUNDUS, 1 -
-descriptio: Traductio, liber secundus (1 - )
+titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER SECUNDUS, 1 - 332
+descriptio: Traductio, liber secundus (1 - 332)
 ---
 
 - [Volver](/metamorphoseon)
 - [Inicio](/)
 
-# P. OVIDI NASONIS METAMORPHOSEON LIBER SECUNDUS, 1 -
+# P. OVIDI NASONIS METAMORPHOSEON LIBER SECUNDUS, 1 - 332
 
 - [Liber secundus](https://la.wikisource.org/wiki/Metamorphoses_(Ovidius)/Liber_II)
 
@@ -147,6 +147,53 @@ quodcumque optaris; sed tu sapientius opta!'
 </figcaption>
 </figure>
 
+Finierat monitus; dictis tamen ille repugnat  
+propositumque premit [flagratque](#flagrat) cupidine currus.  
+ergo, qua licuit, genitor [cunctatus](#cunctatus) ad altos <sup class="text-[.5em] text-gray-400">105</sup>  
+deducit iuvenem, Vulcania munera, currus.  
+aureus axis erat, temo aureus, aurea summae  
+curvatura rotae, radiorum argenteus ordo;  
+per iuga <abbr title="El término chrysolithi es el plural del sustantivo latino chrysolithus, que a su vez deriva del griego antiguo χρυσόλιθος (chrysólithos), compuesto por χρυσός (chrysós, 'oro') y λίθος (líthos, 'piedra')">chrysolithi</abbr> positaeque ex ordine gemmae  
+clara repercusso reddebant lumina Phoebo. <sup class="text-[.5em] text-gray-400">110</sup>  
+Dumque ea magnanimus Phaethon miratur opusque  
+perspicit, ecce vigil nitido patefecit ab ortu  
+purpureas Aurora fores et plena rosarum  
+atria: diffugiunt stellae, quarum agmina cogit  
+Lucifer et caeli statione novissimus exit. <sup class="text-[.5em] text-gray-400">115</sup>  
+Quem petere ut terras mundumque rubescere vidit  
+cornuaque extremae velut evanescere lunae,  
+iungere equos Titan velocibus imperat Horis.  
+iussa deae celeres peragunt ignemque vomentes,  
+ambrosiae suco saturos, praesepibus altis <sup class="text-[.5em] text-gray-400">120</sup>  
+quadripedes ducunt adduntque sonantia frena.  
+tum pater ora sui sacro medicamine nati  
+contigit et rapidae fecit patientia flammae  
+inposuitque comae radios praesagaque luctus  
+pectore sollicito repetens suspiria dixit: <sup class="text-[.5em] text-gray-400">125</sup>  
+'si potes his saltem monitis parere parentis  
+parce, puer, stimulis et fortius utere loris!  
+sponte sua properant, labor est inhibere volentes.  
+nec tibi derectos placeat via quinque per arcus!  
+sectus in obliquum est lato curvamine limes, <sup class="text-[.5em] text-gray-400">130</sup>  
+zonarumque trium contentus fine polumque  
+effugit australem iunctamque aquilonibus arcton:  
+hac sit iter¬manifesta rotae vestigia cernes  
+utque ferant aequos et caelum et terra calores,  
+nec preme nec summum molire per aethera currum! <sup class="text-[.5em] text-gray-400">135</sup>  
+altius egressus caelestia tecta cremabis,  
+inferius terras; medio tutissimus ibis.  
+neu te dexterior tortum declinet ad Anguem,  
+neve sinisterior pressam rota ducat ad Aram,  
+inter utrumque tene! Fortunae cetera mando, <sup class="text-[.5em] text-gray-400">140</sup>  
+quae iuvet et melius quam tu tibi consulat opto.  
+dum loquor, Hesperio positas in litore metas  
+umida nox tetigit; non est mora libera nobis!  
+poscimur: effulget tenebris Aurora fugatis.  
+corripe lora manu, vel, si mutabile pectus <sup class="text-[.5em] text-gray-400">145</sup>  
+est tibi, consiliis, non curribus utere nostris!  
+dum potes et solidis etiamnum sedibus adstas,  
+dumque male optatos nondum premis inscius axes,  
+quae tutus spectes, sine me dare lumina terris!'  
 
 ## Lexicon
 
@@ -188,6 +235,10 @@ canorus a um: melodioso
 
 concutio, concutere, concussi, concussum, que significa "sacudir", "agitar violentamente" o incluso "temblar".
 
+#### cunctatus
+
+cunctor, cunctari, cunctatus sum: dudar, vacilar
+
 ### d 
 
 #### delubra
@@ -205,6 +256,10 @@ delubrum, i n.: templo
 #### fastigia
 
 fastigium, ii n.: techo de doble pendiente, techumbre; pendiente
+
+#### flagrat
+
+flagro, flagrare, flagravi, flagratum: arder, quemarse
 
 #### formidine
 
