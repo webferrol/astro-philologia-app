@@ -117,20 +117,20 @@ concipias animo [delubraque](#delubra) ditia donis
 esse: per insidias iter est formasque ferarum!  
 utque viam teneas nulloque errore traharis,  
 per tamen adversi [gradieris](#gradieris) cornua tauri <sup class="text-[.5em] text-gray-400">80</sup>  
-Haemoniosque arcus violentique ora Leonis  
+<abbr title="'Haemonios arcus' podría referirse poéticamente a 'los arcos tesalios', pero en este caso, el término 'Haemonios' está relacionado simbólicamente con la constelación de Sagitario, representada como un arquero">Haemoniosque arcus</abbr> violentique ora Leonis  
 saevaque circuitu curvantem bracchia longo  
 Scorpion atque aliter curvantem bracchia Cancrum.  
 nec tibi quadripedes animosos ignibus illis,  
 quos in pectore habent, quos ore et naribus efflant, <sup class="text-[.5em] text-gray-400">85</sup>  
-in promptu regere est: vix me patiuntur, ubi acres  
-incaluere animi cervixque repugnat habenis.  
+in [promptu](#promptu) regere est: vix me patiuntur, ubi acres  
+incaluere animi cervixque repugnat [habenis](#habenis).  
 at tu, funesti ne sim tibi muneris auctor,  
 nate, cave, dum resque sinit tua corrige vota!  
 scilicet ut nostro genitum te sanguine credas, <sup class="text-[.5em] text-gray-400">90</sup>  
-pignora certa petis: do pignora certa timendo  
+[pignora](#pignora) certa petis: do pignora certa timendo  
 et patrio pater esse metu probor. adspice vultus  
 ecce meos; utinamque oculos in pectora posses  
-inserere et patrias intus deprendere curas!  
+inserere et patrias [intus](#intus) deprendere curas!  
 denique quidquid habet dives, circumspice, mundus <sup class="text-[.5em] text-gray-400">95</sup>  
 eque tot ac tantis caeli terraeque marisque  
 posce bonis aliquid; nullam patiere repulsam.  
@@ -138,7 +138,14 @@ deprecor hoc unum, quod vero nomine poena,
 non honor est: poenam, Phaethon, pro munere poscis!  
 quid mea colla tenes blandis, ignare, lacertis? <sup class="text-[.5em] text-gray-400">100</sup>  
 ne dubita! dabitur (Stygias iuravimus undas),  
-quodcumque optaris; sed tu sapientius opta!'  
+quodcumque optaris; sed tu sapientius opta!' 
+
+<figure>
+<img alt="" src="https://res.cloudinary.com/dimvf1zl2/image/upload/v1732626528/latin/El_paso_de_la_laguna_Estigia_hf2bbx.jpg">
+<figcaption>
+    Stygias iuravimus undas
+</figcaption>
+</figure>
 
 
 ## Lexicon
@@ -211,6 +218,10 @@ gradior, gradi, gressus sum: "Caminar", "avanzar", "dar pasos".
 
 ### h
 
+#### habenis
+
+habena, ae f.: soga, cordel, correa
+
 ### i
 
 #### infitianda
@@ -220,6 +231,10 @@ infitior 1 dep: negar
 #### inmania
 
 inmanis, e: extraordinario, monstruoso
+
+#### intus
+
+intus adv.: dentro
 
 ### l
 
@@ -252,9 +267,15 @@ palus, -udis f.: pantano, laguna (Estigia)
 
 pignoro 1 tr: empeñar, dar en prenda
 
+pignus, oris n.: prenda garantía
+
 #### polis
 
 polus, i m: polo
+
+#### promptu
+
+promptus, us m.: a la vista, a la mano
 
 ### q 
 
