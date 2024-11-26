@@ -106,17 +106,17 @@ ne ferar in praeceps, Tethys solet ipsa vereri.
 
 > Tethys es una diosa primordial del mar en la mitología griega, hija de Urano (el Cielo) y Gea (la Tierra). Era una figura importante en la cosmogonía griega y se la asociaba con los ríos y los mares. Tethys es, además, la esposa de Océano, con quien tuvo numerosos hijos, incluyendo las Ninfas de los ríos y las Oceánides, divinidades que personificaban los cuerpos de agua.
 
-adde, quod adsidua rapitur vertigine caelum <sup class="text-[.5em] text-gray-400">70</sup>  
-sideraque alta trahit celerique volumine torquet.  
+adde, quod adsidua rapitur <abbr title="Movimiento de rotación o giro">vertigine</abbr> caelum <sup class="text-[.5em] text-gray-400">70</sup>  
+sideraque alta trahit celerique <abbr title="Un giro o movimiento circular">volumine</abbr> torquet.  
 nitor in adversum, nec me, qui cetera, vincit  
-inpetus, et rapido contrarius evehor orbi.  
+inpetus, et rapido contrarius [evehor](#evehor) orbi.  
 finge datos currus: quid ages? poterisne rotatis  
-obvius ire polis, ne te citus auferat axis? <sup class="text-[.5em] text-gray-400">75</sup>  
+obvius ire [polis](#polis), ne te citus [auferat](#auferat) axis? <sup class="text-[.5em] text-gray-400">75</sup>  
 forsitan et lucos illic urbesque deorum  
-concipias animo delubraque ditia donis  
+concipias animo [delubraque](#delubra) ditia donis  
 esse: per insidias iter est formasque ferarum!  
 utque viam teneas nulloque errore traharis,  
-per tamen adversi gradieris cornua tauri <sup class="text-[.5em] text-gray-400">80</sup>  
+per tamen adversi [gradieris](#gradieris) cornua tauri <sup class="text-[.5em] text-gray-400">80</sup>  
 Haemoniosque arcus violentique ora Leonis  
 saevaque circuitu curvantem bracchia longo  
 Scorpion atque aliter curvantem bracchia Cancrum.  
@@ -157,6 +157,10 @@ adficio, adficere, adfeci, adfectum: "afectar", "influir", "desear" o "aspirar"
 
 aequor, -oris n.: superficie plana
 
+#### auferat
+
+aufero: llevar, quitar, robar, despojar, arrastar
+
 ### b
 
 ### c
@@ -179,7 +183,15 @@ concutio, concutere, concussi, concussum, que significa "sacudir", "agitar viole
 
 ### d 
 
+#### delubra
+
+delubrum, i n.: templo
+
 ### e
+
+#### evehor
+
+"Eveho": Significa "llevar", "transportar", "elevar".
 
 ### f
 
@@ -192,6 +204,10 @@ fastigium, ii n.: techo de doble pendiente, techumbre; pendiente
 formido, -inis f.: miedo, temor
 
 ### g
+
+#### gradieris
+
+gradior, gradi, gressus sum: "Caminar", "avanzar", "dar pasos".
 
 ### h
 
@@ -235,6 +251,10 @@ palus, -udis f.: pantano, laguna (Estigia)
 #### pignora
 
 pignoro 1 tr: empeñar, dar en prenda
+
+#### polis
+
+polus, i m: polo
 
 ### q 
 
