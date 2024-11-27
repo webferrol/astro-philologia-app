@@ -22,7 +22,7 @@ argenti bifores radiabant lumine valvae.
 <figure>
     <img src="/Croatia_Pula_Temple_of_Roma_and_Augustus.jpg" alt="Un fastigio1​ es un elemento que marca la parte superior o el final de algún objeto, a menudo formado para ser una característica decorativa." class="w-7/12">
     <figcaption>
-        En la arquitectura romana, el término **fastigium** se usaba para referirse a la **parte superior de un edificio**, especialmente al **frontón triangular** que coronaba templos y otros edificios monumentales. Estoe elemento, también conocido como **tímpano**, era un rasgo característico de la arquitectura clásica y servía tanto como ornamento como para enfatizar la importancia del edificio.
+        En la arquitectura romana, el término <mark>fastigium</mark> se usaba para referirse a la <em class="underline">parte superior de un edificio</em>, especialmente al <em class="underline">frontón triangular</em> que coronaba templos y otros edificios monumentales. Estoe elemento, también conocido como <mark>tímpano</mark>, era un rasgo característico de la arquitectura clásica y servía tanto como ornamento como para enfatizar la importancia del edificio.
     </figcaption>
 </figure>
 
@@ -153,18 +153,25 @@ ergo, qua licuit, genitor [cunctatus](#cunctatus) ad altos <sup class="text-[.5e
 deducit iuvenem, Vulcania munera, currus.  
 aureus axis erat, temo aureus, aurea summae  
 curvatura rotae, radiorum argenteus ordo;  
-per iuga <abbr title="El término chrysolithi es el plural del sustantivo latino chrysolithus, que a su vez deriva del griego antiguo χρυσόλιθος (chrysólithos), compuesto por χρυσός (chrysós, 'oro') y λίθος (líthos, 'piedra')">chrysolithi</abbr> positaeque ex ordine gemmae  
-clara repercusso reddebant lumina Phoebo. <sup class="text-[.5em] text-gray-400">110</sup>  
+per iuga <abbr title="El término chrysolithi es el plural del sustantivo latino chrysolithus, que a su vez deriva del griego antiguo χρυσόλιθος (chrysólithos), compuesto por χρυσός (chrysós, 'oro') y λίθος (líthos, 'piedra')">chrysolithi</abbr> positaeque <abbr title="de forma ordenada">ex ordine</abbr> gemmae  
+clara [repercusso](#repercusso) reddebant lumina Phoebo. <sup class="text-[.5em] text-gray-400">110</sup>  
 Dumque ea magnanimus Phaethon miratur opusque  
-perspicit, ecce vigil nitido patefecit ab ortu  
+perspicit, ecce [vigil](#vigil) nitido [patefecit](#patefacit) ab ortu  
 purpureas Aurora fores et plena rosarum  
 atria: diffugiunt stellae, quarum agmina cogit  
-Lucifer et caeli statione novissimus exit. <sup class="text-[.5em] text-gray-400">115</sup>  
-Quem petere ut terras mundumque rubescere vidit  
+Lucifer et caeli statione <abbr title="último">novissimus</abbr> exit. <sup class="text-[.5em] text-gray-400">115</sup>  
+
+> Lucifer, el lucero del alba, es quien finalmente ordena a las estrellas que se retiren, marcando el inicio del día.  
+ Lucifer ('lux': luz y 'ferre': llevar) es la estrella que aparece en el cielo antes del amanecer y que se identifica con el planeta Venus cuando es visible al amanecer o al atardecer
+
+<abbr title="Se refiere al Lucifer (Lucero)">Quem </abbr>petere ut terras mundumque rubescere vidit  
 cornuaque extremae velut evanescere lunae,  
-iungere equos Titan velocibus imperat Horis.  
+iungere equos <abbr title="Phoebus">Titan</abbr> velocibus imperat Horis. 
+
+>  las Horas son las divinidades asociadas al ciclo diario del tiempo y del cosmos. En la mitología grecorromana, en su aspecto más tardío, estas diosas se vinculan con la regulación del paso del día y la asistencia en las tareas de los dioses solares, como Helios (el Titán mencionado en el verso).
+
 iussa deae celeres peragunt ignemque vomentes,  
-ambrosiae suco saturos, praesepibus altis <sup class="text-[.5em] text-gray-400">120</sup>  
+ambrosiae suco saturos, [praesepibus](#praesepibus) altis <sup class="text-[.5em] text-gray-400">120</sup>  
 quadripedes ducunt adduntque sonantia frena.  
 tum pater ora sui sacro medicamine nati  
 contigit et rapidae fecit patientia flammae  
@@ -318,6 +325,10 @@ moderamen, -inis n.: lo que sirve para dirigir, timón
 
 palus, -udis f.: pantano, laguna (Estigia)
 
+#### patefacit
+
+patefacio, patefactum, patefaci, patefacta: "hacer abierto" o "abrir"
+
 #### pignora
 
 pignoro 1 tr: empeñar, dar en prenda
@@ -327,6 +338,10 @@ pignus, oris n.: prenda garantía
 #### polis
 
 polus, i m: polo
+
+#### praesepibus
+
+praesepium, i n.: pesebre
 
 #### promptu
 
@@ -350,6 +365,10 @@ pyropus, i m.: aleación de cobre y oro
 
 ### r
 
+#### repercusso
+
+repercutio, repercutere, repercussi, repercussum: "hacer retroceder", "repeler", "reflejar" o "reverberar"
+
 ### s 
 
 #### serta
@@ -363,4 +382,8 @@ smaragdus, i m. y f.: esmeralda
 ### t 
 
 ### v
+
+#### vigil
+
+vigil, vigilis: "vigilante", "despierto", "alerta", o "atento"
 
