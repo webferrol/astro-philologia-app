@@ -15,7 +15,7 @@ descriptio: Traductio, liber secundus (1 - 332)
 > El término Phaethon proviene del latín Phaethon, que significa 'el sol' o 'el sol de la tierra'.
 
 Regia Solis erat sublimibus alta columnis,  
-clara micante auro flammasque imitante [pyropo](#pyropo),  
+clara [micante](#micante) auro flammasque imitante [pyropo](#pyropo),  
 cuius ebur nitidum [fastigia](#fastigia) summa tegebat,  
 argenti bifores radiabant lumine valvae. 
 
@@ -26,9 +26,18 @@ argenti bifores radiabant lumine valvae.
     </figcaption>
 </figure>
 
-materiam superabat opus: nam <abbr title="Mulciber (el que apacigua) es uno de los epítetos del dios Vulcano en la mitología romana, quien era el dios del fuego, los volcanes y la forja. (Mulceo: verbo que significa 'acariciar', 'suavizar' o 'apaciguar'., Fer (derivado de ferre): verbo que significa 'llevar' o 'portar'.)">Mulciber</abbr> illic <sup class="text-[.5em] text-gray-400">5</sup>  
-[aequora](aequora) [caelarat](#caelarat) medias cingentia terras  
+materiam superabat opus: nam <abbr title="Mulciber (el que apacigua)">Mulciber</abbr> illic <sup class="text-[.5em] text-gray-400">5</sup>  
+[aequora](#aequora) [caelarat](#caelarat) medias cingentia terras  
 terrarumque orbem caelumque, quod imminet orbi.  
+
+<figure>
+    <img title="La fragua de Vulcano de Diego Velázquez. El Prado, Madrid." alt="La fragua de Vulcano de Diego Velázquez. El Prado, Madrid." src="https://res.cloudinary.com/dimvf1zl2/image/upload/v1732814602/latin/927px-Vel%C3%A1zquez_-_La_Fragua_de_Vulcano__Museo_del_Prado__1630_vfgkk0.jpg" alt="Doris, mother of Amphitrite" class="w-full">
+    <figcaption>
+         Mulciber (el que apacigua) es uno de los epítetos del dios Vulcano en la mitología romana, quien era el dios del fuego, los volcanes y la forja. (Mulceo: verbo que significa 'acariciar', 'suavizar' o 'apaciguar'., Fer (derivado de ferre): verbo que significa 'llevar' o 'portar'.)
+    </figcaption>    
+</figure>
+
+
 caeruleos habet unda deos, Tritona [canorum](#canorum)  
 [Proteaque](https://es.wikipedia.org/wiki/Proteo) ambiguum ballaenarumque prementem  
 [Aegaeona](https://es.wikipedia.org/wiki/Ege%C3%B3n) suis [inmania](#inmania) terga lacertis <sup class="text-[.5em] text-gray-400">10</sup>  
@@ -108,7 +117,7 @@ ne ferar in praeceps, Tethys solet ipsa vereri.
 
 adde, quod adsidua rapitur <abbr title="Movimiento de rotación o giro">vertigine</abbr> caelum <sup class="text-[.5em] text-gray-400">70</sup>  
 sideraque alta trahit celerique <abbr title="Un giro o movimiento circular">volumine</abbr> torquet.  
-nitor in adversum, nec me, qui cetera, vincit  
+[nitor](#nitor) in adversum, nec me, qui cetera, vincit  
 inpetus, et rapido contrarius [evehor](#evehor) orbi.  
 finge datos currus: quid ages? poterisne rotatis  
 obvius ire [polis](#polis), ne te citus [auferat](#auferat) axis? <sup class="text-[.5em] text-gray-400">75</sup>  
@@ -126,7 +135,7 @@ in [promptu](#promptu) regere est: vix me patiuntur, ubi acres
 incaluere animi cervixque repugnat [habenis](#habenis).  
 at tu, funesti ne sim tibi muneris auctor,  
 nate, cave, dum resque sinit tua corrige vota!  
-scilicet ut nostro genitum te sanguine credas, <sup class="text-[.5em] text-gray-400">90</sup>  
+[scilicet](#scilicet) ut nostro genitum te sanguine credas, <sup class="text-[.5em] text-gray-400">90</sup>  
 [pignora](#pignora) certa petis: do pignora certa timendo  
 et patrio pater esse metu probor. adspice vultus  
 ecce meos; utinamque oculos in pectora posses  
@@ -175,8 +184,8 @@ ambrosiae suco saturos, [praesepibus](#praesepibus) altis <sup class="text-[.5em
 quadripedes ducunt adduntque sonantia frena.  
 tum pater ora sui sacro medicamine nati  
 contigit et rapidae fecit patientia flammae  
-inposuitque comae radios praesagaque luctus  
-pectore sollicito repetens suspiria dixit: <sup class="text-[.5em] text-gray-400">125</sup>  
+inposuitque <abbr title="dativo">comae</abbr> radios praesagaque luctus  
+pectore [sollicito](#sollicito) repetens suspiria dixit: <sup class="text-[.5em] text-gray-400">125</sup>  
 'si potes his saltem monitis parere parentis  
 parce, puer, stimulis et fortius utere loris!  
 sponte sua properant, labor est inhibere volentes.  
@@ -310,12 +319,20 @@ licet: es permitido, es posible
 
 mane adv. : al amanecer, por la mañana
 
+#### micante
+
+mico, as are, avi, atum: brillar
+
 #### moderamen
 #### moderamine
 
 moderamen, -inis n.: lo que sirve para dirigir, timón
 
 ### n
+
+#### nitor
+
+Nītor es un verbo deponente de la tercera conjugación que significa "apoyarse", "esforzarse" o "intentar"
 
 ### o
 
@@ -378,6 +395,14 @@ sertum, i n.: guirnalda
 #### smaragdis
 
 smaragdus, i m. y f.: esmeralda
+
+#### sollicito
+
+sollicitus, i m.: angustiado
+
+#### scilicet
+
+scilicet adv.: Es decir, a saber, esto es
 
 ### t 
 
