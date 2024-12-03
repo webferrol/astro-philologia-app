@@ -199,7 +199,7 @@ nec tibi derectos placeat via quinque per arcus!
 </figure>
 
 sectus in obliquum est lato curvamine limes, <sup class="text-[.5em] text-gray-400">130</sup>  
-zonarumque trium contentus fine polumque  
+<abbr title="1. Una zona tórrida (inhabitables); 2. Dos zonas templadas (consideradas habitables y con climas agradables); 3. Dos zonas frígidas (inhabitables).">zonarumque trium</abbr> contentus fine polumque  
 effugit australem iunctamque [aquilonibus](#aquilonibus) [arcton](#arcton):  
 hac sit iter - manifesta rotae vestigia cernes -  
 utque ferant aequos et caelum et terra calores,  
@@ -208,7 +208,7 @@ altius egressus caelestia tecta cremabis,
 inferius terras; medio tutissimus ibis.  
 neu te dexterior tortum declinet ad Anguem,  
 neve sinisterior pressam rota ducat ad Aram,  
-inter utrumque tene! Fortunae cetera mando, <sup class="text-[.5em] text-gray-400">140</sup>  
+inter utrumque tene! <abbr title="dativo">Fortunae</abbr> cetera mando, <sup class="text-[.5em] text-gray-400">140</sup>  
 quae iuvet et melius quam tu tibi [consulat](#consulat) opto.  
 dum loquor, Hesperio positas in litore metas  
 umida nox tetigit; non est mora libera nobis!  
@@ -221,6 +221,24 @@ est tibi, consiliis, non curribus utere nostris!
 dum potes et solidis etiamnum sedibus adstas,  
 dumque male optatos nondum premis inscius axes,  
 quae tutus spectes, sine me dare lumina terris!'  
+Occupat ille levem iuvenali corpore currum <sup class="text-[.5em] text-gray-400">150</sup>  
+statque super manibusque leves contingere habenas  
+gaudet et invito grates agit inde parenti.  
+
+Interea volucres Pyrois et Eous et Aethon,  
+Solis equi, quartusque Phlegon hinnitibus auras  
+flammiferis inplent pedibusque repagula pulsant. <sup class="text-[.5em] text-gray-400">155</sup>  
+quae postquam Tethys, fatorum ignara nepotis,  
+reppulit, et facta est inmensi copia caeli,  
+corripuere viam pedibusque per aera motis  
+obstantes scindunt nebulas pennisque levati  
+praetereunt ortos isdem de partibus Euros. <sup class="text-[.5em] text-gray-400">160</sup>  
+sed leve pondus erat nec quod cognoscere possent  
+Solis equi, solitaque iugum gravitate carebat;  
+utque labant curvae iusto sine pondere naves  
+perque mare instabiles nimia levitate feruntur,  
+sic onere adsueto vacuus dat in aera saltus <sup class="text-[.5em] text-gray-400">165</sup>  
+succutiturque alte similisque est currus inani.  
 
 ## Lexicon
 
