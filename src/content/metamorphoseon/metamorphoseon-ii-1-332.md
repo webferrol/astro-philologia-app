@@ -183,27 +183,38 @@ iussa deae celeres peragunt ignemque vomentes,
 ambrosiae suco saturos, [praesepibus](#praesepibus) altis <sup class="text-[.5em] text-gray-400">120</sup>  
 quadripedes ducunt adduntque sonantia frena.  
 tum pater ora sui sacro medicamine nati  
-contigit et rapidae fecit patientia flammae  
+contigit et rapidae fecit <abbr title="concuerda con ora">patientia</abbr> flammae  
 inposuitque <abbr title="dativo">comae</abbr> radios praesagaque luctus  
 pectore [sollicito](#sollicito) repetens suspiria dixit: <sup class="text-[.5em] text-gray-400">125</sup>  
-'si potes his saltem monitis parere parentis  
-parce, puer, stimulis et fortius utere loris!  
+'si potes his [saltem](#saltem) monitis [parere](#parere) parentis  
+parce, puer, stimulis et fortius utere [loris](#loris)!  
 sponte sua properant, labor est inhibere volentes.  
-nec tibi derectos placeat via quinque per arcus!  
+nec tibi derectos placeat via quinque per arcus! 
+
+<figure>
+    <img class="w-2/5" alt="Zonas de la tierra macrobólica" src="https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1729848971/maps/zonas-tierra-macrobio_vfsebe.jpg" alt="Zonas de tierra macrobólica" class="w-full">
+    <figcaption class="text-xs">
+        nec tibi derectos placeat via quinque per arcus!
+    </figcaption>
+</figure>
+
 sectus in obliquum est lato curvamine limes, <sup class="text-[.5em] text-gray-400">130</sup>  
 zonarumque trium contentus fine polumque  
-effugit australem iunctamque aquilonibus arcton:  
-hac sit iter¬manifesta rotae vestigia cernes  
+effugit australem iunctamque [aquilonibus](#aquilonibus) [arcton](#arcton):  
+hac sit iter - manifesta rotae vestigia cernes -  
 utque ferant aequos et caelum et terra calores,  
-nec preme nec summum molire per aethera currum! <sup class="text-[.5em] text-gray-400">135</sup>  
+nec preme nec summum [molire](#molire) per aethera currum! <sup class="text-[.5em] text-gray-400">135</sup>  
 altius egressus caelestia tecta cremabis,  
 inferius terras; medio tutissimus ibis.  
 neu te dexterior tortum declinet ad Anguem,  
 neve sinisterior pressam rota ducat ad Aram,  
 inter utrumque tene! Fortunae cetera mando, <sup class="text-[.5em] text-gray-400">140</sup>  
-quae iuvet et melius quam tu tibi consulat opto.  
+quae iuvet et melius quam tu tibi [consulat](#consulat) opto.  
 dum loquor, Hesperio positas in litore metas  
 umida nox tetigit; non est mora libera nobis!  
+
+> El término 'Hesperio' se refiere al 'Occidente', específicamente a la región del oeste, que en la mitología y literatura latinas a menudo se asociaba con el ocaso o con el fin del día
+
 poscimur: effulget tenebris Aurora fugatis.  
 corripe lora manu, vel, si mutabile pectus <sup class="text-[.5em] text-gray-400">145</sup>  
 est tibi, consiliis, non curribus utere nostris!  
@@ -223,9 +234,17 @@ acclivis, e: que está cuesta arriba
 
 adficio, adficere, adfeci, adfectum: "afectar", "influir", "desear" o "aspirar"
 
+#### aquilonibus
+
+aquilo, aquilonis m.: el viento del  norte, norte, Aquilón
+
 #### aequora
 
 aequor, -oris n.: superficie plana
+
+#### arcton
+
+ἄρκτον (árkton) "oso" o "norte", dependiendo del contexto. El término aparece en textos latinos influenciados por el griego, sobre todo en relación con la constelación de la Osa Mayor o con la región del Ártico (que deriva de este término).
 
 #### auferat
 
@@ -250,6 +269,10 @@ canorus a um: melodioso
 #### concutiens
 
 concutio, concutere, concussi, concussum, que significa "sacudir", "agitar violentamente" o incluso "temblar".
+
+#### consulat
+
+consulo, -ere 3 tr.: consultar, considerar, cuidar
 
 #### cunctatus
 
@@ -313,6 +336,10 @@ intus adv.: dentro
 
 licet: es permitido, es posible
 
+#### loris
+
+lorum, i n.: correa, rienda
+
 ### m
 
 #### mane
@@ -328,6 +355,10 @@ mico, as are, avi, atum: brillar
 
 moderamen, -inis n.: lo que sirve para dirigir, timón
 
+#### molire
+
+molior, moliri, molitus sum: construir, esforzarse, movilizar, emprender
+
 ### n
 
 #### nitor
@@ -341,6 +372,10 @@ Nītor es un verbo deponente de la tercera conjugación que significa "apoyarse"
 #### palus
 
 palus, -udis f.: pantano, laguna (Estigia)
+
+#### parere
+
+pareo 2: obedecer, cumplir
 
 #### patefacit
 
@@ -387,6 +422,10 @@ pyropus, i m.: aleación de cobre y oro
 repercutio, repercutere, repercussi, repercussum: "hacer retroceder", "repeler", "reflejar" o "reverberar"
 
 ### s 
+
+#### saltem
+
+saltem adv.: al menos
 
 #### serta
 
