@@ -187,7 +187,7 @@ contigit et rapidae fecit <abbr title="concuerda con ora">patientia</abbr> flamm
 inposuitque <abbr title="dativo">comae</abbr> radios praesagaque luctus  
 pectore [sollicito](#sollicito) repetens suspiria dixit: <sup class="text-[.5em] text-gray-400">125</sup>  
 'si potes his [saltem](#saltem) monitis [parere](#parere) parentis  
-parce, puer, stimulis et fortius utere [loris](#loris)!  
+parce, puer, stimulis et fortius <abbr title="imperativo de presente">utere</abbr> [loris](#loris)!  
 sponte sua properant, labor est inhibere volentes.  
 nec tibi derectos placeat via quinque per arcus! 
 
@@ -219,25 +219,39 @@ poscimur: effulget tenebris Aurora fugatis.
 corripe lora manu, vel, si mutabile pectus <sup class="text-[.5em] text-gray-400">145</sup>  
 est tibi, consiliis, non curribus utere nostris!  
 dum potes et solidis etiamnum sedibus adstas,  
-dumque male optatos nondum premis inscius axes,  
-quae tutus spectes, sine me dare lumina terris!'  
+dumque <abbr title="malamente deseados">male optatos</abbr> nondum premis inscius axes,  
+quae tutus spectes, [sine](#sine) me dare lumina terris!'  
 Occupat ille levem iuvenali corpore currum <sup class="text-[.5em] text-gray-400">150</sup>  
 statque super manibusque leves contingere habenas  
 gaudet et invito grates agit inde parenti.  
 Interea volucres Pyrois et Eous et Aethon,  
-Solis equi, quartusque Phlegon hinnitibus auras  
-flammiferis inplent pedibusque repagula pulsant. <sup class="text-[.5em] text-gray-400">155</sup>  
+Solis equi, quartusque Phlegon [hinnitibus](#hinnitibus) auras  
+flammiferis inplent pedibusque [repagula](#repagula) pulsant. <sup class="text-[.5em] text-gray-400">155</sup>  
 quae postquam Tethys, fatorum ignara nepotis,  
 reppulit, et facta est inmensi copia caeli,  
-corripuere viam pedibusque per aera motis  
+[corripuere](#corripuere) viam pedibusque per aera motis  
 obstantes scindunt nebulas pennisque levati  
-praetereunt ortos isdem de partibus Euros. <sup class="text-[.5em] text-gray-400">160</sup>  
+[praetereunt](#praetereunt) ortos isdem de partibus Euros. <sup class="text-[.5em] text-gray-400">160</sup>  
+
+> Ovidio, al ser un poeta, a menudo toma **licencias poéticas** y juega con las relaciones mitológicas para crear un vínculo emotivo o simbólico entre los personajes. En este caso, la referencia a 'nieto' puede ser una forma de establecer la conexión entre Fáeton y los dioses más antiguos o poderosos de la mitología griega.
+
 sed leve pondus erat nec quod cognoscere possent  
 Solis equi, solitaque iugum gravitate carebat;  
 utque labant curvae iusto sine pondere naves  
 perque mare instabiles nimia levitate feruntur,  
-sic onere adsueto vacuus dat in aera saltus <sup class="text-[.5em] text-gray-400">165</sup>  
-succutiturque alte similisque est currus inani.  
+sic onere [adsueto](#adsueto) vacuus dat in aera saltus <sup class="text-[.5em] text-gray-400">165</sup>  
+succutiturque alte similisque est currus [inani](#inani).  
+Quod simulac sensere, ruunt tritumque relinquunt  
+quadriiugi spatium nec quo prius ordine currunt.  
+ipse pavet nec qua commissas flectat habenas  
+nec scit qua sit iter, nec, si sciat, imperet illis. <sup class="text-[.5em] text-gray-400">170</sup>  
+tum primum radiis gelidi caluere Triones  
+et vetito frustra temptarunt aequore tingui,  
+quaeque polo posita est glaciali proxima Serpens,  
+frigore pigra prius nec formidabilis ulli,  
+incaluit sumpsitque novas fervoribus iras; <sup class="text-[.5em] text-gray-400">175</sup>  
+te quoque turbatum memorant fugisse, Boote,  
+quamvis tardus eras et te tua plaustra tenebant.  
 
 ## Lexicon
 
@@ -250,6 +264,10 @@ acclivis, e: que está cuesta arriba
 #### adfectas
 
 adficio, adficere, adfeci, adfectum: "afectar", "influir", "desear" o "aspirar"
+
+#### adsueto
+
+adsuesco, adsuescere: acostumbrase
 
 #### aquilonibus
 
@@ -290,6 +308,10 @@ concutio, concutere, concussi, concussum, que significa "sacudir", "agitar viole
 #### consulat
 
 consulo, -ere 3 tr.: consultar, considerar, cuidar
+
+#### corripuere
+
+corripio, corripere, corripui, correptum: "arrebatar", "coger rápidamente", o "tomar de manera repentina"
 
 #### cunctatus
 
@@ -333,11 +355,19 @@ gradior, gradi, gressus sum: "Caminar", "avanzar", "dar pasos".
 
 habena, ae f.: soga, cordel, correa
 
+#### hinnitibus
+
+hinnitūs, -ūs (relincho)
+
 ### i
 
 #### infitianda
 
 infitior 1 dep: negar
+
+#### inani
+
+inanis, e: "vacío", "vano", "sin valor" o "sin sentido"
 
 #### inmania
 
@@ -412,6 +442,10 @@ polus, i m: polo
 
 praesepium, i n.: pesebre
 
+#### praetereunt
+
+praetereo, praeterire, praeterii, praeteritum: "pasar por", "pasar más allá", o "sobrepasar"
+
 #### promptu
 
 promptus, us m.: a la vista, a la mano
@@ -434,6 +468,10 @@ pyropus, i m.: aleación de cobre y oro
 
 ### r
 
+#### repagula
+
+repagulum, i n.: puerta (pequeña), cerrojo  
+
 #### repercusso
 
 repercutio, repercutere, repercussi, repercussum: "hacer retroceder", "repeler", "reflejar" o "reverberar"
@@ -447,6 +485,10 @@ saltem adv.: al menos
 #### serta
 
 sertum, i n.: guirnalda
+
+#### sine
+
+sinō, sinere, sīvī, situm, que significa "permitir", "dejar" o "consentir"
 
 #### smaragdis
 
