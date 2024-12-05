@@ -237,21 +237,52 @@ obstantes scindunt nebulas pennisque levati
 
 sed leve pondus erat nec quod cognoscere possent  
 Solis equi, solitaque iugum gravitate carebat;  
-utque labant curvae iusto sine pondere naves  
+utque [labant](#labant) curvae iusto sine pondere naves  
 perque mare instabiles nimia levitate feruntur,  
 sic onere [adsueto](#adsueto) vacuus dat in aera saltus <sup class="text-[.5em] text-gray-400">165</sup>  
 succutiturque alte similisque est currus [inani](#inani).  
-Quod simulac sensere, ruunt tritumque relinquunt  
+Quod simulac sensere, ruunt [tritumque](#tritum) relinquunt  
 quadriiugi spatium nec quo prius ordine currunt.  
-ipse pavet nec qua commissas flectat habenas  
+ipse pavet nec qua [commissas](#commissas) [flectat](#flectat) habenas  
 nec scit qua sit iter, nec, si sciat, imperet illis. <sup class="text-[.5em] text-gray-400">170</sup>  
 tum primum radiis gelidi caluere Triones  
-et vetito frustra temptarunt aequore tingui,  
+et [vetito](#vetito) [frustra](#frustra) temptarunt aequore [tingui](#tingui),  
 quaeque polo posita est glaciali proxima Serpens,  
-frigore pigra prius nec formidabilis ulli,  
+frigore [pigra](#pigra) prius nec formidabilis ulli,  
 incaluit sumpsitque novas fervoribus iras; <sup class="text-[.5em] text-gray-400">175</sup>  
 te quoque turbatum memorant fugisse, Boote,  
-quamvis tardus eras et te tua plaustra tenebant.  
+quamvis tardus eras et te tua [plaustra](#plaustra) tenebant.  
+
+> Este pasaje describe cómo el calor extremo generado por el mal manejo del carro del Sol afecta a las constelaciones del cielo:  
+> 1. **Triones (Ursa Major y Ursa Minor)**:    Representan a las Osas Mayor y Menor, que, según la mitología, nunca se hunden bajo el horizonte debido a la prohibición de Tetis de permitirles bañarse en el océano. Por el calor excesivo, intentan infructuosamente sumergirse en el agua.
+> 2. **Serpens (La Serpiente)**:  Es la constelación cercana al polo celeste. Generalmente, está asociada a la frialdad e inmovilidad. El calor la despierta y la vuelve peligrosa, adquiriendo 'nuevas iras'.
+> 3. **Bootes (El Boyero):**:  Una constelación que representa a un pastor o boyero guiando un carro, vinculado al 'carro celeste' formado por las Osas. Es conocido como una figura lenta, lo cual se menciona en el verso. Aquí se describe huyendo debido al caos.
+
+Ut vero summo despexit ab aethere terras  
+infelix Phaethon penitus penitusque iacentes,  
+palluit et subito genua intremuere timore <sup class="text-[.5em] text-gray-400">180</sup>  
+suntque oculis tenebrae per tantum lumen obortae,  
+et iam mallet equos numquam tetigisse paternos,  
+iam cognosse genus piget et valuisse rogando,  
+iam Meropis dici cupiens ita fertur, ut acta  
+praecipiti pinus borea, cui victa remisit <sup class="text-[.5em] text-gray-400">185</sup>  
+frena suus rector, quam dis votisque reliquit.  
+quid faciat? multum caeli post terga relictum,  
+ante oculos plus est: animo metitur utrumque  
+et modo, quos illi fatum contingere non est,  
+prospicit occasus, interdum respicit ortus, <sup class="text-[.5em] text-gray-400">190</sup>  
+quidque agat ignarus stupet et nec frena remittit  
+nec retinere valet nec nomina novit equorum.  
+sparsa quoque in vario passim miracula caelo  
+vastarumque videt trepidus simulacra ferarum.  
+est locus, in geminos ubi bracchia concavat arcus <sup class="text-[.5em] text-gray-400">195</sup>  
+Scorpius et cauda flexisque utrimque lacertis  
+porrigit in spatium signorum membra duorum:  
+hunc puer ut nigri madidum sudore veneni  
+vulnera curvata minitantem cuspide vidit,  
+mentis inops gelida formidine lora remisit. <sup class="text-[.5em] text-gray-400">200</sup>  
+ 
+ 
 
 ## Lexicon
 
@@ -301,6 +332,10 @@ calco 1 tr.: pisotear
 
 canorus a um: melodioso
 
+#### commissas
+
+committō, committere, commīsī, commissum: confiar, encargar
+
 #### concutiens
 
 concutio, concutere, concussi, concussum, que significa "sacudir", "agitar violentamente" o incluso "temblar".
@@ -339,9 +374,17 @@ fastigium, ii n.: techo de doble pendiente, techumbre; pendiente
 
 flagro, flagrare, flagravi, flagratum: arder, quemarse
 
+#### flectat
+
+flecto, flectere, flexi, flexum: doblar, curvar, torcer
+
 #### formidine
 
 formido, -inis f.: miedo, temor
+
+#### frustra
+
+frustra adv.: en vano
 
 ### g
 
@@ -378,6 +421,10 @@ inmanis, e: extraordinario, monstruoso
 intus adv.: dentro
 
 ### l
+
+#### labant
+
+labo 1 tr.: tambalearse, vacilar, caer
 
 #### licebit
 
@@ -433,6 +480,14 @@ patefacio, patefactum, patefaci, patefacta: "hacer abierto" o "abrir"
 pignoro 1 tr: empeñar, dar en prenda
 
 pignus, oris n.: prenda garantía
+
+#### pigra
+
+piger, pigra, pigrum: lento, perezoso, torpe
+
+#### plaustra
+
+plaustrum, i n.: carro
 
 #### polis
 
@@ -504,7 +559,21 @@ scilicet adv.: Es decir, a saber, esto es
 
 ### t 
 
+#### tingui
+
+tingo, tingere, tinxi, tinctum: mojar, empapar, teñir, sumergir
+
+tingui: Infinitivo pasivo
+
+#### tritum
+
+tritus, trita, tritum: triturado, desgastado
+
 ### v
+
+#### vetito
+
+Veto, vetāre, vetuī, vetitum: prohibir
 
 #### vigil
 
