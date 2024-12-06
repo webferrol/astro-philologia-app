@@ -285,14 +285,14 @@ hunc puer ut nigri madidum sudore veneni
 vulnera curvata [minitantem](#minitantem) cuspide vidit,  
 mentis inops gelida [formidine](#formidine) lora remisit. <sup class="text-[.5em] text-gray-400">200</sup>  
 Quae postquam summum tetigere iacentia tergum,  
-exspatiantur equi nulloque inhibente per auras  
+exspatiantur equi nulloque [inhibente](#inhibente) per auras  
 ignotae regionis eunt, quaque inpetus egit,  
 hac sine lege ruunt altoque sub aethere fixis  
-incursant stellis rapiuntque per avia currum <sup class="text-[.5em] text-gray-400">205</sup>  
+incursant stellis [rapiuntque](#rapiunt) per [avia](#avia) currum <sup class="text-[.5em] text-gray-400">205</sup>  
 et modo summa petunt, modo per declive viasque  
 praecipites spatio terrae propiore feruntur,  
 inferiusque suis fraternos currere Luna  
-admiratur equos, ambustaque nubila fumant.  
+admiratur equos, [ambustaque](#ambusta) nubila fumant.  
 corripitur flammis, ut quaeque altissima, tellus <sup class="text-[.5em] text-gray-400">210</sup>  
 fissaque agit rimas et sucis aret ademptis;  
 pabula canescunt, cum frondibus uritur arbor,  
@@ -337,6 +337,10 @@ aquilo, aquilonis m.: el viento del  norte, norte, Aquilón
 
 aequor, -oris n.: superficie plana
 
+#### ambusta
+
+amburo -ussi -ustum 3 tr.: quemar en torno, chamuscar
+
 #### arcton
 
 ἄρκτον (árkton) "oso" o "norte", dependiendo del contexto. El término aparece en textos latinos influenciados por el griego, sobre todo en relación con la constelación de la Osa Mayor o con la región del Ártico (que deriva de este término).
@@ -344,6 +348,10 @@ aequor, -oris n.: superficie plana
 #### auferat
 
 aufero: llevar, quitar, robar, despojar, arrastar
+
+#### avia
+
+avius a um: extraviado
 
 ### b
 
@@ -433,13 +441,17 @@ hinnitūs, -ūs (relincho)
 
 ### i
 
+#### inani
+
+inanis, e: "vacío", "vano", "sin valor" o "sin sentido"
+
 #### infitianda
 
 infitior 1 dep: negar
 
-#### inani
+#### inhibente
 
-inanis, e: "vacío", "vano", "sin valor" o "sin sentido"
+inhibeo inhibeo, inhibēre, inhibui, inhibitum: "detener", "impedir" o "reprimir"
 
 #### inmania
 
@@ -571,6 +583,10 @@ paveo -ui 2: atemorizarse
 pyropus, i m.: aleación de cobre y oro
 
 ### r
+
+#### rapiunt
+
+rapio: arrastrar consigo
 
 #### repagula
 
