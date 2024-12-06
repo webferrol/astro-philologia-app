@@ -259,28 +259,57 @@ quamvis tardus eras et te tua [plaustra](#plaustra) tenebant.
 > 3. **Bootes (El Boyero):**:  Una constelación que representa a un pastor o boyero guiando un carro, vinculado al 'carro celeste' formado por las Osas. Es conocido como una figura lenta, lo cual se menciona en el verso. Aquí se describe huyendo debido al caos.
 
 Ut vero summo despexit ab aethere terras  
-infelix Phaethon penitus penitusque iacentes,  
+infelix Phaethon penitus [penitusque](#penitus) iacentes,  
 palluit et subito genua intremuere timore <sup class="text-[.5em] text-gray-400">180</sup>  
 suntque oculis tenebrae per tantum lumen obortae,  
 et iam mallet equos numquam tetigisse paternos,  
-iam cognosse genus piget et valuisse rogando,  
-iam Meropis dici cupiens ita fertur, ut acta  
+iam cognosse genus [piget](#piget) et valuisse rogando,  
+iam <abbr title="Merops -opis f. En el contexto del pasaje de las Metamorfosis de Ovidio, Meropis parece ser un nombre ficticio o utilizado metafóricamente por el poeta para representar una figura anónima o humilde que Faetón desearía ser">Meropis</abbr> dici cupiens ita fertur, ut acta  
 praecipiti pinus borea, cui victa remisit <sup class="text-[.5em] text-gray-400">185</sup>  
 frena suus rector, quam dis votisque reliquit.  
 quid faciat? multum caeli post terga relictum,  
 ante oculos plus est: animo metitur utrumque  
 et modo, quos illi fatum contingere non est,  
 prospicit occasus, interdum respicit ortus, <sup class="text-[.5em] text-gray-400">190</sup>  
-quidque agat ignarus stupet et nec frena remittit  
+quidque agat ignarus [stupet](#stupet) et nec frena remittit  
 nec retinere valet nec nomina novit equorum.  
-sparsa quoque in vario passim miracula caelo  
-vastarumque videt trepidus simulacra ferarum.  
+sparsa quoque in vario <abbr title="por todas partes">passim</abbr> [miracula](#miracula) caelo  
+<abbr title="enorme, prodigioso">vastarumque</abbr> videt trepidus simulacra ferarum.  
 est locus, in geminos ubi bracchia concavat arcus <sup class="text-[.5em] text-gray-400">195</sup>  
-Scorpius et cauda flexisque utrimque lacertis  
-porrigit in spatium signorum membra duorum:  
+Scorpius et cauda flexisque [utrimque](#utrimque) lacertis  
+[porrigit](#porrigit) in spatium signorum membra duorum:  
+
+![Scoropius](/Scorpio-Constellation.webp)
+
 hunc puer ut nigri madidum sudore veneni  
-vulnera curvata minitantem cuspide vidit,  
-mentis inops gelida formidine lora remisit. <sup class="text-[.5em] text-gray-400">200</sup>  
+vulnera curvata [minitantem](#minitantem) cuspide vidit,  
+mentis inops gelida [formidine](#formidine) lora remisit. <sup class="text-[.5em] text-gray-400">200</sup>  
+Quae postquam summum tetigere iacentia tergum,  
+exspatiantur equi nulloque inhibente per auras  
+ignotae regionis eunt, quaque inpetus egit,  
+hac sine lege ruunt altoque sub aethere fixis  
+incursant stellis rapiuntque per avia currum <sup class="text-[.5em] text-gray-400">205</sup>  
+et modo summa petunt, modo per declive viasque  
+praecipites spatio terrae propiore feruntur,  
+inferiusque suis fraternos currere Luna  
+admiratur equos, ambustaque nubila fumant.  
+corripitur flammis, ut quaeque altissima, tellus <sup class="text-[.5em] text-gray-400">210</sup>  
+fissaque agit rimas et sucis aret ademptis;  
+pabula canescunt, cum frondibus uritur arbor,  
+materiamque suo praebet seges arida damno.  
+parva queror: magnae pereunt cum moenibus urbes,  
+cumque suis totas populis incendia gentis <sup class="text-[.5em] text-gray-400">215</sup>  
+in cinerem vertunt; silvae cum montibus ardent;  
+ardet Athos Taurusque Cilix et Tmolus et Oete  
+et tum sicca, prius creberrima fontibus, Ide  
+virgineusque Helicon et nondum Oeagrius Haemus:  
+ardet in inmensum geminatis ignibus Aetne <sup class="text-[.5em] text-gray-400">220</sup>  
+Parnasosque biceps et Eryx et Cynthus et Othrys  
+et tandem nivibus Rhodope caritura Mimasque  
+Dindymaque et Mycale natusque ad sacra Cithaeron.  
+nec prosunt Scythiae sua frigora: Caucasus ardet  
+Ossaque cum Pindo maiorque ambobus Olympus <sup class="text-[.5em] text-gray-400">225</sup>  
+aeriaeque Alpes et nubifer Appenninus.  
  
  
 
@@ -444,6 +473,14 @@ mane adv. : al amanecer, por la mañana
 
 mico, as are, avi, atum: brillar
 
+#### minitantem
+
+minitor 1 tr. dep.: amenazar
+
+#### miracula
+
+miraculum, i n.: prodigio, maravilla
+
 #### moderamen
 #### moderamine
 
@@ -475,6 +512,14 @@ pareo 2: obedecer, cumplir
 
 patefacio, patefactum, patefaci, patefacta: "hacer abierto" o "abrir"
 
+#### penitus
+
+penitus adv.: profundamente, hasta los más profundo, totalmente
+
+#### piget
+
+piget -uit o -itum est: estar decontento, estar contrariado, afligido
+
 #### pignora
 
 pignoro 1 tr: empeñar, dar en prenda
@@ -492,6 +537,10 @@ plaustrum, i n.: carro
 #### polis
 
 polus, i m: polo
+
+#### porrigit
+
+porrigo -rexi -rectum 3 tr.: tender, dar, extender, prolongar
 
 #### praesepibus
 
@@ -557,6 +606,10 @@ sollicitus, i m.: angustiado
 
 scilicet adv.: Es decir, a saber, esto es
 
+#### stupet
+
+stupeo -ui 2 intr.: quedarse parado
+
 ### t 
 
 #### tingui
@@ -568,6 +621,12 @@ tingui: Infinitivo pasivo
 #### tritum
 
 tritus, trita, tritum: triturado, desgastado
+
+### u
+
+#### utrimque
+
+utrimque adv.: de uno y otro lado, por ambas partes
 
 ### v
 
