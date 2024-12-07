@@ -293,23 +293,31 @@ et modo summa petunt, modo per declive viasque
 praecipites spatio terrae propiore feruntur,  
 inferiusque suis fraternos currere Luna  
 admiratur equos, [ambustaque](#ambusta) nubila fumant.  
-corripitur flammis, ut quaeque altissima, tellus <sup class="text-[.5em] text-gray-400">210</sup>  
-fissaque agit rimas et sucis aret ademptis;  
+[corripitur](#corripitur) flammis, ut quaeque altissima, tellus <sup class="text-[.5em] text-gray-400">210</sup>  
+[fissaque](#fissa) agit rimas et sucis aret [ademptis](#ademptis);  
 pabula canescunt, cum frondibus uritur arbor,  
-materiamque suo praebet seges arida damno.  
+materiamque suo [praebet](#praebet) seges arida damno.  
 parva queror: magnae pereunt cum moenibus urbes,  
 cumque suis totas populis incendia gentis <sup class="text-[.5em] text-gray-400">215</sup>  
 in cinerem vertunt; silvae cum montibus ardent;  
-ardet Athos Taurusque Cilix et Tmolus et Oete  
-et tum sicca, prius creberrima fontibus, Ide  
-virgineusque Helicon et nondum Oeagrius Haemus:  
+ardet <abbr title="Un monte en Macedonia, conocido por ser un lugar sagrado">Athos</abbr> <abbr title="Una montaña en la región de Cilicia, ubicada en el sur de Asia Menor">Taurusque Cilix</abbr> et <abbr title="Un monte en Frigia (hoy parte de Turquía)">Tmolus</abbr> et <abbr title="Un monte en Tesalia">Oete</abbr>  
+et tum sicca, prius creberrima fontibus, <abbr title="Un monte en la región de Troade (cerca de Troya), anteriormente conocido por sus fuentes de agua">Ide</abbr>  
+virgineusque <abbr title=" Un monte sagrado para las Musas, situado en Beocia, Grecia, simbolizando la inspiración poética">Helicon</abbr> et nondum <abbr title="El término 'Oeagrius' en latín es un adjetivo que significa 'relativo a Oeagrus' o 'de Oeagrus'. Oeagrus es un personaje de la mitología griega, rey de Tracia y padre de Midas, el rey que se hizo famoso por su 'toque de oro'. Oeagrus está asociado con Tracia, una región en el noreste de la antigua Grecia.">Oeagrius</abbr> <abbr title="Un monte que se extiende a través de la región de los Balcanes, asociado con la nieve y el frío">Haemus</abbr>:  
 ardet in inmensum geminatis ignibus Aetne <sup class="text-[.5em] text-gray-400">220</sup>  
 Parnasosque biceps et Eryx et Cynthus et Othrys  
-et tandem nivibus Rhodope caritura Mimasque  
+et tandem nivibus Rhodope [caritura](#caritura) Mimasque  
 Dindymaque et Mycale natusque ad sacra Cithaeron.  
 nec prosunt Scythiae sua frigora: Caucasus ardet  
 Ossaque cum Pindo maiorque ambobus Olympus <sup class="text-[.5em] text-gray-400">225</sup>  
-aeriaeque Alpes et nubifer Appenninus.  
+[aeriaeque](#aeriae) Alpes et nubifer Appenninus.  
+Tum vero Phaethon cunctis e partibus orbem  
+adspicit accensum nec tantos sustinet aestus  
+ferventisque auras velut e fornace profunda  
+ore trahit currusque suos candescere sentit; <sup class="text-[.5em] text-gray-400">230</sup>  
+et neque iam cineres eiectatamque favillam  
+ferre potest calidoque involvitur undique fumo,  
+quoque eat aut ubi sit, picea caligine tectus  
+nescit et arbitrio volucrum raptatur equorum.   
  
  
 
@@ -321,6 +329,10 @@ aeriaeque Alpes et nubifer Appenninus.
 
 acclivis, e: que está cuesta arriba
 
+#### ademptis
+
+adimo, adimere, ademi, ademptum: "quitar", "arrebatar", "tomar" o "privar de algo"
+
 #### adfectas
 
 adficio, adficere, adfeci, adfectum: "afectar", "influir", "desear" o "aspirar"
@@ -328,6 +340,10 @@ adficio, adficere, adfeci, adfectum: "afectar", "influir", "desear" o "aspirar"
 #### adsueto
 
 adsuesco, adsuescere: acostumbrase
+
+#### aeriae
+
+aerius -a -um: rel. al aire, aéreo
 
 #### aquilonibus
 
@@ -369,6 +385,10 @@ calco 1 tr.: pisotear
 
 canorus a um: melodioso
 
+#### caritura
+
+careo -ui -iturus 2 tr.: carecer
+
 #### commissas
 
 committō, committere, commīsī, commissum: confiar, encargar
@@ -382,6 +402,7 @@ concutio, concutere, concussi, concussum, que significa "sacudir", "agitar viole
 consulo, -ere 3 tr.: consultar, considerar, cuidar
 
 #### corripuere
+#### corripitur
 
 corripio, corripere, corripui, correptum: "arrebatar", "coger rápidamente", o "tomar de manera repentina"
 
@@ -406,6 +427,10 @@ delubrum, i n.: templo
 #### fastigia
 
 fastigium, ii n.: techo de doble pendiente, techumbre; pendiente
+
+#### fissa
+
+findo, findere, fidi, fissum: "partir", "hender", "dividir" o "abrir"
 
 #### flagrat
 
@@ -557,6 +582,10 @@ porrigo -rexi -rectum 3 tr.: tender, dar, extender, prolongar
 #### praesepibus
 
 praesepium, i n.: pesebre
+
+#### praebet
+
+praebeo, praebere, praebui, praebitum: "ofrecer", "proporcionar", "mostrar" o "poner a disposición"
 
 #### praetereunt
 
