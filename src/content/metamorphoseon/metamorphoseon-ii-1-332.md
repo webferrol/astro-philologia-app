@@ -311,19 +311,60 @@ nec prosunt Scythiae sua frigora: Caucasus ardet
 Ossaque cum Pindo maiorque ambobus Olympus <sup class="text-[.5em] text-gray-400">225</sup>  
 [aeriaeque](#aeriae) Alpes et nubifer Appenninus.  
 Tum vero Phaethon cunctis e partibus orbem  
-adspicit accensum nec tantos sustinet aestus  
-ferventisque auras velut e fornace profunda  
+adspicit [accensum](#accensum) nec tantos sustinet aestus  
+ferventisque auras velut e [fornace](#fornace) profunda  
 ore trahit currusque suos candescere sentit; <sup class="text-[.5em] text-gray-400">230</sup>  
-et neque iam cineres eiectatamque favillam  
+et neque iam cineres eiectatamque [favillam](#favillam)  
 ferre potest calidoque involvitur undique fumo,  
-quoque eat aut ubi sit, picea caligine tectus  
-nescit et arbitrio volucrum raptatur equorum.   
+quoque eat aut ubi sit, [picea](#picea) caligine tectus  
+nescit et arbitrio volucrum raptatur equorum.  
+Sanguine tum credunt in corpora summa vocato <sup class="text-[.5em] text-gray-400">235</sup>  
+Aethiopum populos nigrum traxisse colorem;  
+tum facta est Libye raptis umoribus aestu  
+arida, tum nymphae passis fontesque lacusque  
+deflevere comis; quaerit Boeotia Dircen,  
+Argos Amymonen, Ephyre Pirenidas undas; <sup class="text-[.5em] text-gray-400">240</sup>  
+nec sortita loco distantes flumina ripas  
+tuta manent: mediis Tanais fumavit in undis  
+Peneosque senex Teuthranteusque Caicus  
+et celer Ismenos cum Phegiaco Erymantho  
+arsurusque iterum Xanthos flavusque Lycormas, <sup class="text-[.5em] text-gray-400">245</sup>  
+quique recurvatis ludit Maeandros in undis,  
+Mygdoniusque Melas et Taenarius Eurotas.  
+arsit et Euphrates Babylonius, arsit Orontes  
+Thermodonque citus Gangesque et Phasis et Hister;  
+aestuat Alpheos, ripae Spercheides ardent, <sup class="text-[.5em] text-gray-400">250</sup>  
+quodque suo Tagus amne vehit, fluit ignibus aurum,  
+et, quae Maeonias celebrabant carmine ripas  
+flumineae volucres, medio caluere Caystro;  
+Nilus in extremum fugit perterritus orbem  
+occuluitque caput, quod adhuc latet: ostia septem <sup class="text-[.5em] text-gray-400">255</sup>  
+pulverulenta vacant, septem sine flumine valles.  
+fors eadem Ismarios Hebrum cum Strymone siccat  
+Hesperiosque amnes, Rhenum Rhodanumque Padumque  
+cuique fuit rerum promissa potentia, Thybrin.  
+dissilit omne solum, penetratque in Tartara rimis <sup class="text-[.5em] text-gray-400">260</sup>  
+lumen et infernum terret cum coniuge regem;  
+et mare contrahitur siccaeque est campus harenae,  
+quod modo pontus erat, quosque altum texerat aequor,  
+exsistunt montes et sparsas Cycladas augent.  
+ima petunt pisces, nec se super aequora curvi <sup class="text-[.5em] text-gray-400">265</sup>  
+tollere consuetas audent delphines in auras;  
+corpora phocarum summo resupina profundo  
+exanimata natant: ipsum quoque Nerea fama est  
+Doridaque et natas tepidis latuisse sub antris.  
+ter Neptunus aquis cum torvo bracchia vultu <sup class="text-[.5em] text-gray-400">270</sup>  
+exserere ausus erat, ter non tulit aeris ignes.  
  
  
 
 ## Lexicon
 
 ### a
+
+#### accensum
+
+accendo -cendi -censum 3 tr.: encender, prender fuego a
 
 #### adclivi
 
@@ -428,6 +469,10 @@ delubrum, i n.: templo
 
 fastigium, ii n.: techo de doble pendiente, techumbre; pendiente
 
+#### favillam
+
+favila, ae f.: ceniza caliente, rescoldo
+
 #### fissa
 
 findo, findere, fidi, fissum: "partir", "hender", "dividir" o "abrir"
@@ -443,6 +488,10 @@ flecto, flectere, flexi, flexum: doblar, curvar, torcer
 #### formidine
 
 formido, -inis f.: miedo, temor
+
+#### fornace
+
+fornax, -acis m.: horno
 
 #### frustra
 
@@ -552,6 +601,10 @@ patefacio, patefactum, patefaci, patefacta: "hacer abierto" o "abrir"
 #### penitus
 
 penitus adv.: profundamente, hasta los más profundo, totalmente
+
+#### picea
+
+piceus -a -um: pez; negro como la pez
 
 #### piget
 
