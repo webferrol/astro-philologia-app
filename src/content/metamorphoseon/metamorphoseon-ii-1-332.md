@@ -321,25 +321,28 @@ nescit et arbitrio volucrum raptatur equorum.
 Sanguine tum credunt in corpora summa vocato <sup class="text-[.5em] text-gray-400">235</sup>  
 Aethiopum populos nigrum traxisse colorem;  
 tum facta est Libye raptis umoribus aestu  
-arida, tum nymphae passis fontesque lacusque  
-deflevere comis; quaerit Boeotia Dircen,  
-Argos Amymonen, Ephyre Pirenidas undas; <sup class="text-[.5em] text-gray-400">240</sup>  
-nec sortita loco distantes flumina ripas  
+arida, tum nymphae [passis](#passis) fontesque lacusque  
+deflevere comis; quaerit <abbr title="Beocia busca a Dircé, una fuente sagrada asociada con la región">Boeotia Dircen</abbr>,  
+<abbr title="Argos busca a Amimone, una de sus ninfas y símbolo de agua">Argos Amymonen</abbr>, <abbr title="Éfira (nombre antiguo de Corinto) busca las aguas de las Pirénides, ninfas vinculadas a la fuente Pirene">Ephyre Pirenidas undas</abbr>; <sup class="text-[.5em] text-gray-400">240</sup>  
+nec [sortita](#sortita) loco distantes flumina ripas  
 tuta manent: mediis Tanais fumavit in undis  
 Peneosque senex Teuthranteusque Caicus  
 et celer Ismenos cum Phegiaco Erymantho  
-arsurusque iterum Xanthos flavusque Lycormas, <sup class="text-[.5em] text-gray-400">245</sup>  
+<abbr title="ardeo, ardere, arsi, arsum">arsurusque</abbr> iterum Xanthos flavusque Lycormas, <sup class="text-[.5em] text-gray-400">245</sup>  
 quique recurvatis ludit Maeandros in undis,  
 Mygdoniusque Melas et Taenarius Eurotas.  
 arsit et Euphrates Babylonius, arsit Orontes  
 Thermodonque citus Gangesque et Phasis et Hister;  
 aestuat Alpheos, ripae Spercheides ardent, <sup class="text-[.5em] text-gray-400">250</sup>  
-quodque suo Tagus amne vehit, fluit ignibus aurum,  
+quodque suo [Tagus](https://es.wikipedia.org/wiki/Tajo) amne vehit, fluit ignibus aurum,  
 et, quae Maeonias celebrabant carmine ripas  
 flumineae volucres, medio caluere Caystro;  
 Nilus in extremum fugit perterritus orbem  
 occuluitque caput, quod adhuc latet: ostia septem <sup class="text-[.5em] text-gray-400">255</sup>  
 pulverulenta vacant, septem sine flumine valles.  
+
+> En la época de Ovidio, se pensaba que el Nilo tenía siete bocas principales que conducían sus aguas hacia el mar Mediterráneo. Estos canales eran vitales para la agricultura y la vida en Egipto, ya que proporcionaban irrigación a la región del delta.
+
 fors eadem Ismarios Hebrum cum Strymone siccat  
 Hesperiosque amnes, Rhenum Rhodanumque Padumque  
 cuique fuit rerum promissa potentia, Thybrin.  
@@ -594,6 +597,10 @@ palus, -udis f.: pantano, laguna (Estigia)
 
 pareo 2: obedecer, cumplir
 
+#### passis
+
+pando, pandere, pandi, passum: "extender", "abrir" o "desplegar"
+
 #### patefacit
 
 patefacio, patefactum, patefaci, patefacta: "hacer abierto" o "abrir"
@@ -605,6 +612,8 @@ penitus adv.: profundamente, hasta los más profundo, totalmente
 #### picea
 
 piceus -a -um: pez; negro como la pez
+
+[Ver más información](https://www.rtve.es/play/videos/aqui-la-tierra/aqui-tierra-oro-negro-sierra-burgos/3701600/)
 
 #### piget
 
@@ -699,6 +708,10 @@ smaragdus, i m. y f.: esmeralda
 #### sollicito
 
 sollicitus, i m.: angustiado
+
+#### sortita
+
+sortior, sortiri, sortitus sum: "obtener por sorteo", "asignar" o "escoger"
 
 #### scilicet
 
