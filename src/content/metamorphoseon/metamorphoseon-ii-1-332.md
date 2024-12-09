@@ -343,21 +343,50 @@ pulverulenta vacant, septem sine flumine valles.
 
 > En la época de Ovidio, se pensaba que el Nilo tenía siete bocas principales que conducían sus aguas hacia el mar Mediterráneo. Estos canales eran vitales para la agricultura y la vida en Egipto, ya que proporcionaban irrigación a la región del delta.
 
-fors eadem Ismarios Hebrum cum Strymone siccat  
+fors eadem <abbr title="Ismarios, el Hebrus con el Strymon son todos ríos">Ismarios Hebrum cum Strymone</abbr> siccat  
 Hesperiosque amnes, Rhenum Rhodanumque Padumque  
 cuique fuit rerum promissa potentia, Thybrin.  
-dissilit omne solum, penetratque in Tartara rimis <sup class="text-[.5em] text-gray-400">260</sup>  
+[dissilit](#dissilit) omne solum, penetratque in Tartara rimis <sup class="text-[.5em] text-gray-400">260</sup>  
 lumen et infernum terret cum coniuge regem;  
 et mare contrahitur siccaeque est campus harenae,  
 quod modo pontus erat, quosque altum texerat aequor,  
-exsistunt montes et sparsas Cycladas augent.  
+exsistunt montes et sparsas <abbr title="Las Cícladas (del griego antiguo Κυκλάδες, Kykládes) son un archipiélago griego situado en el mar Egeo, al sureste de la Grecia continental. Su nombre deriva de la palabra griega 'κύκλος' (kyklos), que significa 'círculo', porque las islas están dispuestas aproximadamente en un círculo alrededor de la isla sagrada de Delos, considerada el centro religioso y cultural en la antigüedad.">Cycladas</abbr> augent.  
 ima petunt pisces, nec se super aequora curvi <sup class="text-[.5em] text-gray-400">265</sup>  
 tollere consuetas audent delphines in auras;  
 corpora phocarum summo resupina profundo  
-exanimata natant: ipsum quoque Nerea fama est  
-Doridaque et natas tepidis latuisse sub antris.  
-ter Neptunus aquis cum torvo bracchia vultu <sup class="text-[.5em] text-gray-400">270</sup>  
-exserere ausus erat, ter non tulit aeris ignes.  
+exanimata natant: ipsum quoque <abbr title="Nereo es un dios marino primigenio en la mitología griega, conocido como el 'Viejo del Mar'. Es una de las deidades marinas más antiguas, hijo de Ponto (el Mar) y Gea (la Tierra).">Nerea</abbr> fama est  
+<abbr title="Doris (o Dorida en latín) es una diosa del mar, una de las Oceánides, hijas del titán Océano y la titánide Tetis">Doridaque</abbr> et natas tepidis latuisse sub antris.  
+ter Neptunus aquis cum <abbr title="rostro servero">torvo</abbr> bracchia vultu <sup class="text-[.5em] text-gray-400">270</sup>  
+[exserere](#exserere) ausus erat, ter non tulit aeris ignes.  
+Alma tamen Tellus, ut erat circumdata ponto,  
+inter aquas pelagi contractosque undique fontes,  
+qui se condiderant in opacae viscera matris,  
+sustulit oppressos collo tenus arida vultus <sup class="text-[.5em] text-gray-400">275</sup>  
+opposuitque manum fronti magnoque tremore  
+omnia concutiens paulum subsedit et infra,  
+quam solet esse, fuit fractaque ita voce locuta est:  
+'si placet hoc meruique, quid o tua fulmina cessant,  
+summe deum? liceat periturae viribus ignis <sup class="text-[.5em] text-gray-400">280</sup>  
+igne perire tuo clademque auctore levare!  
+vix equidem fauces haec ipsa in verba resolvo';  
+(presserat ora vapor) 'tostos en adspice crines  
+inque oculis tantum, tantum super ora favillae!  
+hosne mihi fructus, hunc fertilitatis honorem <sup class="text-[.5em] text-gray-400">285</sup>  
+officiique refers, quod adunci vulnera aratri  
+rastrorumque fero totoque exerceor anno,  
+quod pecori frondes alimentaque mitia, fruges  
+humano generi, vobis quoque tura ministro?  
+sed tamen exitium fac me meruisse: quid undae, <sup class="text-[.5em] text-gray-400">290</sup>  
+quid meruit frater? cur illi tradita sorte  
+aequora decrescunt et ab aethere longius absunt?  
+quodsi nec fratris nec te mea gratia tangit,  
+at caeli miserere tui! circumspice utrumque:  
+fumat uterque polus! quos si vitiaverit ignis, <sup class="text-[.5em] text-gray-400">295</sup>  
+atria vestra ruent! Atlas en ipse laborat  
+vixque suis umeris candentem sustinet axem!  
+si freta, si terrae pereunt, si regia caeli,  
+in chaos antiquum confundimur! eripe flammis,  
+si quid adhuc superest, et rerum consule summae!' <sup class="text-[.5em] text-gray-400">300</sup>  
  
  
 
@@ -460,7 +489,15 @@ cunctor, cunctari, cunctatus sum: dudar, vacilar
 
 delubrum, i n.: templo
 
+#### dissilit
+
+dissilio, dissilire, dissili, dissilitum: romper, dispersar
+
 ### e
+
+#### exserere
+
+exserō, exseruī, exsertum: "sacar", "mostrar", "exponer" o "extender hacia afuera"
 
 #### evehor
 
