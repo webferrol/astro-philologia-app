@@ -361,16 +361,16 @@ ter Neptunus aquis cum <abbr title="rostro servero">torvo</abbr> bracchia vultu 
 Alma tamen Tellus, ut erat circumdata ponto,  
 inter aquas pelagi contractosque undique fontes,  
 qui se condiderant in opacae viscera matris,  
-sustulit oppressos collo tenus arida vultus <sup class="text-[.5em] text-gray-400">275</sup>  
+[sustulit](#sustulit) oppressos collo tenus arida vultus <sup class="text-[.5em] text-gray-400">275</sup>  
 opposuitque manum fronti magnoque tremore  
 omnia concutiens paulum subsedit et infra,  
 quam solet esse, fuit fractaque ita voce locuta est:  
 'si placet hoc meruique, quid o tua fulmina cessant,  
-summe deum? liceat periturae viribus ignis <sup class="text-[.5em] text-gray-400">280</sup>  
+summe deum? <abbr title="Es lícito a la que ha de morir">liceat periturae</abbr> viribus ignis <sup class="text-[.5em] text-gray-400">280</sup>  
 igne perire tuo clademque auctore levare!  
-vix equidem fauces haec ipsa in verba resolvo';  
+vix equidem fauces haec ipsa in verba <abbr title="libero">resolvo</abbr>';  
 (presserat ora vapor) 'tostos en adspice crines  
-inque oculis tantum, tantum super ora favillae!  
+inque oculis tantum, tantum super ora [favillae](#favillae)!  
 hosne mihi fructus, hunc fertilitatis honorem <sup class="text-[.5em] text-gray-400">285</sup>  
 officiique refers, quod adunci vulnera aratri  
 rastrorumque fero totoque exerceor anno,  
@@ -510,6 +510,7 @@ exserō, exseruī, exsertum: "sacar", "mostrar", "exponer" o "extender hacia afu
 fastigium, ii n.: techo de doble pendiente, techumbre; pendiente
 
 #### favillam
+#### favillae
 
 favila, ae f.: ceniza caliente, rescoldo
 
@@ -757,6 +758,10 @@ scilicet adv.: Es decir, a saber, esto es
 #### stupet
 
 stupeo -ui 2 intr.: quedarse parado
+
+#### sustulit
+
+tollo, tollere, sustuli, sublatus: elevar, quitar, eliminar
 
 ### t 
 
