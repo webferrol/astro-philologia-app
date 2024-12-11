@@ -387,6 +387,38 @@ vixque suis umeris candentem sustinet axem!
 si freta, si terrae pereunt, si regia caeli,  
 in chaos antiquum confundimur! eripe flammis,  
 si quid adhuc superest, et rerum consule summae!' <sup class="text-[.5em] text-gray-400">300</sup>  
+Dixerat haec Tellus: neque enim tolerare vaporem  
+ulterius potuit nec dicere plura suumque  
+rettulit os in se propioraque manibus antra;  
+at pater omnipotens, superos testatus et ipsum,  
+qui dederat currus, nisi opem ferat, omnia fato <sup class="text-[.5em] text-gray-400">305</sup>  
+interitura gravi, summam petit arduus arcem,  
+unde solet nubes latis inducere terris,  
+unde movet tonitrus vibrataque fulmina iactat;  
+sed neque quas posset terris inducere nubes  
+tunc habuit, nec quos caelo demitteret imbres: <sup class="text-[.5em] text-gray-400">310</sup>  
+intonat et dextra libratum fulmen ab aure  
+misit in aurigam pariterque animaque rotisque  
+expulit et saevis conpescuit ignibus ignes.  
+consternantur equi et saltu in contraria facto  
+colla iugo eripiunt abruptaque lora relinquunt: <sup class="text-[.5em] text-gray-400">315</sup>  
+illic frena iacent, illic temone revulsus  
+axis, in hac radii fractarum parte rotarum  
+sparsaque sunt late laceri vestigia currus.  
+At Phaethon rutilos flamma populante capillos  
+volvitur in praeceps longoque per aera tractu <sup class="text-[.5em] text-gray-400">320</sup>  
+fertur, ut interdum de caelo stella sereno  
+etsi non cecidit, potuit cecidisse videri.  
+quem procul a patria diverso maximus orbe  
+excipit Eridanus fumantiaque abluit ora.  
+Naides Hesperiae trifida fumantia flamma <sup class="text-[.5em] text-gray-400">325</sup>  
+corpora dant tumulo, signant quoque carmine saxum:  
+HIC . SITUS . EST . PHAETHON . CURRUS . AURIGA . PATERNI  
+QUEM . SI . NON . TENUIT . MAGNIS . TAMEN . EXCIDIT . AUSIS  
+Nam pater obductos luctu miserabilis aegro  
+condiderat vultus, et, si modo credimus, unum <sup class="text-[.5em] text-gray-400">330</sup>  
+isse diem sine sole ferunt: incendia lumen  
+praebebant aliquisque malo fuit usus in illo.  
  
  
 
