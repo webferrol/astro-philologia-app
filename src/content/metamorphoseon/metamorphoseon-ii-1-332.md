@@ -372,37 +372,37 @@ vix equidem fauces haec ipsa in verba <abbr title="libero">resolvo</abbr>';
 (presserat ora vapor) 'tostos en adspice crines  
 inque oculis tantum, tantum super ora [favillae](#favillae)!  
 hosne mihi fructus, hunc fertilitatis honorem <sup class="text-[.5em] text-gray-400">285</sup>  
-officiique refers, quod adunci vulnera aratri  
+officiique refers, quod [adunci](#adunci) vulnera aratri  
 rastrorumque fero totoque exerceor anno,  
-quod pecori frondes alimentaque mitia, fruges  
+quod pecori frondes alimentaque [mitia](#mitia), fruges  
 humano generi, vobis quoque tura ministro?  
 sed tamen exitium fac me meruisse: quid undae, <sup class="text-[.5em] text-gray-400">290</sup>  
 quid meruit frater? cur illi tradita sorte  
 aequora decrescunt et ab aethere longius absunt?  
 quodsi nec fratris nec te mea gratia tangit,  
 at caeli miserere tui! circumspice utrumque:  
-fumat uterque polus! quos si vitiaverit ignis, <sup class="text-[.5em] text-gray-400">295</sup>  
-atria vestra ruent! Atlas en ipse laborat  
+fumat uterque polus! quos si [vitiaverit](#vitiaverit) ignis, <sup class="text-[.5em] text-gray-400">295</sup>  
+atria vestra [ruent](#ruent)! Atlas en ipse laborat  
 vixque suis umeris candentem sustinet axem!  
 si freta, si terrae pereunt, si regia caeli,  
-in chaos antiquum confundimur! eripe flammis,  
-si quid adhuc superest, et rerum consule summae!' <sup class="text-[.5em] text-gray-400">300</sup>  
+in chaos antiquum confundimur! <abbr title="arrebatar, rescatar, sacar o liberar">eripe</abbr> flammis,  
+si quid adhuc superest, et rerum <abbr title="preocuparse de, consultar">consule</abbr> summae!' <sup class="text-[.5em] text-gray-400">300</sup>  
 Dixerat haec Tellus: neque enim tolerare vaporem  
 ulterius potuit nec dicere plura suumque  
-rettulit os in se propioraque manibus antra;  
+rettulit os in se propioraque [manibus](https://es.wikipedia.org/wiki/Manes_(mitolog%C3%ADa)) antra;  
 at pater omnipotens, superos testatus et ipsum,  
 qui dederat currus, nisi opem ferat, omnia fato <sup class="text-[.5em] text-gray-400">305</sup>  
-interitura gravi, summam petit arduus arcem,  
+[interitura](#interitura) gravi, summam petit arduus arcem,  
 unde solet nubes latis inducere terris,  
 unde movet tonitrus vibrataque fulmina iactat;  
 sed neque quas posset terris inducere nubes  
 tunc habuit, nec quos caelo demitteret imbres: <sup class="text-[.5em] text-gray-400">310</sup>  
 intonat et dextra libratum fulmen ab aure  
 misit in aurigam pariterque animaque rotisque  
-expulit et saevis conpescuit ignibus ignes.  
+expulit et saevis [conpescuit](#conpescuit) ignibus ignes.  
 consternantur equi et saltu in contraria facto  
 colla iugo eripiunt abruptaque lora relinquunt: <sup class="text-[.5em] text-gray-400">315</sup>  
-illic frena iacent, illic temone revulsus  
+illic frena iacent, illic <abbr title="temo, temonis f.: timón, vara del carro">temone</abbr> [revulsus](#revulsus)  
 axis, in hac radii fractarum parte rotarum  
 sparsaque sunt late laceri vestigia currus.  
 At Phaethon rutilos flamma populante capillos  
@@ -445,6 +445,10 @@ adficio, adficere, adfeci, adfectum: "afectar", "influir", "desear" o "aspirar"
 #### adsueto
 
 adsuesco, adsuescere: acostumbrase
+
+#### adunci
+
+aduncus, adunca, aduncum: curvado, ganchudo
 
 #### aeriae
 
@@ -501,6 +505,10 @@ committō, committere, commīsī, commissum: confiar, encargar
 #### concutiens
 
 concutio, concutere, concussi, concussum, que significa "sacudir", "agitar violentamente" o incluso "temblar".
+
+#### conpescuit
+
+compesco, compescere, compescui: reprimir, contener, restringir
 
 #### consulat
 
@@ -608,6 +616,10 @@ inmanis, e: extraordinario, monstruoso
 
 intus adv.: dentro
 
+#### interitura
+
+intereo, interire, interii, interitum: "perecer", "morir", o "desaparecer"
+
 ### l
 
 #### labant
@@ -639,6 +651,10 @@ minitor 1 tr. dep.: amenazar
 #### miracula
 
 miraculum, i n.: prodigio, maravilla
+
+#### mitia
+
+mitis, e: "suave", "gentil", "moderado" o "benigno"
 
 #### moderamen
 #### moderamine
@@ -757,6 +773,14 @@ repagulum, i n.: puerta (pequeña), cerrojo
 
 repercutio, repercutere, repercussi, repercussum: "hacer retroceder", "repeler", "reflejar" o "reverberar"
 
+#### revulsus
+
+revello, revellere, revelli, revulsum: arrancado", "desgarrado", "separado violentamente"
+
+#### ruent
+
+ruo: caer, precipitarse
+
 ### s 
 
 #### saltem
@@ -822,4 +846,8 @@ Veto, vetāre, vetuī, vetitum: prohibir
 #### vigil
 
 vigil, vigilis: "vigilante", "despierto", "alerta", o "atento"
+
+#### vitiaverit
+
+vitio 1 tr.: "dañar", "corromper", "estropear", o "viciar"
 
