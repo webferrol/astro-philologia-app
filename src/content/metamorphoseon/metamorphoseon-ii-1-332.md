@@ -405,17 +405,21 @@ colla iugo eripiunt abruptaque lora relinquunt: <sup class="text-[.5em] text-gra
 illic frena iacent, illic <abbr title="temo, temonis f.: timón, vara del carro">temone</abbr> [revulsus](#revulsus)  
 axis, in hac radii fractarum parte rotarum  
 sparsaque sunt late laceri vestigia currus.  
-At Phaethon rutilos flamma populante capillos  
+At Phaethon [rutilos](#rutilos) flamma [populante](#populante) capillos  
 volvitur in praeceps longoque per aera tractu <sup class="text-[.5em] text-gray-400">320</sup>  
 fertur, ut interdum de caelo stella sereno  
 etsi non cecidit, potuit cecidisse videri.  
 quem procul a patria diverso maximus orbe  
-excipit Eridanus fumantiaque abluit ora.  
-Naides Hesperiae trifida fumantia flamma <sup class="text-[.5em] text-gray-400">325</sup>  
+excipit Eridanus fumantiaque abluit ora. 
+
+> En la Mitología griega, el Eridanus era un río que brotaba de las aguas de Acuario. Una leyenda lo asocia con Faetón, el hijo del dios del sol (Apolo). En un principio, la constelación de Eridanus representaba el camino recorrido por el carro celeste durante este viaje. Más tarde, fue visto como el río en el que el cadáver de Faetón cayó
+
+
+[Naides](https://es.wikipedia.org/wiki/N%C3%A1yade) <abbr title="Hesperia significa 'la tierra del oeste' en griego, y era un nombre poético para regiones occidentales, como Italia o España, dependiendo del contexto.">Hesperiae</abbr> trifida fumantia flamma <sup class="text-[.5em] text-gray-400">325</sup>  
 corpora dant tumulo, signant quoque carmine saxum:  
 HIC . SITUS . EST . PHAETHON . CURRUS . AURIGA . PATERNI  
 QUEM . SI . NON . TENUIT . MAGNIS . TAMEN . EXCIDIT . AUSIS  
-Nam pater obductos luctu miserabilis aegro  
+Nam pater [obductos](#obductos) luctu miserabilis aegro  
 condiderat vultus, et, si modo credimus, unum <sup class="text-[.5em] text-gray-400">330</sup>  
 isse diem sine sole ferunt: incendia lumen  
 praebebant aliquisque malo fuit usus in illo.  
@@ -673,6 +677,10 @@ Nītor es un verbo deponente de la tercera conjugación que significa "apoyarse"
 
 ### o
 
+#### obductos
+
+obducere, que significa "cubrir" o "llevar por encima"
+
 ### p 
 
 #### palus
@@ -722,6 +730,10 @@ plaustrum, i n.: carro
 #### polis
 
 polus, i m: polo
+
+#### populante
+
+populor: devastar, saquear o arrasar
 
 #### porrigit
 
@@ -780,6 +792,10 @@ revello, revellere, revelli, revulsum: arrancado", "desgarrado", "separado viole
 #### ruent
 
 ruo: caer, precipitarse
+
+#### rutilos
+
+rutilus a um: rojizo
 
 ### s 
 
