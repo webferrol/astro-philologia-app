@@ -98,7 +98,7 @@ quin lanient mundum; tanta est discordia fratrum. <sup class="text-[.5em] text-
 <a href="https://www.ecured.cu/Euro_(Mitolog%C3%ADa_griega)">Eurus</a> ad Auroram <a href="https://es.wikipedia.org/wiki/Nabateos">Nabataeaque</a> regna recessit  
 Persidaque et radiis iuga subdita matutinis;  
 vesper et occiduo quae litora sole <a href="http://www.perseus.tufts.edu/hopper/morph?l=tepescunt&la=la&can=tepescunt0&prior=sole">tepescunt</a>,  
-proxima sunt Zephyro; Scythiam septemque triones  
+proxima sunt [Zephyro](https://es.wikipedia.org/wiki/C%C3%A9firo); Scythiam septemque triones  
 horrifer invasit Boreas; contraria tellus <sup class="text-[.5em] text-gray-400">65</sup>  
 nubibus adsiduis pluviaque madescit ab Austro.  
 haec super inposuit liquidum et gravitate carentem  
@@ -145,10 +145,10 @@ non tuba derecti, non aeris cornua flexi,
 non galeae, non ensis erat: sine militis usu  
 mollia securae peragebant otia gentes. <sup class="text-[.5em] text-gray-400">100</sup>  
 ipsa quoque inmunis rastroque intacta nec ullis  
-saucia vomeribus per se dabat omnia tellus,  
+[saucia](#saucia) [vomeribus](#vomeribus) per se dabat omnia tellus,  
 contentique cibis nullo cogente creatis  
-arbuteos fetus montanaque fraga legebant  
-cornaque et in duris haerentia mora rubetis <sup class="text-[.5em] text-gray-400">105</sup>  
+<abbr title="frutos (fetus) del madroño">arbuteos</abbr> fetus montanaque fraga legebant  
+<abbr title="cornum, i n: fruto del cornejo">cornaque</abbr> et in duris haerentia mora [rubetis](#rubetis) <sup class="text-[.5em] text-gray-400">105</sup>  
 et quae deciderant patula Iovis arbore glandes.  
 ver erat aeternum, placidique tepentibus auris  
 mulcebant zephyri natos sine semine flores;  
@@ -273,6 +273,26 @@ struxerit insidias notus feritate Lycaon?'
 
 
 [Siguiente](https://philologia.netlify.app/metamorphoseon/metamorphoseon-i-199/)
+
+## Lexicon
+
+### r
+
+#### rubetis
+
+rubetum, i n. : zarzal
+
+### s
+
+#### saucia
+
+saucius, saucia, saucium: herida, dañada o lastimada
+
+### v
+
+#### vomeribus
+
+vomer, vomeris: "arado" o, más específicamente, "reja del arado" 
 
 
 # Derivadas
