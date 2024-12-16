@@ -86,7 +86,7 @@ temperiemque dedit mixta cum frigore flamma.
     <figcaption>Las zonas están divididas simétricamente entre el cielo y la Tierra, con una banda central más caliente, simbolizando el área ecuatorial, y otras zonas más frías hacia los extremos. <a href="https://blogcatedranaval.com/2020/03/17/las-zonas-climaticas-en-la-antiguedad/">Más información</a></figcaption>
 </figure> 
 
-     Inminet his aer, qui, quanto est pondere terrae  
+     [Inminet](#inminet) his aer, qui, quanto est pondere terrae  
 pondus aquae levius, tanto est onerosior igni.  
 illic et nebulas, illic consistere nubes
 iussit et humanas motura tonitrua mentes <sup class="text-[.5em] text-gray-400">55</sup>  
@@ -155,15 +155,15 @@ mulcebant zephyri natos sine semine flores;
 mox etiam fruges tellus inarata ferebat,  
 nec renovatus ager gravidis canebat aristis; <sup class="text-[.5em] text-gray-400">110</sup>  
 flumina iam lactis, iam flumina nectaris ibant,  
-flavaque de viridi stillabant ilice mella.  
+flavaque de viridi [stillabant](#stillabant) ilice mella.  
      Postquam Saturno tenebrosa in Tartara misso  
 sub Iove mundus erat, subiit argentea proles,  
 auro deterior, fulvo pretiosior aere. <sup class="text-[.5em] text-gray-400">115</sup>  
 Iuppiter antiqui contraxit tempora veris  
 perque hiemes aestusque et inaequalis autumnos  
 et breve ver spatiis exegit quattuor annum.  
-tum primum siccis aer fervoribus ustus  
-canduit, et ventis glacies adstricta pependit; <sup class="text-[.5em] text-gray-400">120</sup>  
+tum primum siccis aer fervoribus <abbr title="uro, urere, ussi, ustum">ustus</abbr>  
+canduit, et ventis glacies <abbr title="endurecido">adstricta</abbr> pependit; <sup class="text-[.5em] text-gray-400">120</sup>  
 tum primum <abbr title="subeo, subire, subii/subivi, subitum: 3ª plural	subierunt o subiere (forma poética)">subiere</abbr> domos; domus antra fuerunt  
 et densi <abbr title="Matorral">frutices</abbr> et vinctae cortice virgae.  
 
@@ -174,8 +174,8 @@ et densi frutices et vinctae cortice virgae</figcaption>
 </figure> 
 
 
-semina tum primum longis Cerealia sulcis  
-obruta sunt, pressique iugo gemuere iuvenci.  
+semina tum primum longis [Cerealia](https://es.wikipedia.org/wiki/Ceres) sulcis  
+[obruta](#obruta) sunt, pressique iugo gemuere iuvenci.  
      Tertia post illam successit aenea proles, <sup class="text-[.5em] text-gray-400">125</sup>  
 saevior ingeniis et ad horrida promptior arma,  
 non scelerata tamen; de duro est ultima ferro.  
@@ -184,7 +184,7 @@ omne nefas: fugere pudor verumque fidesque;
 in quorum subiere locum fraudesque dolusque <sup class="text-[.5em] text-gray-400">130</sup>  
 insidiaeque et vis et amor sceleratus habendi.  
 vela dabant ventis nec adhuc bene noverat illos  
-navita, quaeque prius steterant in montibus altis,  
+[navita](#navita), quaeque prius steterant in montibus altis,  
 fluctibus ignotis <abbr title="brincar">insultavere</abbr> carinae,  
 
 ![Carina](/carina.webp)
@@ -195,13 +195,13 @@ nec tantum segetes alimentaque debita dives
 poscebatur humus, sed itum est in viscera terrae,  
 quasque recondiderat <a href="https://es.wikipedia.org/wiki/Estigia_(r%C3%ADo)">Stygiisque admoverat umbris</a>,  
 effodiuntur opes, <abbr title="estímulo">inritamenta</abbr> malorum. <sup class="text-[.5em] text-gray-400">140</sup>    
-iamque nocens ferrum ferroque nocentius aurum  
+iamque <abbr title="hierro dañino">nocens ferrum</abbr> ferroque nocentius aurum  
 prodierat, prodit bellum, quod pugnat utroque,  
 sanguineaque manu crepitantia <abbr title="concutio: verb 3rd sg pres ind act; to strike together">concutit</abbr> arma.  
 vivitur ex rapto: non <abbr title="La palabra latina 'hospes' se traduce al español como 'huésped' o 'anfitrión', dependiendo del contexto. En latín, 'hospes' tiene un significado amplio y puede referirse tanto a la persona que recibe (anfitrión) como a la persona que es recibida o alojada (huésped).">hospes ab hospite</abbr> tutus,  
 non socer a genero, fratrum quoque gratia rara est; <sup class="text-[.5em] text-gray-400">145</sup>  
-inminet exitio vir coniugis, illa mariti,  
-lurida terribiles miscent <a href="https://es.wikipedia.org/wiki/Aconitum">aconita</a> novercae,  
+[inminet](#inminet) exitio vir coniugis, illa mariti,  
+[lurida](#lurida) terribiles miscent <a href="https://es.wikipedia.org/wiki/Aconitum">aconita</a> novercae,  
 filius ante diem patrios inquirit in annos:  
 victa iacet pietas, et virgo caede madentis  
 ultima caelestum terras <a href="https://es.wikipedia.org/wiki/Dice">Astraea</a> reliquit. <sup class="text-[.5em] text-gray-400">150</sup>  
@@ -276,6 +276,30 @@ struxerit insidias notus feritate Lycaon?'
 
 ## Lexicon
 
+### i 
+
+#### inminet
+
+immineo, imminere: "estar suspendido sobre", "amenazar" o "acechar"
+
+#### l 
+
+#### lurida
+
+luridus, lurida, luridum: "amarillento", "pálido", "mortecino"
+
+### n 
+
+#### navita
+
+navita, ae m.: navegante, marinero, barquero
+
+### o
+
+#### obruta
+
+obruo, obruere, obrui, obrutum: "enterrar", "cubrir", "abrumar" o "sepultar" (literal o figuradamente).
+
 ### r
 
 #### rubetis
@@ -287,6 +311,10 @@ rubetum, i n. : zarzal
 #### saucia
 
 saucius, saucia, saucium: herida, dañada o lastimada
+
+#### stillabant
+
+stillo 1 tr.: destilar, gotear
 
 ### v
 
