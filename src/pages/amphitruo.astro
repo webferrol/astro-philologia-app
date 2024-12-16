@@ -1,0 +1,28 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Card from "../components/Card.astro";
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('amphitruo');
+---
+
+<meta name="description" content="Latinitatis sectio" />
+
+
+<Layout title="Sectio Latinitatis">
+    <main class="max-w-screen-md m-auto p-4 font-bold text-white text-xl leading-relaxed">
+		<a href="/"><h1 class="mb-4 text-6xl text-center leading-none">Philologia Classica</h1></a>
+        
+        
+            <ul role="list" class="grid sm:grid-cols-2 gap-4 mb-4">
+                { 
+                    posts.map(({data , slug }) => (
+                        <Card title={data.titulus} href={`/amphitruo/${slug}`} body={data.descriptio} />
+                    ))
+                }
+            </ul>    
+          
+    </main>
+
+    
+</Layout>
