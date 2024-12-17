@@ -208,11 +208,11 @@ ultima caelestum terras <a href="https://es.wikipedia.org/wiki/Dice">Astraea</a>
 
 ![Astrea abandona la tierra del año 1665. Salvator Rosa](/astrea.webp)
 
-**[Gigantomanchia](https://losviajesdeaspasia.com/2020/07/24/gigantomaquia/)**
+**[Gigantomachia](https://losviajesdeaspasia.com/2020/07/24/gigantomaquia/)**
 
      Neve foret terris securior arduus aether,  
-adfectasse ferunt regnum caeleste gigantas  
-altaque congestos struxisse ad sidera montis.  
+[adfectasse](#adfectasse) ferunt regnum caeleste gigantas  
+altaque congestos [struxisse](#struxisse) ad sidera montis.  
 tum pater omnipotens misso perfregit Olympum  
 fulmine et <abbr title="sacar, expulsar, sacudir o hacer caer">excussit</abbr> subiecto Pelion Ossae. <sup class="text-[.5em] text-gray-400">155</sup>  
 <abbr title="obruo: cubrir">obruta</abbr> mole sua cum corpora dira iacerent, 
@@ -220,23 +220,23 @@ fulmine et <abbr title="sacar, expulsar, sacudir o hacer caer">excussit</abbr> s
 [![Pelion et Ossa](https://res.cloudinary.com/dimvf1zl2/image/upload/v1730385252/maps/montes-antiguos-grecia_xac3dj.png)](https://es.wikipedia.org/wiki/Anexo:Monta%C3%B1as_de_Grecia)
 
 perfusam multo natorum sanguine Terram  
-immaduisse ferunt calidumque animasse cruorem  
+immaduisse ferunt calidumque animasse [cruorem](#cruorem)  
 et, ne nulla suae stirpis monimenta manerent,  
 in faciem vertisse hominum; sed et illa propago <sup class="text-[.5em] text-gray-400">160</sup>  
-contemptrix superum saevaeque avidissima caedis  
+[contemptrix](#contemptrix) superum saevaeque avidissima caedis  
 et violenta fuit: scires e sanguine natos.
 
 **El concilio de los dioses (I)**
 
      Quae pater ut summa vidit Saturnius arce,  
 ingemit et facto nondum vulgata recenti  
-<a href="https://es.wikipedia.org/wiki/Lica%C3%B3n_(mitolog%C3%ADa)#/media/Archivo:J%C3%BApiter_y_Lica%C3%B3n_(jan_Cossiers).jpg">foeda Lycaoniae referens convivia mensae</a> <sup class="text-[.5em] text-gray-400">165</sup>  
+[foeda](#foeda) <a href="https://es.wikipedia.org/wiki/Lica%C3%B3n_(mitolog%C3%ADa)#/media/Archivo:J%C3%BApiter_y_Lica%C3%B3n_(jan_Cossiers).jpg">Lycaoniae</a> referens convivia mensae <sup class="text-[.5em] text-gray-400">165</sup>  
 ingentes animo et dignas Iove concipit iras  
 conciliumque vocat: tenuit mora nulla vocatos.  
      Est via sublimis, caelo manifesta sereno;  
 lactea nomen habet, candore notabilis ipso. 
 
-![Nacimiento de la Vía Láctea de Rubens](/nacimiento-via-lactea-rubens.jpg)
+[![Nacimiento de la Vía Láctea de Rubens](/nacimiento-via-lactea-rubens.jpg)](https://es.wikipedia.org/wiki/El_nacimiento_de_la_V%C3%ADa_L%C3%A1ctea)
 
 hac iter est superis ad magni tecta Tonantis <sup class="text-[.5em] text-gray-400">170</sup>  
 regalemque domum: dextra laevaque deorum  
@@ -245,14 +245,14 @@ plebs habitat diversa locis: hac parte potentes
 caelicolae clarique suos posuere penates;  
 hic locus est, quem, si verbis audacia detur, <sup class="text-[.5em] text-gray-400">175</sup>  
 haud timeam magni dixisse Palatia caeli.  
-     Ergo ubi marmoreo superi sedere recessu,  
+     Ergo ubi marmoreo superi sedere [recessu](#recessu),  
 celsior ipse loco <abbr title="sceptrum: cetro">sceptroque</abbr> <abbr title="innitor: apoyarse en">innixus</abbr> eburno  
 terrificam capitis concussit terque quaterque  
-caesariem, cum qua terram, mare, sidera movit. <sup class="text-[.5em] text-gray-400">180</sup>  
+[caesariem](#caesariem), cum qua terram, mare, sidera movit. <sup class="text-[.5em] text-gray-400">180</sup>  
 talibus inde modis ora indignantia solvit:  
 'non ego pro mundi regno magis anxius illa  
 tempestate fui, qua centum quisque parabat  
-<abbr title="ineco: echar, extender">inicere</abbr> anguipedum captivo bracchia caelo.  
+[inicere](#inecere) <abbr title="genitivo partitivo: centum anguipedum">anguipedum</abbr> captivo bracchia caelo.  
 
 ![Gigantomaquia](/gigantomachia.jpg)
 
@@ -276,11 +276,41 @@ struxerit insidias notus feritate Lycaon?'
 
 ## Lexicon
 
+### a 
+
+#### adfectasse 
+
+adfecto, adfectare, adfectavi, adfectatum: "tratar de conseguir", "desear intensamente" o "intentar alcanzar algo".
+
+### c 
+
+#### caesariem
+
+caesaries, ei f.: cabellera, melena
+
+#### contemptrix
+
+contemptrix, contemptricis f.: "despreciadora" o "la que desprecia"
+
+#### cruorem
+
+cruor, cruoris f.: sangre (especialmente sangre derramada, sangre que fluye de una herida).
+
+### f 
+
+#### foeda
+
+foedus, a, um: fea, repugnante
+
 ### i 
 
 #### inminet
 
 immineo, imminere: "estar suspendido sobre", "amenazar" o "acechar"
+
+#### inecere
+
+inceco: extender, echar
 
 #### l 
 
@@ -302,6 +332,10 @@ obruo, obruere, obrui, obrutum: "enterrar", "cubrir", "abrumar" o "sepultar" (li
 
 ### r
 
+#### recessu
+
+recessus, us f.: retiro, rincón, alejamiento, retroceso
+
 #### rubetis
 
 rubetum, i n. : zarzal
@@ -315,6 +349,10 @@ saucius, saucia, saucium: herida, dañada o lastimada
 #### stillabant
 
 stillo 1 tr.: destilar, gotear
+
+#### struxisse 
+
+struo, struere, struxi, structum: "construir", "organizar", "arreglar", "preparar" o "ordenar"
 
 ### v
 
