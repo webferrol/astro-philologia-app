@@ -260,16 +260,16 @@ nam quamquam ferus hostis erat, tamen illud ab uno <sup class="text-[.5em] text-
 corpore et ex una pendebat origine bellum;  
 nunc mihi qua totum <a href="https://es.wikipedia.org/wiki/Nereo">Nereus</a> circumsonat orbem,  
 perdendum est mortale genus: per flumina iuro  
-infera sub terras Stygio labentia luco!  
+infera sub terras Stygio [labentia](#labentia) luco!  
 cuncta prius temptanda, sed inmedicabile curae <sup class="text-[.5em] text-gray-400">190</sup>  
 ense recidendum, ne pars sincera trahatur.  
 sunt mihi semidei, sunt, rustica numina, nymphae   
 faunique satyrique et monticolae silvani;    
 quos quoniam caeli nondum dignamur honore,  
 quas dedimus, certe terras habitare sinamus. <sup class="text-[.5em] text-gray-400">195</sup>   
-an satis, o superi, tutos fore creditis illos,  
+an [satis](#satis), o superi, tutos fore creditis illos,  
 cum mihi, qui fulmen, qui vos habeoque regoque,  
-struxerit insidias notus feritate Lycaon?'    
+[struxerit](#struxerit) insidias notus feritate Lycaon?'    
 
 
 [Siguiente](https://philologia.netlify.app/metamorphoseon/metamorphoseon-i-199/)
@@ -312,7 +312,11 @@ immineo, imminere: "estar suspendido sobre", "amenazar" o "acechar"
 
 inceco: extender, echar
 
-#### l 
+### l 
+
+#### labentia
+
+labor, labi, lapsus sum 3 intr: delizarse, resbalar, caer
 
 #### lurida
 
@@ -342,6 +346,10 @@ rubetum, i n. : zarzal
 
 ### s
 
+#### satis
+
+satis adv. : suficientemente
+
 #### saucia
 
 saucius, saucia, saucium: herida, dañada o lastimada
@@ -351,6 +359,7 @@ saucius, saucia, saucium: herida, dañada o lastimada
 stillo 1 tr.: destilar, gotear
 
 #### struxisse 
+#### struxerit
 
 struo, struere, struxi, structum: "construir", "organizar", "arreglar", "preparar" o "ordenar"
 
