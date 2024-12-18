@@ -33,12 +33,12 @@ quod tamen admissum, quae sit vindicta, docebo. <sup class="text-[.5em] text-gra
 contigerat nostras infamia temporis aures;  
 quam cupiens falsam summo [delabor](#delabor) Olympo  
 et deus humana [lustro](#lustro) sub imagine terras.  
-longa mora est, quantum <abbr title="noxa, ae f. daño, delito, falta, crimen">noxae</abbr> sit ubique repertum,  
+longa mora est, quantum [noxae](#noxae) sit ubique repertum,  
 enumerare: minor fuit ipsa infamia vero. <sup class="text-[.5em] text-gray-400">215</sup>  
-Maenala transieram <abbr title="latebra, ae f. cueva">latebris</abbr> horrenda ferarum  
+Maenala transieram [latebris](#latebris) horrenda ferarum  
 et cum Cyllene gelidi pineta Lycaei:  
-Arcadis hinc sedes et inhospita tecta tyranni  
-<abbr title="ingredior -gressus sum dep. 3 trans: entrar en, penetrar">ingredior</abbr>, traherent cum <abbr title="crespusculum -i n. crepúsculo vespertinos. Los tardíos crepúsculos (aquí sujeto)">sera crepuscula</abbr> noctem. 
+<abbr title="Arcadia, ae f. pero este es un genitivo poético 'sede de Arcadia'">Arcadis</abbr> hinc sedes et inhospita tecta tyranni  
+[ingredior](#ingredior), traherent cum <abbr title="crespusculum -i n. crepúsculo vespertinos. Los tardíos crepúsculos (aquí sujeto)">sera crepuscula</abbr> noctem. 
 
 > En este fragmento, el narrador (presumiblemente Júpiter) describe su viaje por las tierras de Arcadia, una región conocida por sus densos bosques y montañas salvajes. Este es el escenario en el que Júpiter se aproxima al hogar del tirano Licaón, un rey conocido por su impiedad y crueldad. La atmósfera es oscura y siniestra, lo que presagia el encuentro que tendrá lugar y el castigo que Júpiter decidirá imponer. Ver en el mapa Mélano, Cyllene y Liceo (Arcadia).
 
@@ -48,15 +48,15 @@ signa dedi venisse deum, vulgusque precari <sup class="text-[.5em] text-gray-400
 coeperat: inridet primo pia vota Lycaon,  
 mox ait "experiar deus hic discrimine aperto   
 an sit mortalis: nec erit dubitabile verum."  
-nocte gravem somno <abbr title="inopinado: que sucede sin haber pensado en ello, inesperado">necopina</abbr> perdere morte  
+nocte gravem somno [necopina](#necopina) perdere morte  
 comparat: haec illi placet experientia veri; <sup class="text-[.5em] text-gray-400">225</sup>  
 nec contentus eo, missi de gente Molossa  
-<abbr title="obses -sidis m. y f.: rehén de guerra">obsidis</abbr> unius iugulum <abbr title="mucro -onis m: punta; espada">mucrone</abbr> resolvit  
+[obsidis](#obsidis) unius iugulum [mucrone](#mucrone) resolvit  
 atque ita <abbr title="seminex, -necis: medio muerto">semineces</abbr> partim ferventibus artus  
 mollit aquis, partim subiecto torruit igni.  
 quod simul inposuit mensis, ego vindice flamma <sup class="text-[.5em] text-gray-400">230</sup>  
-in domino dignos <abbr title="destruír">everti</abbr> tecta penates;  
-territus ipse fugit nactusque silentia ruris  
+in domino dignos [everti](#everti) tecta penates;  
+territus ipse fugit [nactusque](#nactus) silentia ruris  
 exululat frustraque loqui conatur: ab ipso  
 colligit os rabiem solitaeque cupidine caedis  
 vertitur in pecudes et nunc quoque sanguine gaudet. <sup class="text-[.5em] text-gray-400">235</sup>   
@@ -430,6 +430,12 @@ diffido, diffidere, que significa "no confiar", "desconfiar" o "dudar"
 
 discedo: separar(se), alejarse
 
+### e 
+
+#### everti
+
+Everto, evertere, everti, eversum: derribar, destruir, voltear
+
 ### f
 
 #### fastigia
@@ -493,6 +499,10 @@ imus, a, um: más abajo, más profundo
 
 El término "indeiecta" proviene del verbo latino "deiicio, deiicere, deieci, deiectum", que significa "derribar", "tirar abajo" o "hacer caer". Así, "indeiecta" significa literalmente "no derribado" o "no echado abajo".
 
+#### ingredior
+
+ingredior -gressus sum dep. 3 trans: entrar en, penetrar
+
 #### inritus
 
 inritus a um (in, ratus) no decidido, nulo, vano, inútil
@@ -529,6 +539,10 @@ mergo mersi mersum: sumergir; precipitar
 
 mitis, e: suave
 
+#### mucrone
+
+mucro -onis m: punta; espada
+
 #### mulcet
 
 mulceo mulsi mulsum 2tr: acarciar, calmar
@@ -552,6 +566,14 @@ En resumen, **"murice"** es el ablativo singular de **"murex"**, que hace refere
 
 ### n
 
+#### nactus
+
+nanciscor, nancisci, nactus sum: obtener, adquirir, conseguir
+
+#### necopina 
+
+inopindo, inesperado
+
 #### nequit
 
 nequeo, nequire, que significa "no poder" o "no ser capaz".
@@ -560,11 +582,19 @@ nequeo, nequire, que significa "no poder" o "no ser capaz".
 
 nimbus, i m. lluvia torrencial
 
+#### noxae
+
+noxa, ae f.: daño, delito, falta, crimen
+
 ### o
 
 #### obortis
 
 oborior -ortus sum 4º dep: nacer, aparecer, surgir
+
+#### obsidis
+
+obses -sidis m. y f.: rehén de guerra
 
 #### occidit
 
