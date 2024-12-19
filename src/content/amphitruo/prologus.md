@@ -20,57 +20,57 @@ adficere atque adiuuare in rebus omnibus,
 et ut res rationesque uostrorum omnium  
 bene [expedire](#expedire) uoltis peregrique et domi, <sup class="text-[.5em] text-gray-400">5</sup>  
 bonoque atque amplo [auctare](#auctare) perpetuo lucro  
-quasque incepistis res quasque inceptabitis,  
+quasque <abbr title="incipio, incipere, incepi, inceptum: empezar">incepistis</abbr> res quasque inceptabitis,  
 et uti bonis uos uostrosque omnis nuntiis  
-me adficere uoltis, ea adferám, ea ut nuntiem  
+me [adficere](#adficere) uoltis, ea adferám, ea ut nuntiem  
 quae maxume in rem uostram communem sient <sup class="text-[.5em] text-gray-400">10</sup>  
 (nam uos quidem id iam scitis concessum et datum  
-mi esse ab dis aliis, nuntiis praesim et lucro):  
-haec ut me uoltis adprobare, adnitier  
-lucrum ut perenne uobis semper suppetat,  
+mi esse ab dis aliis, nuntiis [praesim](#praesim) et lucro):  
+haec ut me uoltis adprobare, [adnitier](#adnitier)  
+lucrum ut perenne uobis semper [suppetat](#suppetat),  
 ita huic facietis fabulae silentium <sup class="text-[.5em] text-gray-400">15</sup>  
 itaque aequi et iusti hic eritis omnes arbitri.  
- Nunc quoiius iussu uenio et quám ob rem uenerim
-dicam simulque ipse eloquar nomen meum.
-Ioui’ iussu uenio: nomen Mercuriost mihi:[3]
-pater huc me misit ad uos oratum meus; 20
-tam etsi pro imperio uobis quod dictum foret
-scibat facturos, quippe qui intellexerat
-uereri uos se et metuere, ita ut aequom est Iouem;
-uerum profecto hoc petere me precario
-a uobis iussit leniter dictis bonis. 25
-etenim ille quoius huc iussu uenio, Iuppiter
+ Nunc quoiius iussu uenio et quám ob rem uenerim  
+dicam simulque ipse eloquar nomen meum.  
+Ioui’ iussu uenio: nomen Mercuriost mihi:  
+pater huc me misit ad uos oratum meus; <sup class="text-[.5em] text-gray-400">20</sup>  
+<abbr title="aunque, aún cuando">tam etsi</abbr> pro imperio uobis quod dictum foret  
+scibat facturos, quippe qui intellexerat  
+uereri uos se et metuere, ita ut aequom est Iouem;  
+uerum <abbr title="adv. realmente">profecto</abbr> hoc petere me precario  
+a uobis iussit leniter dictis bonis. <sup class="text-[.5em] text-gray-400">25</sup>  
+etenim ille quoius huc iussu uenio, Iuppiter  
+ 
+non minu’ quam uostrum quiuis [formidat](#formidat) malum:    
+humana matre natus, humano patre  
+mirari non est aequom sibi si praetimet;  
+atque ego quoque etiam, qui Iouis sum filius, <sup class="text-[.5em] text-gray-400">30</sup>  
+contagione mei patris metuo malum.  
+propterea pace aduenio et pacem ad uos fero:  
+iustam rem et facilem esse oratam a uobis uolo,  
+nam iustae ab iustis iustus sum orator datus.  
+nam iniusta ab iustis [impetrari](#impetrari) non decet, <sup class="text-[.5em] text-gray-400">35</sup>  
+iusta autem ab iniustis petere [insipientia](#insipientia) est;  
+quippe illi iniqui ius ignorant neque tenent.  
+nunc iam huc animum omnes quae loquar aduortite.  
+debetis uelle quae uelimus: meruimus  
+et ego et pater de uobis et re publica; <sup class="text-[.5em] text-gray-400">40</sup>  
+nam quid ego memorem (ut alios in tragoediis  
+uidi, Neptunum, Virtutem, Victoriam,  
+Martem, Bellonam commemorare quae bona    
+uobis fecissent) quis benefactis meu’ pater,    
+deorum regnator, architectust omnibus? <sup class="text-[.5em] text-gray-400">45</sup>  
+sed mos numquam <ille> illi fuit patri meo  
+ut [exprobraret](#exprobraret) quod bonis faceret boni;  
+gratum arbitratur esse id a uobis sibi  
+meritoque uobis bona se facere quae facit.  
+ Nunc quam rem oratum huc ueni primum proloquar; <sup class="text-[.5em] text-gray-400">50</sup>  
+post argumentum huius eloquar tragoediae.  
+quid? contraxistis frontem quia tragoediam  
+dixi futuram hanc? deu’ sum, commutauero.  
+eandem hanc, si uoltis, faciam <iam> ex tragoedia  
 
-non minu’ quam uostrum quiuis formidat malum:
-humana matre natus, humano patre[4]
-mirari non est aequom sibi si praetimet;
-atque ego quoque etiam, qui Iouis sum filius, 30
-contagione mei patris metuo malum.
-propterea pace aduenio et pacem ad uos fero:[5]
-iustam rem et facilem esse oratam a uobis uolo,
-nam iustae ab iustis iustus sum orator datus.[6]
-nam iniusta ab iustis impetrari non decet, 35
-iusta autem ab iniustis petere insipientia est;[7]
-quippe illi iniqui ius ignorant neque tenent.[8]
-nunc iam huc animum omnes quae loquar aduortite.[9]
-debetis uelle quae uelimus: meruimus[10]
-et ego et pater de uobis et re publica; 40
-nam quid ego memorem (ut alios in tragoediis
-uidi, Neptunum, Virtutem, Victoriam,
-Martem, Bellonam commemorare quae bona
-uobis fecissent) quis benefactis meu’ pater,
-deorum regnator, architectust omnibus?[11] 45
-sed mos numquam <ille> illi fuit patri meo[12]
-ut exprobraret quod bonis faceret boni;
-gratum arbitratur esse id a uobis sibi
-meritoque uobis bona se facere quae facit.[13]
- Nunc quam rem oratum huc ueni primum proloquar; 50
-post argumentum huius eloquar tragoediae.
-quid? contraxistis frontem quia tragoediam
-dixi futuram hanc? deu’ sum, commutauero.
-eandem hanc, si uoltis, faciam <iam> ex tragoedia[14]
-
-comoedia ut sit omnibus isdem uorsibus.[15] 55
+comoedia ut sit omnibus isdem uorsibus. <sup class="text-[.5em] text-gray-400">55</sup>  
 utrum sit an non uoltis ? sed ego stultior,[16]
 quasi nesciam uos uelle, qui diuos siem.
 teneo quid animi uostri super hac re siet:
@@ -178,6 +178,14 @@ Iouem et Mercurium facere hic histrioniam.[46]
 
 ### a 
 
+#### adficere 
+
+adficio, adficere, adfeci, adfectu: afectar, influenciar
+
+#### adnitier
+
+"Adnitier" es el infinitivo del verbo latino "adnitor, adniti, adnixus sum", que pertenece a la tercera conjugación: esforzarse, luchar
+
 #### auctare
 
 "aumentar", "incrementar", "fortalecer"
@@ -192,11 +200,43 @@ emo 3 tr.: comprar
 
 "desenredar", "preparar", "facilitar"
 
+#### exprobraret 
+
+exprobro, exprobrare, exprobravi, exprobratus: reprochar, censurar.
+
+### f 
+
+#### formidat
+
+formido 1 tr.: tener miedo
+
+### i 
+
+#### impetrari
+
+impetro 1 tr.: obtener, lograr
+
+#### insipientia 
+
+insipientia, ae f.: necedad
+
 ### m 
 
 #### mercimoniis
 
 mercimonium, i n.: mercancía, comercio, producto
+
+### p 
+
+#### praesim
+
+praesum: "presidir", "estar a cargo" o "estar al frente de"
+
+### s 
+
+#### suppetat
+
+suppeto, suppetere, suppetivi, suppetitum: proveer, suministrar
 
 
 

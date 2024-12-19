@@ -74,14 +74,14 @@ quas meruere pati, (sic stat sententia) poenas.'
 
 **El concilio de los dioses (II)**
 
-Dicta Iovis pars voce probant stimulosque frementi  
-adiciunt, alii partes adsensibus inplent. <sup class="text-[.5em] text-gray-400">245</sup>  
+<abbr title="Acusativo plural neutro">Dicta</abbr> Iovis pars voce probant stimulosque [frementi](#frementi)  
+[adiciunt](#adiciunt), alii partes adsensibus inplent. <sup class="text-[.5em] text-gray-400">245</sup>  
 est tamen humani generis [iactura](#iactura) dolori  
 omnibus, et quae sit terrae mortalibus orbae  
 forma futura rogant, quis sit laturus in aras  
 [tura](#tura), ferisne paret populandas [tradere](#tradere) terras.  
 talia quaerentes (sibi enim fore cetera curae) <sup class="text-[.5em] text-gray-400">250</sup>  
-rex superum trepidare vetat [subolemque](#subolemque) priori  
+rex superum [trepidare](#trepidare) vetat [subolemque](#subolemque) priori  
 dissimilem populo promittit origine mira.  
 
 **El dilubio**
@@ -351,6 +351,10 @@ rettulit antiquas, partim nova monstra creavit.
 
 Infinitivo de futuro de adsum estar prensete, venir
 
+#### adiciunt
+
+adicio: añadir
+
 #### alveus
 
 alveus, i m: cavidad, lecho de un río
@@ -453,6 +457,10 @@ flamen -inis m: flamen (sacerdote romano); soplo, aliento; viento brisa
 #### forte
 
 forte adv. Por casualidad
+
+#### frementi
+
+fremo, fremere, fremui, fremitum: gruñir, rugir; retumbar, vibrar
 
 #### fronde
 
@@ -703,6 +711,14 @@ tero, terere, trivi, tritum: "frotar", "gastar" o "triturar"
 #### tori
 
 torus, i m. lecho; saliente, protuberancia
+
+#### tradere
+
+trado, tradere, tradidi, traditum: entregar
+
+#### trepidare
+
+temblar, agitarse, inquietarse
 
 #### tura
 
