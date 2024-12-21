@@ -37,7 +37,7 @@ longa mora est, quantum [noxae](#noxae) sit ubique repertum,
 enumerare: minor fuit ipsa infamia vero. <sup class="text-[.5em] text-gray-400">215</sup>  
 Maenala transieram [latebris](#latebris) horrenda ferarum  
 et cum Cyllene gelidi pineta Lycaei:  
-<abbr title="Arcadia, ae f. pero este es un genitivo poético 'sede de Arcadia'">Arcadis</abbr> hinc sedes et inhospita tecta tyranni  
+<abbr title="Arcadia, ae f. pero este es un genitivo poético 'sede de Arcadia'">Arcadis</abbr> hinc sedes et inhospita <abbr title="sinécdoque (συνεκδοχή: σύν con, junto con - ἐκδοχή recepción, aceptación, interpretación)">tecta tyranni</abbr>  
 [ingredior](#ingredior), traherent cum <abbr title="crespusculum -i n. crepúsculo vespertinos. Los tardíos crepúsculos (aquí sujeto)">sera crepuscula</abbr> noctem. 
 
 > En este fragmento, el narrador (presumiblemente Júpiter) describe su viaje por las tierras de Arcadia, una región conocida por sus densos bosques y montañas salvajes. Este es el escenario en el que Júpiter se aproxima al hogar del tirano Licaón, un rey conocido por su impiedad y crueldad. La atmósfera es oscura y siniestra, lo que presagia el encuentro que tendrá lugar y el castigo que Júpiter decidirá imponer. Ver en el mapa Mélano, Cyllene y Liceo (Arcadia).
@@ -88,11 +88,11 @@ dissimilem populo promittit origine mira.
 
 Iamque erat in totas sparsurus fulmina terras;  
 sed timuit, ne [forte](#forte) sacer tot ab ignibus aether  
-<abbr title="inflamara">conciperet flammas</abbr> longusque ardesceret axis: <sup class="text-[.5em] text-gray-400">255</sup>  
-esse quoque in fatis reminiscitur, [adfore](#adfore) tempus,  
+conciperet flammas longusque ardesceret axis: <sup class="text-[.5em] text-gray-400">255</sup>  
+esse quoque <abbr title="en el destino, por el destino">in fatis</abbr> reminiscitur, [adfore](#adfore) tempus,  
 quo mare, quo tellus correptaque regia caeli  
 ardeat et mundi moles [obsessa](#obsessa) laboret.  
-tela reponuntur manibus fabricata cyclopum; 
+tela reponuntur manibus fabricata [cyclopum](https://es.wikipedia.org/wiki/C%C3%ADclope); 
 
 ![Hefestus et Cyclopes](/hefesto-ciclopes-pompeya.webp)
 
@@ -109,7 +109,7 @@ barba gravis nimbis, canis fluit unda capillis;
 
 [![Notus. Viento del sur](/notus.webp)](https://historia.nationalgeographic.com.es/a/torre-vientos-atenas-primera-estacion-meteorologica-historia_10612)
 
-fronte sedent nebulae, rorant pennaeque sinusque.  
+fronte sedent nebulae, [rorant](#rorant) pennaeque sinusque.  
 utque manu lata pendentia nubila pressit,  
 fit fragor: hinc densi funduntur ab aethere nimbi;  
 nuntia Iunonis varios induta colores <sup class="text-[.5em] text-gray-400">270</sup>  
@@ -144,10 +144,10 @@ ille supra segetes aut mersae culmina villae <sup class="text-[.5em] text-gray-4
 navigat, hic summa piscem deprendit in ulmo.  
 figitur in viridi, si fors tulit, ancora prato,  
 aut subiecta [terunt](#terunt) curvae vineta carinae;  
-et, modo qua graciles gramen carpsere capellae,  
+et, modo qua graciles gramen [carpsere](#carpsere) capellae,  
 nunc ibi deformes ponunt sua corpora phocae. <sup class="text-[.5em] text-gray-400">300</sup>  
 mirantur sub aqua lucos urbesque domosque  
-Nereides, silvasque tenent delphines et altis  
+[Nereides](https://es.wikipedia.org/wiki/Nereidas), silvasque tenent delphines et altis  
 incursant ramis agitataque robora pulsant. 
 
 ![La nereida Anfitrites](/anfitrite-nereida.webp)
@@ -157,7 +157,7 @@ unda vehit tigres; nec vires fulminis [apro](#apro), <sup class="text-[.5em] tex
 crura nec <abbr title="arrebatado">ablato</abbr> [prosunt](#prosunt) velocia cervo,  
 quaesitisque diu terris, ubi sistere possit,  
 in mare lassatis volucris [vaga](#vaga) decidit alis.  
-obruerat tumulos inmensa licentia ponti,  
+[obruerat](#obruerat) tumulos inmensa licentia ponti,  
 pulsabantque novi montana [cacumina](#cacumina) fluctus. <sup class="text-[.5em] text-gray-400">310</sup>  
 maxima pars unda rapitur; quibus unda [pepercit](#pepercit),  
 illos longa domant inopi [ieiunia](#ieiunia) victu.  
@@ -394,6 +394,10 @@ La transformación de "cacumen" a "cima" pasó por procesos como la asimilación
 
 caenum, i n.: lodo
 
+#### carpsere
+
+carpo, carpere, carpsi, carptum: coger, arrancar, recoger, disfrutar
+
 #### cava
 
 cavus a um: huevo
@@ -600,6 +604,10 @@ noxa, ae f.: daño, delito, falta, crimen
 
 oborior -ortus sum 4º dep: nacer, aparecer, surgir
 
+#### obruerat
+
+obruo, obruere, obrui, obrutum: cubrir, enterrar, sepultar
+
 #### obsidis
 
 obses -sidis m. y f.: rehén de guerra
@@ -665,6 +673,7 @@ reor, ratus sum dep. pensar
 repeto: intentar alcanzar de nuevo
 
 #### rorantia
+#### rorant
 
 roro tr.: caer rocío, caer gota a gota, humedecer, rociar
 
