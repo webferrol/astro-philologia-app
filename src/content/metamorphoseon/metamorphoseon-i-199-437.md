@@ -176,7 +176,7 @@ Phocis es la región de Fócide, que se encuentra entre Eónia (Aonios) y las ti
 
 mons ibi verticibus petit arduus astra duobus,  
 nomine [Parnasos](https://es.wikipedia.org/wiki/Monte_Parnaso), superantque cacumina nubes.  
-hic ubi [Deucalion]((https://es.wikipedia.org/wiki/Deucali%C3%B3n) (nam cetera texerat aequor)  
+hic ubi [Deucalion](https://es.wikipedia.org/wiki/Deucali%C3%B3n) (nam cetera texerat aequor)  
 cum consorte [tori](#tori) parva [rate](#rate) [vectus](#vectus) adhaesit, 
 
 ![Ratis](/ratis.webp)
@@ -215,7 +215,7 @@ bucina, quae medio concepit ubi aera ponto,
 tum quoque, ut ora dei madida [rorantia](#rorantia) barba  
 <abbr title="Sujeto es la bucina">contigit</abbr> et cecinit iussos inflata [receptus](#receptus), <sup class="text-[.5em] text-gray-400">340</sup>  
 omnibus audita est telluris et aequoris undis,  
-et quibus est undis audita, coercuit omnes.  
+et quibus est undis audita, [coercuit](#coercuit) omnes.  
 iam mare litus habet, plenos capit [alveus](#alveus) amnes,  
 flumina subsidunt collesque exire videntur;  
 surgit humus, crescunt sola decrescentibus undis, <sup class="text-[.5em] text-gray-400">345</sup>  
@@ -263,14 +263,12 @@ ossaque post tergum magnae iactate <abbr title="La gran madre: La Tierra">parent
 
 <figure>
     <img src="https://res.cloudinary.com/dimvf1zl2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1730885652/latin/Peter_Paul_Rubens_-_Deucalion_and_Pyrrha__1636_awq49z.jpg" alt="Deucalion y Pirra por Rubens" title="Deucalion y Pirra por Rubens" class="w-full">
-    <figcaption>
-        <a href="">
+    <figcaption>       
             <cite title="Deucalion y Pirra por Rubens">
                 discedite templo
                 et velate caput cinctasque resolvite vestes
                 ossaque post tergum magnae iactate parentis!
-            </cite>
-        </a>
+            </cite>        
     </figcaption>
 <figure>
 
@@ -401,6 +399,10 @@ carpo, carpere, carpsi, carptum: coger, arrancar, recoger, disfrutar
 #### cava
 
 cavus a um: huevo
+
+#### coercuit
+
+coerceo: contener, reprimir
 
 #### confremuere
 
