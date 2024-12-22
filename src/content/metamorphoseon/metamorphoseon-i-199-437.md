@@ -166,7 +166,7 @@ illos longa domant inopi [ieiunia](#ieiunia) victu.
 
 
 Separat Aonios Oetaeis <a href="https://es.wikipedia.org/wiki/F%C3%B3cida"><abbr title="Phocis, -idis f. La Fócide">Phocis</abbr></a> ab arvis,  
-terra ferax, dum terra fuit, sed tempore in illo  
+terra [ferax](#ferax), dum terra fuit, sed tempore in illo  
 pars maris et latus subitarum campus aquarum. <sup class="text-[.5em] text-gray-400">315</sup>  
 
 > 'La Fócide separa las tierras de Eónia de las campiñas de Eta.' 
@@ -176,7 +176,7 @@ Phocis es la región de Fócide, que se encuentra entre Eónia (Aonios) y las ti
 
 mons ibi verticibus petit arduus astra duobus,  
 nomine [Parnasos](https://es.wikipedia.org/wiki/Monte_Parnaso), superantque cacumina nubes.  
-hic ubi Deucalion (nam cetera texerat aequor)  
+hic ubi [Deucalion]((https://es.wikipedia.org/wiki/Deucali%C3%B3n) (nam cetera texerat aequor)  
 cum consorte [tori](#tori) parva [rate](#rate) [vectus](#vectus) adhaesit, 
 
 ![Ratis](/ratis.webp)
@@ -213,7 +213,7 @@ bucina, quae medio concepit ubi aera ponto,
 ![Triton et Neptunus (Bernini)](/triton-neptuno-bernini.webp)
 
 tum quoque, ut ora dei madida [rorantia](#rorantia) barba  
-contigit et cecinit iussos inflata [receptus](#receptus), <sup class="text-[.5em] text-gray-400">340</sup>  
+<abbr title="Sujeto es la bucina">contigit</abbr> et cecinit iussos inflata [receptus](#receptus), <sup class="text-[.5em] text-gray-400">340</sup>  
 omnibus audita est telluris et aequoris undis,  
 et quibus est undis audita, coercuit omnes.  
 iam mare litus habet, plenos capit [alveus](#alveus) amnes,  
@@ -223,7 +223,7 @@ postque diem longam nudata cacumina silvae
 ostendunt limumque tenent in [fronde](#fronde) relictum.  
 Redditus orbis erat; quem postquam vidit inanem  
 et desolatas agere alta silentia terras,  
-Deucalion lacrimis ita Pyrrham adfatur [obortis](#obortis): <sup class="text-[.5em] text-gray-400">350</sup>    
+[Deucalion](https://es.wikipedia.org/wiki/Deucali%C3%B3n) lacrimis ita [Pyrrham](https://es.wikipedia.org/wiki/Pirra) adfatur [obortis](#obortis): <sup class="text-[.5em] text-gray-400">350</sup>    
 'o soror, o coniunx, o femina sola [superstes](#superstes),  
 quam commune mihi genus et [patruelis](#patruelis) origo,  
 deinde torus iunxit, nunc ipsa pericula iungunt,  
@@ -449,6 +449,10 @@ Everto, evertere, everti, eversum: derribar, destruir, voltear
 #### fastigia
 
 fastigium, i n: techumbre
+
+#### ferax
+
+ferax, -acis: fértil
 
 #### fetibus
 
