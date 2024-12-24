@@ -72,7 +72,7 @@ digna fuit: qua terra patet, fera regnat <a href="https://es.wikipedia.org/wiki/
 in <abbr title="facinus, oris n: acto; crimen">facinus</abbr> iurasse putes! dent ocius omnes,  
 quas meruere pati, (sic stat sententia) poenas.' 
 
-**El concilio de los dioses (II)**
+**Deorum concillium (II)**
 
 <abbr title="Acusativo plural neutro">Dicta</abbr> Iovis pars voce probant stimulosque [frementi](#frementi)  
 [adiciunt](#adiciunt), alii partes adsensibus inplent. <sup class="text-[.5em] text-gray-400">245</sup>  
@@ -84,7 +84,7 @@ talia quaerentes (sibi enim fore cetera curae) <sup class="text-[.5em] text-gray
 rex superum [trepidare](#trepidare) vetat [subolemque](#subolemque) priori  
 dissimilem populo promittit origine mira.  
 
-**El dilubio**
+**Diluvium**
 
 Iamque erat in totas sparsurus fulmina terras;  
 sed timuit, ne [forte](#forte) sacer tot ab ignibus aether  
