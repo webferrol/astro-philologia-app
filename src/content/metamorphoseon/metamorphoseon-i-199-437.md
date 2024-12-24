@@ -164,6 +164,10 @@ illos longa domant inopi [ieiunia](#ieiunia) victu.
 
 **Deucalion et Pyrrha**
 
+> Δευκαλίων (δεῦκος: dulzura, λιών [del v. λείω]: derretir, fluir)
+
+>  Πύρρα (πυρ- (pyr-), que significa "fuego" o "rojo")
+
 
 Separat Aonios Oetaeis <a href="https://es.wikipedia.org/wiki/F%C3%B3cida"><abbr title="Phocis, -idis f. La Fócide">Phocis</abbr></a> ab arvis,  
 terra [ferax](#ferax), dum terra fuit, sed tempore in illo  
@@ -282,7 +286,7 @@ interea [repetunt](#repetunt) caecis obscura [latebris](#latebris)
 verba datae sortis secum inter seque [volutant](#volutant).  
 inde Promethides placidis [Epimethida](https://es.wikipedia.org/wiki/Epimeteo) dictis <sup class="text-[.5em] text-gray-400">390</sup>  
 [mulcet](#mulcet) et 'aut fallax' ait 'est [sollertia](#sollertia) nobis,  
-aut (pia sunt nullumque nefas oracula suadent!)  
+aut (pia sunt nullumque nefas oracula <abbr title="aconsejan">suadent</abbr>!)  
 magna parens terra est: lapides in corpore terrae  
 ossa [reor](#reor) dici; iacere hos post terga iubemur.'  
 Coniugis augurio quamquam Titania mota est, <sup class="text-[.5em] text-gray-400">395</sup>  
@@ -293,10 +297,10 @@ et iussos lapides sua post vestigia mittunt.
 saxa (quis hoc credat, nisi sit pro teste vetustas?) <sup class="text-[.5em] text-gray-400">400</sup>  
 ponere duritiem coepere suumque rigorem  
 mollirique mora mollitaque ducere formam.  
-mox ubi creverunt naturaque [mitior](#mitior) illis  
+mox ubi creverunt naturaque [mitior](#mitior) <abbr title="dativo">illis</abbr>  
 contigit, ut quaedam, sic non manifesta videri  
-forma potest hominis, sed uti de marmore coepta <sup class="text-[.5em] text-gray-400">405</sup>  
-non exacta satis rudibusque simillima signis,  
+forma potest hominis, <abbr title="si no que">sed uti</abbr> de marmore coepta <sup class="text-[.5em] text-gray-400">405</sup>  
+non exacta satis rudibusque simillima [signis](#signis),  
 quae tamen ex illis aliquo pars umida [suco](#suco)  
 et terrena fuit, versa est in corporis usum;  
 quod solidum est flectique [nequit](#nequit), mutatur in ossa,  
@@ -308,10 +312,10 @@ inde genus durum sumus experiensque laborum
 et documenta damus qua simus origine nati. <sup class="text-[.5em] text-gray-400">415</sup>   
 Cetera diversis tellus animalia formis    
 <abbr title="adv. voluntariamente">sponte</abbr> sua peperit, postquam vetus <abbr title="umor se usa para denotar la humedad primordial que existía en la Tierra antes del calor del sol y el proceso de regeneración después del diluvio">umor</abbr> ab igne  
-percaluit solis, [caenumque](#caenumque) udaeque paludes  
+percaluit solis, [caenumque](#caenumque) [udaeque](#udae) paludes  
 intumuere aestu, fecundaque semina rerum  
 [vivaci](#vivaci) nutrita solo ceu matris in [alvo](#alvo) <sup class="text-[.5em] text-gray-400">420</sup>  
-creverunt faciemque aliquam cepere morando.  
+creverunt faciemque aliquam cepere [morando](#morando).  
 sic ubi [deseruit](#deseruit) madidos septemfluus agros  
 Nilus et antiquo sua flumina reddidit alveo  
 aetherioque recens exarsit sidere limus,  
@@ -557,6 +561,10 @@ mergo mersi mersum: sumergir; precipitar
 
 mitis, e: suave
 
+#### morando
+
+moror: quedarse, permanecer
+
 #### mucrone
 
 mucro -onis m: punta; espada
@@ -689,6 +697,10 @@ roro tr.: caer rocío, caer gota a gota, humedecer, rociar
 
 sembrados
 
+#### signis
+
+signum, i n.: estatua
+
 #### sollertia
 
 sollertia, ae f. ingenio
@@ -746,6 +758,12 @@ trado, -didi, -ditum 3 tra: entregar, dar
 #### turbine
 
 "turbo, turbinis":  "torbellino", "tormenta", o "remolino"
+
+### u 
+
+#### udae
+
+udus, a, um: húmedo
 
 ### v 
 
