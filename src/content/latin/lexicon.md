@@ -23,7 +23,15 @@ Preposición
 
 **ad + acusativo**: a, hacia (denota dirección) - Quo? (A dónde)
 
+### amor
+
+amor, -oris f.: amor
+
 ## c
+
+### consul
+
+consul, -ulis m.: cónsul
 
 ### cum
 
@@ -72,11 +80,19 @@ Río
 
 ## M
 
+#### miles
+
+miles, -itis m.: soldado
+
 ### multus a um
 
 adjetivo. Mucho
 
 ## P
+
+### pater
+
+pater, patris m.: padre
 
 ### post
 
@@ -91,4 +107,16 @@ En **latín**, la palabra **"sed"** es una **conjunción adversativa**: *"pero"*
 ### sine
 
 **sine + ablativo**: sin
+
+## S
+
+### virtus
+
+virtus, -utis f.: virtud
+
+## R
+
+### rex
+
+rex, regis m: rey
 
