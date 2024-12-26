@@ -55,7 +55,10 @@ excipit et [nuribus](#nuribus) mittit gestanda Latinis.
 
 > En el verso citado de las Tristezas de Ovidio, se describe cómo las lágrimas fluyen y se congelan al contacto con las ramas de los árboles, que se convierten en 'nuevas Electras'. Esta imagen poética simboliza la transformación de las lágrimas en hielo, evocando la figura mitológica de Electra, hija de Agamenón y Clitemnestra, conocida por su sufrimiento y lamento.
 
-/* Cycnus */
+![Cycnus](https://res.cloudinary.com/dimvf1zl2/image/upload/v1735235699/latin/heliades-Santi_di_Tito_001_wc14mn.jpg)
+
+**Cycnus**
+
 
 Adfuit huic monstro <abbr title="En la mitología griega, Cicno (en latín, Cycnus) es conocido como el hijo de Esténelo y la oceánide Clímene. Este Cicno fue rey de Liguria y hermanastro de Faetón por parte de madre.">proles Stheneleia Cycnus</abbr>,  
 qui tibi materno quamvis a sanguine iunctus,  
@@ -65,18 +68,21 @@ imperio ripas virides amnemque querellis
 Eridanum inplerat silvamque sororibus auctam,  
 cum vox est tenuata viro canaeque capillos  
 dissimulant plumae collumque a pectore longe  
-porrigitur digitosque ligat iunctura rubentis, <sup class="text-[.5em] text-gray-400">375</sup>  
-penna latus velat, tenet os sine acumine rostrum.  
+porrigitur digitosque ligat iunctura [rubentis](#rubentis), <sup class="text-[.5em] text-gray-400">375</sup>  
+penna latus velat, tenet os sine acumine rostrum. 
+
+> En la geografía antigua, Liguria es una región del noroeste de Italia, pero no tiene conexión directa conocida con Estenelao, quien es una figura mitológica griega (hijo de Capaneo y uno de los Epígonos que atacaron Tebas).
+
 fit nova Cycnus avis nec se caeloque Iovique  
 credit, ut iniuste missi memor ignis ab illo;  
-stagna petit patulosque lacus ignemque perosus  
+stagna petit [patulosque](#patulos) lacus ignemque [perosus](#perosus)  
 quae colat elegit contraria flumina flammis. <sup class="text-[.5em] text-gray-400">380</sup>  
-Squalidus interea genitor Phaethontis et expers  
+Squalidus interea genitor Phaethontis et [expers](#expers)  
 ipse sui decoris, qualis, cum deficit orbem,  
 esse solet, lucemque odit seque ipse diemque  
 datque animum in luctus et luctibus adicit iram  
 officiumque negat mundo. 'satis' inquit 'ab aevi <sup class="text-[.5em] text-gray-400">385</sup>  
-sors mea principiis fuit inrequieta, pigetque  
+sors mea principiis fuit [inrequieta](#inrequieta), [pigetque](#piget)  
 actorum sine fine mihi, sine honore laborum!  
 quilibet alter agat portantes lumina currus!  
 si nemo est omnesque dei non posse fatentur,  
@@ -125,7 +131,11 @@ La forma "deriguisse" es el infinitivo perfecto del verbo latino "derigescere", 
 
 #### electra
 
-ámbar
+electrum, i: electro, ámbar
+
+#### expers
+
+expers: carente de, privado de
 
 ### f 
 
@@ -139,6 +149,10 @@ foveo, fovit: calentar, mantener caliente, favorecer, acariciar
 
 inanis, e: "vacío," "vano," "inútil" o "sin valor"
 
+#### inrequieta
+
+inrequietus, a, um: inquieto
+
 ### n 
 
 #### nuribus
@@ -147,15 +161,31 @@ nurus, i f.: nuera
 
 ### p
 
+#### patulos
+
+patulus, a, um: abierto
+
 #### percensuit
 
 percēnseō, percensui: recorrer
+
+#### perosus
+
+perosus, a, um: que detesta, que odia
+
+#### piget
+
+En latín, piget es una forma del verbo pigere, que significa "desagradar" o "causar aversión" o "hacer que alguien se sienta arrepentido". Esta forma es impersonal, lo que significa que se utiliza de manera que no tiene un sujeto directo, y generalmente se traduce como "me desagrada", "me arrepiento", o "me avergüenza", dependiendo del contexto.
 
 ### r 
 
 #### rigescunt
 
 "rigescere", que significa "ponerse rígido", "entumecerse" o "congelarse". 
+
+#### rubentis
+
+rubens, rubentis: rojizo, que se enrojece
 
 ### s
 
