@@ -55,6 +55,43 @@ excipit et [nuribus](#nuribus) mittit gestanda Latinis.
 
 > En el verso citado de las Tristezas de Ovidio, se describe cómo las lágrimas fluyen y se congelan al contacto con las ramas de los árboles, que se convierten en 'nuevas Electras'. Esta imagen poética simboliza la transformación de las lágrimas en hielo, evocando la figura mitológica de Electra, hija de Agamenón y Clitemnestra, conocida por su sufrimiento y lamento.
 
+/* Cycnus */
+
+Adfuit huic monstro <abbr title="En la mitología griega, Cicno (en latín, Cycnus) es conocido como el hijo de Esténelo y la oceánide Clímene. Este Cicno fue rey de Liguria y hermanastro de Faetón por parte de madre.">proles Stheneleia Cycnus</abbr>,  
+qui tibi materno quamvis a sanguine iunctus,  
+mente tamen, Phaethon, propior fuit. ille relicto  
+(nam Ligurum populos et magnas rexerat urbes) <sup class="text-[.5em] text-gray-400">370</sup>  
+imperio ripas virides amnemque querellis  
+Eridanum inplerat silvamque sororibus auctam,  
+cum vox est tenuata viro canaeque capillos  
+dissimulant plumae collumque a pectore longe  
+porrigitur digitosque ligat iunctura rubentis, <sup class="text-[.5em] text-gray-400">375</sup>  
+penna latus velat, tenet os sine acumine rostrum.  
+fit nova Cycnus avis nec se caeloque Iovique  
+credit, ut iniuste missi memor ignis ab illo;  
+stagna petit patulosque lacus ignemque perosus  
+quae colat elegit contraria flumina flammis. <sup class="text-[.5em] text-gray-400">380</sup>  
+Squalidus interea genitor Phaethontis et expers  
+ipse sui decoris, qualis, cum deficit orbem,  
+esse solet, lucemque odit seque ipse diemque  
+datque animum in luctus et luctibus adicit iram  
+officiumque negat mundo. 'satis' inquit 'ab aevi <sup class="text-[.5em] text-gray-400">385</sup>  
+sors mea principiis fuit inrequieta, pigetque  
+actorum sine fine mihi, sine honore laborum!  
+quilibet alter agat portantes lumina currus!  
+si nemo est omnesque dei non posse fatentur,  
+ipse agat ut saltem, dum nostras temptat habenas, <sup class="text-[.5em] text-gray-400">390</sup>  
+orbatura patres aliquando fulmina ponat!  
+tum sciet ignipedum vires expertus equorum  
+non meruisse necem, qui non bene rexerit illos.'  
+Talia dicentem circumstant omnia Solem  
+numina, neve velit tenebras inducere rebus, <sup class="text-[.5em] text-gray-400">395</sup>  
+supplice voce rogant; missos quoque Iuppiter ignes  
+excusat precibusque minas regaliter addit.  
+colligit amentes et adhuc terrore paventes  
+Phoebus equos stimuloque dolens et verbere saevit  
+(saevit enim) natumque obiectat et inputat illis. <sup class="text-[.5em] text-gray-400">400</sup>  
+
 
 
  
