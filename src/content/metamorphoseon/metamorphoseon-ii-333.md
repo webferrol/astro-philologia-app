@@ -98,7 +98,7 @@ colligit amentes et adhuc terrore paventes
 Phoebus equos stimuloque dolens et [verbere](#verbere) saevit  
 (saevit enim) natumque obiectat et inputat illis. <sup class="text-[.5em] text-gray-400">400</sup>  
 
-**Iupptier et Callistus**
+**Iuppiter et Callistus**
 
 At pater omnipotens ingentia moenia caeli  
 circuit et, ne quid [labefactum](#labefactum) viribus ignis  
