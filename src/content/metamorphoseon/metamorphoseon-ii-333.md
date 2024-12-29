@@ -101,14 +101,14 @@ Phoebus equos stimuloque dolens et [verbere](#verbere) saevit
 **Iuppiter et Callistus**
 
 At pater omnipotens ingentia moenia caeli  
-circuit et, ne quid [labefactum](#labefactum) viribus ignis  
-corruat, explorat. quae postquam firma suique  
+[circuit](#circuit) et, ne quid [labefactum](#labefactum) viribus ignis  
+[corruat](#corruat), explorat. quae postquam firma suique  
 roboris esse videt, terras hominumque labores  
-perspicit. Arcadiae tamen est inpensior illi <sup class="text-[.5em] text-gray-400">405</sup>  
+perspicit. Arcadiae tamen est [inpensior](#inpensior) illi <sup class="text-[.5em] text-gray-400">405</sup>  
 cura suae: fontesque et nondum audentia labi  
 flumina restituit, dat terrae gramina, frondes  
 arboribus, laesasque iubet revirescere silvas.  
-dum redit itque frequens, in virgine Nonacrina  
+dum redit itque frequens, in virgine <abbr title="Nonacris: Ciudad de Arcadia en la mitología griega, asociada con el río Aqueloo.">Nonacrina</abbr>  
 haesit, et accepti caluere sub ossibus ignes. <sup class="text-[.5em] text-gray-400">410</sup>  
 non erat huius opus lanam mollire trahendo  
 nec positu variare comas; ubi fibula vestem,  
@@ -160,9 +160,17 @@ La forma "avellit" es la tercera persona del singular del presente de indicativo
 
 ### c 
 
+#### circuit
+
+circire: rodear
+
 #### conplectitur
 
 La forma "complectitur" es la tercera persona del singular del presente de indicativo activo del verbo latino "complector", que significa "abrazar", "envolver" o "abarcar"
+
+#### corruat
+
+corruo, corruere, corrui, corruitur: "caer", "desmoronarse", "hundirse" o "derrumbarse"
 
 ### d 
 
@@ -195,6 +203,10 @@ foveo, fovit: calentar, mantener caliente, favorecer, acariciar
 #### inania
 
 inanis, e: "vacío," "vano," "inútil" o "sin valor"
+
+#### inpensior
+
+El término "inpensus" es una forma derivada del verbo latino "impendo", que significa "poner esfuerzo", "invertir" o "dedicar", pero como adjetivo, "inpensus" puede tener el significado de "intenso", "grande" o "considerable". 
 
 #### inrequieta
 
