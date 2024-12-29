@@ -85,9 +85,9 @@ officiumque negat mundo. 'satis' inquit 'ab aevi <sup class="text-[.5em] text-gr
 sors mea principiis fuit [inrequieta](#inrequieta), [pigetque](#piget)  
 actorum sine fine mihi, sine honore laborum!  
 quilibet alter agat portantes lumina currus!  
-si nemo est omnesque dei non posse fatentur,  
+si nemo est omnesque dei non posse [fatentur](#fatentur),  
 ipse agat ut saltem, dum nostras temptat habenas, <sup class="text-[.5em] text-gray-400">390</sup>  
-orbatura patres aliquando fulmina ponat!  
+[orbatura](#orbatura) patres aliquando fulmina ponat!  
 tum sciet ignipedum vires expertus equorum  
 non meruisse necem, qui non bene rexerit illos.'  
 Talia dicentem circumstant omnia Solem  
@@ -95,8 +95,51 @@ numina, neve velit tenebras inducere rebus, <sup class="text-[.5em] text-gray-40
 supplice voce rogant; missos quoque Iuppiter ignes  
 excusat precibusque minas regaliter addit.  
 colligit amentes et adhuc terrore paventes  
-Phoebus equos stimuloque dolens et verbere saevit  
+Phoebus equos stimuloque dolens et [verbere](#verbere) saevit  
 (saevit enim) natumque obiectat et inputat illis. <sup class="text-[.5em] text-gray-400">400</sup>  
+
+**Iupptier et Callistus**
+
+At pater omnipotens ingentia moenia caeli  
+circuit et, ne quid [labefactum](#labefactum) viribus ignis  
+corruat, explorat. quae postquam firma suique  
+roboris esse videt, terras hominumque labores  
+perspicit. Arcadiae tamen est inpensior illi <sup class="text-[.5em] text-gray-400">405</sup>  
+cura suae: fontesque et nondum audentia labi  
+flumina restituit, dat terrae gramina, frondes  
+arboribus, laesasque iubet revirescere silvas.  
+dum redit itque frequens, in virgine Nonacrina  
+haesit, et accepti caluere sub ossibus ignes. <sup class="text-[.5em] text-gray-400">410</sup>  
+non erat huius opus lanam mollire trahendo  
+nec positu variare comas; ubi fibula vestem,  
+vitta coercuerat neglectos alba capillos;  
+et modo leve manu iaculum, modo sumpserat arcum,  
+miles erat Phoebes: nec Maenalon attigit ulla <sup class="text-[.5em] text-gray-400">415</sup>  
+gratior hac Triviae; sed nulla potentia longa est.  
+Ulterius medio spatium sol altus habebat,  
+cum subit illa nemus, quod nulla ceciderat aetas;  
+exuit hic umero pharetram lentosque retendit  
+arcus inque solo, quod texerat herba, iacebat <sup class="text-[.5em] text-gray-400">420</sup>  
+et pictam posita pharetram cervice premebat.  
+Iuppiter ut vidit fessam et custode vacantem,  
+'hoc certe furtum coniunx mea nesciet' inquit,  
+'aut si rescierit, sunt, o sunt iurgia tanti!'  
+protinus induitur faciem cultumque Dianae <sup class="text-[.5em] text-gray-400">425</sup>  
+atque ait: 'o comitum, virgo, pars una mearum,  
+in quibus es venata iugis?' de caespite virgo  
+se levat et 'salve numen, me iudice' dixit,  
+'audiat ipse licet, maius Iove.' ridet et audit  
+et sibi praeferri se gaudet et oscula iungit, <sup class="text-[.5em] text-gray-400">430</sup>  
+nec moderata satis nec sic a virgine danda.  
+qua venata foret silva, narrare parantem  
+inpedit amplexu nec se sine crimine prodit.  
+illa quidem contra, quantum modo femina posset  
+(adspiceres utinam, Saturnia, mitior esses), <sup class="text-[.5em] text-gray-400">435</sup>  
+illa quidem pugnat, sed quem superare puella,  
+quisve Iovem poterat? superum petit aethera victor  
+Iuppiter: huic odio nemus est et conscia silva;  
+unde pedem referens paene est oblita pharetram  
+tollere cum telis et quem suspenderat arcum. <sup class="text-[.5em] text-gray-400">440</sup>  
 
 
 
@@ -139,6 +182,10 @@ expers: carente de, privado de
 
 ### f 
 
+#### fatentur
+
+fateor, fateri, fassus sum, que significa "confesar", "admitir" o "reconocer"
+
 #### fovit
 
 foveo, fovit: calentar, mantener caliente, favorecer, acariciar
@@ -153,11 +200,23 @@ inanis, e: "vacío," "vano," "inútil" o "sin valor"
 
 inrequietus, a, um: inquieto
 
+### l
+
+#### labefactum
+
+labefacio: hacer caer, derribar
+
 ### n 
 
 #### nuribus
 
 nurus, i f.: nuera
+
+### o
+
+#### orbatura
+
+orbare: dejar húerfano, privar de
 
 ### p
 
@@ -192,6 +251,12 @@ rubens, rubentis: rojizo, que se enrojece
 #### stillata
 
 "stillare", que significa "goteo" o "gotear"
+
+### v 
+
+#### verbere
+
+verber, eris n.: azote
 
 
 

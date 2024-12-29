@@ -232,10 +232,10 @@ nescio quem factura toro, pete' dixerat 'umbras <sup class="text-[.5em] text-gra
 altorum nemorum' (et nemorum monstraverat umbras)  
 'dum calet, et medio sol est altissimus orbe!  
 quodsi sola times latebras intrare ferarum,  
-praeside tuta deo nemorum secreta subibis,  
-nec de plebe deo, sed qui caelestia magna <sup class="text-[.5em] text-gray-400">595</sup>  
+[praeside](#praeside) tuta deo nemorum secreta subibis,  
+nec de plebe deo, sed qui caelestia <abbr title="magna manu:de mi magna mano">magna</abbr> <sup class="text-[.5em] text-gray-400">595</sup>  
 [sceptra](#sceptra) manu teneo, sed qui vaga fulmina mitto.  
-ne fuge me!' fugiebat enim. iam pascua <abbr title="Los pastos de Lerna y los campos de Lircea son escenarios propios del Peloponeso, donde se desarrollan muchos episodios del mito griego.">Lernae</abbr>
+ne fuge me!' fugiebat enim. iam pascua <abbr title="Los pastos de Lerna y los campos de Lircea son escenarios propios del Peloponeso, donde se desarrollan muchos episodios del mito griego.">Lernae</abbr>  
 [consitaque](#consita) arboribus Lyrcea reliquerat arva,  
 cum deus inducta latas caligine terras  
 occuluit tenuitque fugam rapuitque pudorem. <sup class="text-[.5em] text-gray-400">600</sup>  
@@ -243,8 +243,7 @@ occuluit tenuitque fugam rapuitque pudorem. <sup class="text-[.5em] text-gray-40
 <figure title="Antonio Allegri, llamado Correggio, Jupiter and Io">
     <a href="https://es.wikipedia.org/wiki/Antonio_Allegri_da_Correggio"><img src="https://res.cloudinary.com/dimvf1zl2/image/upload/v1731864649/latin/466px-Antonio_Allegri__called_Correggio_-_Jupiter_and_Io_-_Google_Art_Project_eupz9m.jpg" class="w-auto"></a>
     <figcaption>
-        cum deus inducta latas caligine terras<br>  
-        occuluit tenuitque fugam rapuitque pudorem.
+       Antonio Allegri, llamado Correggio, Jupiter and Io
     </figcaption>
 </figure>
 
@@ -270,7 +269,7 @@ quove sit [armento](#armenta), veri quasi nescia quaerit.
     </figcaption>
 </figure>
 
-Iuppiter e terra genitam mentitur, ut auctor <sup class="text-[.5em] text-gray-400">615</sup>  
+Iuppiter e terra [genitam](#genitam) mentitur, ut auctor <sup class="text-[.5em] text-gray-400">615</sup>  
 [desinat](#desinat) inquiri: petit hanc Saturnia munus.  
 quid faciat? crudele suos addicere amores,  
 non dare suspectum est: Pudor est, qui suadeat illinc,  
@@ -279,7 +278,7 @@ sed leve si munus sociae generisque torique <sup class="text-[.5em] text-gray-40
 vacca negaretur, poterat non vacca videri!  
 [Paelice](#paelice) donata non protinus exuit omnem  
 diva metum timuitque Iovem et fuit anxia furti,  
-donec Arestoridae servandam tradidit [Argo](https://es.wikipedia.org/wiki/Argos_Panoptes).  
+donec <abbr title="Hesíodo dice que nació de Micene y Arestor">Arestoridae</abbr> servandam tradidit [Argo](https://es.wikipedia.org/wiki/Argos_Panoptes).  
 
 > Este pasaje refleja la desconfianza de Juno y su determinación para mantener a Io bajo control. La figura de Argos, con sus cien ojos, simboliza la vigilancia constante y se convierte en una herramienta de Juno para frustrar cualquier intento de Júpiter de liberar a Io. Este episodio también prepara el terreno para el famoso enfrentamiento entre Argos y Mercurio (Hermes), enviado por Júpiter para rescatar a Io.
 
@@ -538,6 +537,10 @@ fruor fructus sum dep.  3 INTR: usar, gozar, disfrutar
 
 ### g
 
+#### genitam
+
+gigno, gignere, genui, genitum: nacer
+
 #### gestamina
 
 gestamen, gestaminis n: objeto llevado o transportado [peso, fardo, vestido, adorno, armas]
@@ -639,6 +642,10 @@ pharetra, ae f.: carcaj, aljava
 #### praerupta
 
 praeruptus a um: escarpado
+
+#### praeside
+
+praeses, praesidis: protector
 
 #### properas
 
