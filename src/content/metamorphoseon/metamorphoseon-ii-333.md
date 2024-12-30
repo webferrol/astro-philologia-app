@@ -111,11 +111,16 @@ arboribus, laesasque iubet revirescere silvas.
 dum redit itque frequens, in virgine <abbr title="Nonacris: Ciudad de Arcadia en la mitología griega, asociada con el río Aqueloo.">Nonacrina</abbr>  
 haesit, et accepti caluere sub ossibus ignes. <sup class="text-[.5em] text-gray-400">410</sup>  
 non erat huius opus lanam mollire trahendo  
-nec positu variare comas; ubi fibula vestem,  
-vitta coercuerat neglectos alba capillos;  
+nec [positu](#positu) variare comas; ubi [fibula](https://es.wikipedia.org/wiki/F%C3%ADbula) vestem,  
+vitta [coercuerat](#coercuerat) [neglectos](#neglectos) alba capillos;  
 et modo leve manu iaculum, modo sumpserat arcum,  
 miles erat Phoebes: nec Maenalon attigit ulla <sup class="text-[.5em] text-gray-400">415</sup>  
-gratior hac Triviae; sed nulla potentia longa est.  
+gratior hac Triviae; sed nulla potentia longa est.
+
+> Maenalon hace referencia al monte Maenalo en Arcadia, un lugar asociado con la caza y con Diana.
+
+> Trivia es un epíteto de Diana, en alusión a su triple naturaleza como diosa de la caza, la luna y el inframundo.
+
 Ulterius medio spatium sol altus habebat,  
 cum subit illa nemus, quod nulla ceciderat aetas;  
 exuit hic umero pharetram lentosque retendit  
@@ -126,13 +131,19 @@ Iuppiter ut vidit fessam et custode vacantem,
 'aut si rescierit, sunt, o sunt iurgia tanti!'  
 protinus induitur faciem cultumque Dianae <sup class="text-[.5em] text-gray-400">425</sup>  
 atque ait: 'o comitum, virgo, pars una mearum,  
-in quibus es venata iugis?' de caespite virgo  
+in quibus es [venata](#venata) iugis?' de [caespite](#caespite) virgo  
 se levat et 'salve numen, me iudice' dixit,  
 'audiat ipse licet, maius Iove.' ridet et audit  
 et sibi praeferri se gaudet et oscula iungit, <sup class="text-[.5em] text-gray-400">430</sup>  
-nec moderata satis nec sic a virgine danda.  
+nec moderata satis nec sic a virgine danda. 
+
+<figure>
+<img src="https://res.cloudinary.com/dimvf1zl2/image/upload/v1735576177/latin/Jupiter_and_Callisto_-_Jacopo_Amigoni_h3f24f.jpg">
+<figcaption>Júpiter y Calisto, de Amigoni</figcaption>
+</figure>
+
 qua venata foret silva, narrare parantem  
-inpedit amplexu nec se sine crimine prodit.  
+inpedit amplexu nec se sine crimine [prodit](#prodit).  
 illa quidem contra, quantum modo femina posset  
 (adspiceres utinam, Saturnia, mitior esses), <sup class="text-[.5em] text-gray-400">435</sup>  
 illa quidem pugnat, sed quem superare puella,  
@@ -160,9 +171,17 @@ La forma "avellit" es la tercera persona del singular del presente de indicativo
 
 ### c 
 
+#### caespite
+
+caespes, caespitis f.: césped, hierba
+
 #### circuit
 
 circire: rodear
+
+#### coercuerat
+
+coerceo, coercere, coercui, coercitum: "contener", "reprimir", "limitar" o "controlar"
 
 #### conplectitur
 
@@ -220,6 +239,10 @@ labefacio: hacer caer, derribar
 
 ### n 
 
+#### neglectos
+
+neglego, neglegere, neglexi, neglectum: descuidar, ignoarar
+
 #### nuribus
 
 nurus, i f.: nuera
@@ -248,6 +271,14 @@ perosus, a, um: que detesta, que odia
 
 En latín, piget es una forma del verbo pigere, que significa "desagradar" o "causar aversión" o "hacer que alguien se sienta arrepentido". Esta forma es impersonal, lo que significa que se utiliza de manera que no tiene un sujeto directo, y generalmente se traduce como "me desagrada", "me arrepiento", o "me avergüenza", dependiendo del contexto.
 
+#### positu
+
+positus, -us f.: posición, colocación, modo de ser colocado
+
+#### prodit
+
+prodeo, prodire, prodii, proditum: "salir", "aparecer", "mostrar" o "traicionar"
+
 ### r 
 
 #### rigescunt
@@ -265,6 +296,10 @@ rubens, rubentis: rojizo, que se enrojece
 "stillare", que significa "goteo" o "gotear"
 
 ### v 
+
+#### venata
+
+veno 1 tr.: cazar
 
 #### verbere
 
