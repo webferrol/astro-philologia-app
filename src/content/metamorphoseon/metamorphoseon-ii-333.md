@@ -151,7 +151,64 @@ quisve Iovem poterat? superum petit aethera victor
 Iuppiter: huic odio nemus est et conscia silva;  
 unde pedem referens paene est oblita pharetram  
 tollere cum telis et quem suspenderat arcum. <sup class="text-[.5em] text-gray-400">440</sup>  
+Ecce, suo comitata choro Dictynna per altum  
+Maenalon ingrediens et caede superba ferarum  
+adspicit hanc visamque vocat: clamata refugit  
+et timuit primo, ne Iuppiter esset in illa;  
+sed postquam pariter nymphas incedere vidit, <sup class="text-[.5em] text-gray-400">445</sup>  
+sensit abesse dolos <abbr title="grupo. numeris, i m.: número">numerumque</abbr> accessit ad harum.
 
+> Dictynna es un epíteto de la diosa Artemisa (en la mitología griega) o Diana (en la mitología romana). El término tiene su origen en el griego antiguo Δίκτυννα (Díktunna) y está asociado con las montañas Dictas de Creta, así como con las redes (δίχτυα, díktya) usadas para cazar.
+
+heu! quam difficile est crimen non prodere vultu!  
+vix oculos [attollit](#attollit) humo nec, ut ante solebat,  
+iuncta deae lateri nec toto est agmine prima,  
+sed silet et laesi dat signa rubore pudoris; <sup class="text-[.5em] text-gray-400">450</sup>  
+et, nisi quod virgo est, poterat sentire Diana  
+<abbr title="por mil indicios">mille notis</abbr> culpam: nymphae sensisse feruntur.  
+<abbr title="Específicamente al noveno día del mes lunar. Aquí orbe traducir como ciclo">orbe</abbr> resurgebant lunaria cornua [nono](#nono),  
+cum de venatu fraternis languida flammis,  
+nacta nemus gelidum dea, quo cum murmure labens <sup class="text-[.5em] text-gray-400">455</sup>  
+ibat et attritas versabat rivus harenas.  
+ut loca laudavit, summas pede contigit undas;  
+his quoque laudatis 'procul est' ait 'arbiter omnis:  
+nuda superfusis tinguamus corpora lymphis!'  
+Parrhasis erubuit; cunctae velamina ponunt; <sup class="text-[.5em] text-gray-400">460</sup>  
+una moras quaerit: dubitanti vestis adempta est,  
+qua posita nudo patuit cum corpore crimen.  
+attonitae manibusque uterum celare volenti  
+'i procul hinc' dixit 'nec sacros pollue fontis!'  
+Cynthia deque suo iussit secedere coetu. <sup class="text-[.5em] text-gray-400">465</sup>  
+Senserat hoc olim magni matrona Tonantis  
+distuleratque graves in idonea tempora poenas.  
+causa morae nulla est, et iam puer Arcas (id ipsum  
+indoluit Iuno) fuerat de paelice natus.  
+quo simul obvertit saevam cum lumine mentem, <sup class="text-[.5em] text-gray-400">470</sup>  
+'scilicet hoc etiam restabat, adultera' dixit,  
+'ut fecunda fores, fieretque iniuria partu  
+nota, Iovisque mei testatum dedecus esset.  
+haud inpune feres: adimam tibi namque figuram,  
+qua tibi, quaque places nostro, inportuna, marito.' <sup class="text-[.5em] text-gray-400">475</sup>  
+dixit et adversam prensis a fronte capillis  
+stravit humi pronam. tendebat bracchia supplex:  
+bracchia coeperunt nigris horrescere villis  
+curvarique manus et aduncos crescere in unguis  
+officioque pedum fungi laudataque quondam <sup class="text-[.5em] text-gray-400">480</sup>  
+ora Iovi lato fieri deformia rictu.  
+neve preces animos et verba precantia flectant,  
+posse loqui eripitur: vox iracunda minaxque  
+plenaque terroris rauco de gutture fertur;  
+mens antiqua tamen facta quoque mansit in ursa, <sup class="text-[.5em] text-gray-400">485</sup>  
+adsiduoque suos gemitu testata dolores  
+qualescumque manus ad caelum et sidera tollit  
+ingratumque Iovem, nequeat cum dicere, sentit.  
+a! quotiens, sola non ausa quiescere silva,  
+ante domum quondamque suis erravit in agris! <sup class="text-[.5em] text-gray-400">490</sup>  
+a! quotiens per saxa canum latratibus acta est  
+venatrixque metu venantum territa fugit!  
+saepe feris latuit visis, oblita quid esset,  
+ursaque conspectos in montibus horruit ursos  
+pertimuitque lupos, quamvis pater esset in illis. <sup class="text-[.5em] text-gray-400">495</sup>  
 
 
  
@@ -163,6 +220,10 @@ tollere cum telis et quem suspenderat arcum. <sup class="text-[.5em] text-gray-4
 #### adsternuntur
 
 adsternō, adsternere, adsternuī, adsternūtum: extender, cubrir, tender
+
+#### attollit
+
+attollo, attollere", que significa "levantar", "alzar", "erigir", o "exaltar"
 
 #### avellit 
 #### avellere
@@ -242,6 +303,10 @@ labefacio: hacer caer, derribar
 #### neglectos
 
 neglego, neglegere, neglexi, neglectum: descuidar, ignoarar
+
+#### nono
+
+nonus, a, um: noveno
 
 #### nuribus
 
