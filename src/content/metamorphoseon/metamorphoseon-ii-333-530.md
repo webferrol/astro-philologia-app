@@ -1,12 +1,12 @@
 ---
-titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER SECUNDUS, 333 -
-descriptio: Traductio, liber secundus (333 - )
+titulus: P. OVIDI NASONIS METAMORPHOSEON LIBER SECUNDUS, 333 - 530
+descriptio: Traductio, liber secundus (333 - 530)
 ---
 
 - [Volver](/metamorphoseon)
 - [Inicio](/)
 
-# P. OVIDI NASONIS METAMORPHOSEON LIBER SECUNDUS, 333 - 
+# P. OVIDI NASONIS METAMORPHOSEON LIBER SECUNDUS, 333 - 530 
 
 - [Liber secundus](https://la.wikisource.org/wiki/Metamorphoses_(Ovidius)/Liber_II#330)
 
@@ -169,35 +169,44 @@ et, nisi quod virgo est, poterat sentire Diana
 <abbr title="Específicamente al noveno día del mes lunar. Aquí orbe traducir como ciclo">orbe</abbr> resurgebant lunaria cornua [nono](#nono),  
 cum de venatu fraternis languida flammis,  
 nacta nemus gelidum dea, quo cum murmure labens <sup class="text-[.5em] text-gray-400">455</sup>  
-ibat et attritas versabat rivus harenas.  
+ibat et [attritas](#attritas) versabat rivus harenas.  
 ut loca laudavit, summas pede contigit undas;  
 his quoque laudatis 'procul est' ait 'arbiter omnis:  
-nuda superfusis tinguamus corpora lymphis!'  
+nuda superfusis [tinguamus](#tinguamus) corpora lymphis!'  
 Parrhasis erubuit; cunctae velamina ponunt; <sup class="text-[.5em] text-gray-400">460</sup>  
-una moras quaerit: dubitanti vestis adempta est,  
+una moras quaerit: dubitanti vestis [adempta](#adempta) est,  
 qua posita nudo patuit cum corpore crimen.  
+
+> En la literatura latina, especialmente en las Metamorfosis de Ovidio, Parrhasis puede usarse como un epíteto poético para resaltar la conexión de Calisto con su tierra natal. Por ejemplo, al llamarla 'Parrhasis', se enfatiza su origen o su identificación con Arcadia, una tierra salvaje y montañosa, ideal para los relatos de ninfas y dioses.
+
 attonitae manibusque uterum celare volenti  
-'i procul hinc' dixit 'nec sacros pollue fontis!'  
-Cynthia deque suo iussit secedere coetu. <sup class="text-[.5em] text-gray-400">465</sup>  
+'i procul hinc' dixit 'nec sacros [pollue](#pollue) fontis!'  
+Cynthia deque suo iussit secedere [coetu](#coetu). <sup class="text-[.5em] text-gray-400">465</sup>  
 Senserat hoc olim magni matrona Tonantis  
-distuleratque graves in idonea tempora poenas.  
+[distuleratque](#distulerat) graves in idonea tempora poenas.  
+
+> Cynthia es un epíteto poético asociado a Diana (en latín) o Ártemis (en griego), la diosa de la caza, la luna, y la virginidad. Este epíteto proviene del monte Cynthus, situado en la isla de Delos, que según la mitología fue el lugar donde Latona dio a luz a los gemelos Apolo y Diana.
+
 causa morae nulla est, et iam puer Arcas (id ipsum  
 indoluit Iuno) fuerat de paelice natus.  
+
+> Arcas es un personaje de la mitología griega, conocido como el hijo de Calisto, una ninfa seguidora de Diana (Ártemis), y de Júpiter (Zeus). Es una figura importante en los mitos relacionados con Arcadia, la constelación de la Osa Mayor, y la transformación de su madre en osa.
+
 quo simul obvertit saevam cum lumine mentem, <sup class="text-[.5em] text-gray-400">470</sup>  
-'scilicet hoc etiam restabat, adultera' dixit,  
+'<abbr title="por supuesto">scilicet</abbr> hoc etiam restabat, adultera' dixit,  
 'ut fecunda fores, fieretque iniuria partu  
 nota, Iovisque mei testatum dedecus esset.  
-haud inpune feres: adimam tibi namque figuram,  
+haud inpune feres: [adimam](#adimam) tibi namque figuram,  
 qua tibi, quaque places nostro, inportuna, marito.' <sup class="text-[.5em] text-gray-400">475</sup>  
 dixit et adversam prensis a fronte capillis  
 stravit humi pronam. tendebat bracchia supplex:  
-bracchia coeperunt nigris horrescere villis  
-curvarique manus et aduncos crescere in unguis  
+bracchia coeperunt nigris [horrescere](#horrescere) villis  
+curvarique manus et [aduncos](#aduncos) crescere in unguis  
 officioque pedum fungi laudataque quondam <sup class="text-[.5em] text-gray-400">480</sup>  
 ora Iovi lato fieri deformia rictu.  
 neve preces animos et verba precantia flectant,  
 posse loqui eripitur: vox iracunda minaxque  
-plenaque terroris rauco de gutture fertur;  
+plenaque terroris [rauco](#rauco) de gutture fertur;  
 mens antiqua tamen facta quoque mansit in ursa, <sup class="text-[.5em] text-gray-400">485</sup>  
 adsiduoque suos gemitu testata dolores  
 qualescumque manus ad caelum et sidera tollit  
@@ -206,24 +215,70 @@ a! quotiens, sola non ausa quiescere silva,
 ante domum quondamque suis erravit in agris! <sup class="text-[.5em] text-gray-400">490</sup>  
 a! quotiens per saxa canum latratibus acta est  
 venatrixque metu venantum territa fugit!  
-saepe feris latuit visis, oblita quid esset,  
+saepe feris latuit visis, [oblita](#oblita) quid esset,  
 ursaque conspectos in montibus horruit ursos  
 pertimuitque lupos, quamvis pater esset in illis. <sup class="text-[.5em] text-gray-400">495</sup>  
-
-
+Ecce Lycaoniae proles ignara parentis,  
+Arcas adest ter quinque fere natalibus actis;  
+dumque feras sequitur, dum saltus eligit aptos  
+nexilibusque plagis silvas Erymanthidas ambit,  
+incidit in matrem, quae restitit Arcade viso <sup class="text-[.5em] text-gray-400">500</sup>  
+et cognoscenti similis fuit: ille refugit  
+inmotosque oculos in se sine fine tenentem  
+nescius extimuit propiusque accedere aventi  
+vulnifico fuerat fixurus pectora telo:  
+arcuit omnipotens pariterque ipsosque nefasque <sup class="text-[.5em] text-gray-400">505</sup>  
+sustulit et pariter raptos per inania vento  
+inposuit caelo vicinaque sidera fecit.   
+Intumuit Iuno, postquam inter sidera paelex  
+fulsit, et ad canam descendit in aequora Tethyn  
+Oceanumque senem, quorum reverentia movit <sup class="text-[.5em] text-gray-400">510</sup>  
+saepe deos, causamque viae scitantibus infit:  
+'quaeritis, aetheriis quare regina deorum  
+sedibus huc adsim? pro me tenet altera caelum!  
+mentior, obscurum nisi nox cum fecerit orbem,  
+nuper honoratas summo, mea vulnera, caelo <sup class="text-[.5em] text-gray-400">515</sup>  
+videritis stellas illic, ubi circulus axem  
+ultimus extremum spatioque brevissimus ambit.  
+et vero quisquam Iunonem laedere nolit  
+offensamque tremat, quae prosum sola nocendo?  
+o ego quantum egi! quam vasta potentia nostra est! <sup class="text-[.5em] text-gray-400">520</sup>  
+esse hominem vetui: facta est dea! sic ego poenas  
+sontibus inpono, sic est mea magna potestas!  
+vindicet antiquam faciem vultusque ferinos  
+detrahat, Argolica quod in ante Phoronide fecit  
+cur non et pulsa ducit Iunone meoque <sup class="text-[.5em] text-gray-400">525</sup>  
+collocat in thalamo socerumque Lycaona sumit?  
+at vos si laesae tangit contemptus alumnae,  
+gurgite caeruleo septem prohibete triones  
+sideraque in caelo stupri mercede recepta  
+pellite, ne puro tinguatur in aequore paelex!' <sup class="text-[.5em] text-gray-400">530</sup>  
  
 
 ## Lexicon
 
 ### a 
 
+#### adempta
+#### adimam
+
+adimo: quitar
+
 #### adsternuntur
 
 adsternō, adsternere, adsternuī, adsternūtum: extender, cubrir, tender
 
+#### aduncos
+
+aduncus, a, um: ganchudo
+
 #### attollit
 
 attollo, attollere", que significa "levantar", "alzar", "erigir", o "exaltar"
+
+#### attritas
+
+attero, atterere, attrivi, attritum: "frotar", "gastar", "desgastar", o "debilitar"
 
 #### avellit 
 #### avellere
@@ -244,6 +299,10 @@ circire: rodear
 
 coerceo, coercere, coercui, coercitum: "contener", "reprimir", "limitar" o "controlar"
 
+#### coetu
+
+coetus, us f.:  "reunión", "asamblea", "grupo", o "multitud"
+
 #### conplectitur
 
 La forma "complectitur" es la tercera persona del singular del presente de indicativo activo del verbo latino "complector", que significa "abrazar", "envolver" o "abarcar"
@@ -257,6 +316,10 @@ corruo, corruere, corrui, corruitur: "caer", "desmoronarse", "hundirse" o "derru
 #### deriguisse 
 
 La forma "deriguisse" es el infinitivo perfecto del verbo latino "derigescere", que significa "quedarse rígido" o "quedarse inmóvil". 
+
+#### distulerat
+
+difero: dilatar
 
 ### e 
 
@@ -277,6 +340,12 @@ fateor, fateri, fassus sum, que significa "confesar", "admitir" o "reconocer"
 #### fovit
 
 foveo, fovit: calentar, mantener caliente, favorecer, acariciar
+
+### h 
+
+#### horrescere
+
+horresco, horrescere: erizarse
 
 ### i 
 
@@ -314,6 +383,10 @@ nurus, i f.: nuera
 
 ### o
 
+#### oblita
+
+"oblīviscor, oblīviscī, oblītus sum", un verbo deponente de la tercera conjugación que significa "olvidar".
+
 #### orbatura
 
 orbare: dejar húerfano, privar de
@@ -336,6 +409,10 @@ perosus, a, um: que detesta, que odia
 
 En latín, piget es una forma del verbo pigere, que significa "desagradar" o "causar aversión" o "hacer que alguien se sienta arrepentido". Esta forma es impersonal, lo que significa que se utiliza de manera que no tiene un sujeto directo, y generalmente se traduce como "me desagrada", "me arrepiento", o "me avergüenza", dependiendo del contexto.
 
+#### pollue
+
+polluo, polluere, pollui, pollutum: "ensuciar", "manchar", "contaminar", o "profanar"
+
 #### positu
 
 positus, -us f.: posición, colocación, modo de ser colocado
@@ -345,6 +422,10 @@ positus, -us f.: posición, colocación, modo de ser colocado
 prodeo, prodire, prodii, proditum: "salir", "aparecer", "mostrar" o "traicionar"
 
 ### r 
+
+#### rauco
+
+raucus, a, um: ronco
 
 #### rigescunt
 
@@ -359,6 +440,12 @@ rubens, rubentis: rojizo, que se enrojece
 #### stillata
 
 "stillare", que significa "goteo" o "gotear"
+
+### t 
+
+#### tinguamus
+
+tinguo, tinguere, tinxi, tinctum: "mojar", "teñir", "sumergir" o "impregnar".
 
 ### v 
 
