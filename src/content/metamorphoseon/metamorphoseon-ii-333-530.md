@@ -98,7 +98,9 @@ colligit amentes et adhuc terrore paventes
 Phoebus equos stimuloque dolens et [verbere](#verbere) saevit  
 (saevit enim) natumque obiectat et inputat illis. <sup class="text-[.5em] text-gray-400">400</sup>  
 
-**Iuppiter et Callistus**
+**Iuppiter et Callistus** 
+
+> **Calisto**, una figura trágica y emblemática de la mitología griega, era **hija de Licaón**, rey de **Arcadia**, y miembro destacado del séquito de **Artemisa**, la diosa virgen de la caza y la naturaleza. Dentro de este círculo de ninfas y jóvenes dedicadas a la diosa, se exigía un compromiso estricto con la virginidad, un voto que todas las seguidoras de Artemisa debían honrar. Sin embargo, su vida tomaría un rumbo dramático y lleno de desventuras por la intervención de Zeus, el gobernante de los dioses olímpicos.
 
 At pater omnipotens ingentia moenia caeli  
 [circuit](#circuit) et, ne quid [labefactum](#labefactum) viribus ignis  
