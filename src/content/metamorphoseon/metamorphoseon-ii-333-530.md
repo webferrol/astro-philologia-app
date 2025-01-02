@@ -224,10 +224,10 @@ Ecce Lycaoniae proles ignara parentis,
 Arcas adest ter quinque fere natalibus actis;  
 dumque feras sequitur, dum saltus eligit aptos  
 nexilibusque plagis silvas Erymanthidas ambit,  
-incidit in matrem, quae restitit Arcade viso <sup class="text-[.5em] text-gray-400">500</sup>  
+incidit in matrem, quae [restitit](#restitit) Arcade viso <sup class="text-[.5em] text-gray-400">500</sup>  
 et cognoscenti similis fuit: ille refugit  
 inmotosque oculos in se sine fine tenentem  
-nescius extimuit propiusque accedere aventi  
+nescius extimuit propiusque accedere [aventi](#aventi)  
 vulnifico fuerat fixurus pectora telo:  
 arcuit omnipotens pariterque ipsosque nefasque <sup class="text-[.5em] text-gray-400">505</sup>  
 sustulit et pariter raptos per inania vento  
@@ -286,6 +286,10 @@ attero, atterere, attrivi, attritum: "frotar", "gastar", "desgastar", o "debilit
 #### avellere
 
 La forma "avellit" es la tercera persona del singular del presente de indicativo activo del verbo latino "avellere", que significa "arrancar de" o "separar con violencia".
+
+#### aventi
+
+avenio: llegar
 
 ### c 
 
@@ -428,6 +432,10 @@ prodeo, prodire, prodii, proditum: "salir", "aparecer", "mostrar" o "traicionar"
 #### rauco
 
 raucus, a, um: ronco
+
+#### restitit
+
+resto, restare, restiti: "detenerse", "quedarse", "resistir" o "oponerse"
 
 #### rigescunt
 
