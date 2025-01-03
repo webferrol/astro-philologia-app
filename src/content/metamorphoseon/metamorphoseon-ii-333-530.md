@@ -229,13 +229,16 @@ et cognoscenti similis fuit: ille refugit
 inmotosque oculos in se sine fine tenentem  
 nescius extimuit propiusque accedere [aventi](#aventi)  
 vulnifico fuerat fixurus pectora telo:  
-arcuit omnipotens pariterque ipsosque nefasque <sup class="text-[.5em] text-gray-400">505</sup>  
-sustulit et pariter raptos per inania vento  
+[arcuit](#arcuit) omnipotens pariterque ipsosque nefasque <sup class="text-[.5em] text-gray-400">505</sup>  
+sustulit et pariter raptos per [inania](#inanis) vento  
 inposuit caelo vicinaque sidera fecit.   
 Intumuit Iuno, postquam inter sidera paelex  
 fulsit, et ad canam descendit in aequora Tethyn  
 Oceanumque senem, quorum reverentia movit <sup class="text-[.5em] text-gray-400">510</sup>  
-saepe deos, causamque viae scitantibus infit:  
+saepe deos, causamque viae [scitantibus](#scitantibus) <abbr title="comienza a hablar">infit</abbr>:  
+
+> En la mitología griega y romana Tethys es una titánide, personificación del océano y esposa de Océano
+
 'quaeritis, aetheriis quare regina deorum  
 sedibus huc adsim? pro me tenet altera caelum!  
 mentior, obscurum nisi nox cum fecerit orbem,  
@@ -243,18 +246,18 @@ nuper honoratas summo, mea vulnera, caelo <sup class="text-[.5em] text-gray-400"
 videritis stellas illic, ubi circulus axem  
 ultimus extremum spatioque brevissimus ambit.  
 et vero quisquam Iunonem laedere nolit  
-offensamque tremat, quae prosum sola nocendo?  
+[offensamque](#offensam) tremat, quae prosum sola nocendo?  
 o ego quantum egi! quam vasta potentia nostra est! <sup class="text-[.5em] text-gray-400">520</sup>  
 esse hominem vetui: facta est dea! sic ego poenas  
-sontibus inpono, sic est mea magna potestas!  
-vindicet antiquam faciem vultusque ferinos  
-detrahat, Argolica quod in ante Phoronide fecit  
+[sontibus](#sontibus) inpono, sic est mea magna potestas!  
+vindicet antiquam faciem vultusque [ferinos](#ferinos)  
+[detrahat](#detrahat), Argolica quod in ante Phoronide fecit  
 cur non et pulsa ducit Iunone meoque <sup class="text-[.5em] text-gray-400">525</sup>  
 collocat in thalamo socerumque Lycaona sumit?  
-at vos si laesae tangit contemptus alumnae,  
-gurgite caeruleo septem prohibete triones  
+at vos si laesae tangit <abbr title="Sujeto (nominativo)">[contemptus](#contemptus)</abbr> alumnae,  
+<abbr title="abismo">gurgite</abbr> caeruleo septem prohibete triones  
 sideraque in caelo stupri mercede recepta  
-pellite, ne puro tinguatur in aequore paelex!' <sup class="text-[.5em] text-gray-400">530</sup>  
+[pellite](#pellite), ne puro tinguatur in aequore paelex!' <sup class="text-[.5em] text-gray-400">530</sup>  
  
 
 ## Lexicon
@@ -273,6 +276,10 @@ adsternō, adsternere, adsternuī, adsternūtum: extender, cubrir, tender
 #### aduncos
 
 aduncus, a, um: ganchudo
+
+#### arcuit
+
+arceo, arcere, arcui: "rechazar", "mantener alejado", "impedir" o "prohibir"
 
 #### attollit
 
@@ -313,6 +320,10 @@ coetus, us f.:  "reunión", "asamblea", "grupo", o "multitud"
 
 La forma "complectitur" es la tercera persona del singular del presente de indicativo activo del verbo latino "complector", que significa "abrazar", "envolver" o "abarcar"
 
+#### contemptus
+
+contemptus, us f: desprecio
+
 #### corruat
 
 corruo, corruere, corrui, corruitur: "caer", "desmoronarse", "hundirse" o "derrumbarse"
@@ -322,6 +333,10 @@ corruo, corruere, corrui, corruitur: "caer", "desmoronarse", "hundirse" o "derru
 #### deriguisse 
 
 La forma "deriguisse" es el infinitivo perfecto del verbo latino "derigescere", que significa "quedarse rígido" o "quedarse inmóvil". 
+
+#### detrahat
+
+detraho, detrahere, detraxī, detractum: quitar, apartar
 
 #### distulerat
 
@@ -343,6 +358,10 @@ expers: carente de, privado de
 
 fateor, fateri, fassus sum, que significa "confesar", "admitir" o "reconocer"
 
+#### ferinos
+
+ferinos: es un adjetivo derivado de "ferus, -a, -um", que significa "salvaje", "brutal", "feroz" o "silvestre"
+
 #### fovit
 
 foveo, fovit: calentar, mantener caliente, favorecer, acariciar
@@ -356,8 +375,11 @@ horresco, horrescere: erizarse
 ### i 
 
 #### inania
+#### inanis
 
 inanis, e: "vacío," "vano," "inútil" o "sin valor"
+
+inania vento: por el vacío (merced) al viento
 
 #### inpensior
 
@@ -393,6 +415,10 @@ nurus, i f.: nuera
 
 "oblīviscor, oblīviscī, oblītus sum", un verbo deponente de la tercera conjugación que significa "olvidar".
 
+#### offensam
+
+offensa, -ae f.: tropiezo, golpe; ofensa, ira, indignación
+
 #### orbatura
 
 orbare: dejar húerfano, privar de
@@ -402,6 +428,10 @@ orbare: dejar húerfano, privar de
 #### patulos
 
 patulus, a, um: abierto
+
+#### pellite
+
+La palabra "pellite" es una forma del verbo latino "pellere", que significa "empujar", "expulsar" o "ahuyentar". En este caso, "pellite" es una forma del verbo en imperativo plural.
 
 #### percensuit
 
@@ -446,6 +476,14 @@ resto, restare, restiti: "detenerse", "quedarse", "resistir" o "oponerse"
 rubens, rubentis: rojizo, que se enrojece
 
 ### s
+
+#### scitantibus
+
+scitor, scitari, scitatus sum: "preguntar", "consultar" o "investigar"
+
+#### sontibus
+
+sontis, is: culpable
 
 #### stillata
 
