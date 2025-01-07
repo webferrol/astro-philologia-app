@@ -258,6 +258,20 @@ at vos si laesae tangit <abbr title="Sujeto (nominativo)">[contemptus](#contempt
 <abbr title="abismo">gurgite</abbr> caeruleo septem prohibete triones  
 sideraque in caelo stupri mercede recepta  
 [pellite](#pellite), ne puro tinguatur in aequore paelex!' <sup class="text-[.5em] text-gray-400">530</sup>  
+
+**stuprum**
+
+En la época romana, el término **stuprum** hacía referencia a una conducta considerada inmoral o deshonrosa en el ámbito sexual. Se utilizaba principalmente para describir relaciones sexuales ilícitas que no involucraban adulterio, pero que eran social o legalmente reprobables. Estas conductas solían incluir:
+
+1. **Relaciones sexuales con vírgenes no casadas bajo tutela (pudor impuberum):** Tener relaciones sexuales con una mujer virgen que no estuviera casada y estuviera bajo la tutela de su padre o tutor.
+   
+2. **Relaciones con viudas de alto estatus social:** Aunque no hubiera matrimonio, una relación extramarital con una viuda de cierta posición social podía ser vista como stuprum.
+
+3. **Relaciones con mujeres comprometidas (prometidas en matrimonio):** Este tipo de relación se consideraba una grave transgresión moral.
+
+4. **Relaciones homosexuales inapropiadas:** Aunque las relaciones entre hombres no estaban completamente prohibidas, se consideraba stuprum si involucraban a ciudadanos romanos libres en posiciones pasivas, lo cual iba en contra del ideal de virilidad y dominación en la sociedad romana.
+
+El stuprum era sancionado tanto social como legalmente, dependiendo del contexto. En el ámbito legal, podía ser perseguido bajo la **Lex Julia de adulteriis coercendis**, una ley que regulaba la moralidad sexual durante el reinado de Augusto (siglo I a.C.). Aunque el adulterio propiamente dicho (relaciones sexuales con una mujer casada) era más severamente castigado, el stuprum también era considerado una ofensa que podía dañar el honor y la dignidad de las familias afectadas.
  
 
 ## Lexicon
