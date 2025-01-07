@@ -46,14 +46,12 @@ quid fuerim quid simque vide meritumque require:
 invenies nocuisse fidem. nam tempore quodam  
 <abbr title="sujeto">Pallas</abbr> Ericthonium, prolem sine matre creatam,  
 clauserat [Actaeo](https://es.wikipedia.org/wiki/Acte%C3%B3n) [texta](#texta) de [vimine](#vimine) cista  
-virginibusque tribus gemino de Cecrope natis <sup class="text-[.5em] text-gray-400">555</sup>  
+virginibusque tribus <abbr title="geminus, a, um: geminado">gemino</abbr> de [Cecrope](https://porlagreciadezeus.es/cecrope/) natis <sup class="text-[.5em] text-gray-400">555</sup>  
 et legem dederat, sua ne secreta viderent. 
 
 > Ericthonium: hace referencia a **Erictonio**, un personaje mítico en la mitología griega. Según algunas versiones del mito, **Erictonio** fue el rey de Atenas, hijo de **Gea** (la Tierra) y, en algunas versiones, de **Hephaistos** (el dios del fuego). Erictonio nació de un modo peculiar: cuando **Hephaistos** intentó violar a **Atenea**, su semilla cayó en el regazo de la diosa y de esa unión nació Erictonio, quien fue ocultado por Atenea debido a su naturaleza divina y peligrosa. En la tradición, **Erictonio** es considerado uno de los fundadores de la ciudad de Atenas y es particularmente conocido por la construcción del famoso **templo de Atenea en la Acrópolis** y por la adoración de su culto.
 
-> Cecrope, el legendario rey de Atenas, establece una ley para las tres vírgenes nacidas de los gemelos de Cecrope, prohibiéndoles mirar los secretos o misterios sagrados.
-
-abdita fronde levi densa speculabar ab ulmo,  
+[abdita](#abdita) fronde levi densa speculabar ab ulmo,  
 quid facerent: commissa duae sine fraude tuentur,  
 Pandrosos atque Herse; timidas vocat una sorores  
 Aglauros nodosque manu diducit, et intus <sup class="text-[.5em] text-gray-400">560</sup>  
@@ -99,6 +97,10 @@ celat et a cunctis expellitur aethere toto.' <sup class="text-[.5em] text-gray-4
 ## Lexicon
 
 ### a 
+
+#### abdita
+
+abdo, abdere: ocultar, esconder, esconderse
 
 #### ales
 
