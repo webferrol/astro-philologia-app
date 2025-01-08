@@ -37,25 +37,30 @@ Pulchrior in tota quam [Larisaea](https://es.wikipedia.org/wiki/Larisa) Coronis
 non fuit [Haemonia](#haemonia): placuit tibi, Delphice, certe,  
 dum vel casta fuit vel inobservata, sed ales  
 sensit adulterium Phoebeius, utque latentem <sup class="text-[.5em] text-gray-400">545</sup>  
-detegeret culpam, non [exorabilis](exorabilis) [index](#index),  
+detegeret culpam, non [exorabilis](#exorabilis) [index](#index),  
 ad dominum tendebat iter. quem garrula motis  
 [consequitur](#consequitur) pennis, [scitetur](#scitetur) ut omnia, cornix  
 auditaque viae causa 'non utile carpis'  
 inquit 'iter: ne [sperne](#sperne) meae praesagia linguae! <sup class="text-[.5em] text-gray-400">550</sup>  
 quid fuerim quid simque vide meritumque require:  
 invenies nocuisse fidem. nam tempore quodam  
-<abbr title="sujeto">Pallas</abbr> Ericthonium, prolem sine matre creatam,  
+<abbr title="sujeto">Pallas</abbr> [Ericthonium](https://es.wikipedia.org/wiki/Erictonio_de_Atenas), prolem sine matre creatam,  
 clauserat [Actaeo](https://es.wikipedia.org/wiki/Acte%C3%B3n) [texta](#texta) de [vimine](#vimine) cista  
 virginibusque tribus <abbr title="geminus, a, um: geminado">gemino</abbr> de [Cecrope](https://porlagreciadezeus.es/cecrope/) natis <sup class="text-[.5em] text-gray-400">555</sup>  
-et legem dederat, sua ne secreta viderent. 
-
-> Ericthonium: hace referencia a **Erictonio**, un personaje mítico en la mitología griega. Según algunas versiones del mito, **Erictonio** fue el rey de Atenas, hijo de **Gea** (la Tierra) y, en algunas versiones, de **Hephaistos** (el dios del fuego). Erictonio nació de un modo peculiar: cuando **Hephaistos** intentó violar a **Atenea**, su semilla cayó en el regazo de la diosa y de esa unión nació Erictonio, quien fue ocultado por Atenea debido a su naturaleza divina y peligrosa. En la tradición, **Erictonio** es considerado uno de los fundadores de la ciudad de Atenas y es particularmente conocido por la construcción del famoso **templo de Atenea en la Acrópolis** y por la adoración de su culto.
-
+et legem dederat, sua ne secreta viderent.  
 [abdita](#abdita) fronde levi densa speculabar ab ulmo,  
-quid facerent: commissa duae sine fraude tuentur,  
+quid facerent: commissa duae sine fraude [tuentur](#tuentur),  
 Pandrosos atque Herse; timidas vocat una sorores  
 Aglauros nodosque manu diducit, et intus <sup class="text-[.5em] text-gray-400">560</sup>  
-infantemque vident adporrectumque draconem.  
+infantemque vident adporrectumque draconem. 
+
+> Cécrope heredó el reino de **Ática** al casarse con **Aglauro** (o Agraulo), hija de **Acteo**. Con ella tuvo a **Erisictón** y a las tres hermanas **Aglauro**, **Herse** y **Pándroso**. Durante su reinado, **Ática** empezó a conocerse como **Cecropia** y tuvo un importante desarrollo, llegando a fundar ciudades tan importantes como **Atenas**.
+
+<figure>
+<img src="/1062px-Peter_Paul_Rubens_-_The_Discovery_of_the_Child_Erichthonius_-_WGA20295.jpg" alt="Larisaea" class="w-auto h-auto">
+<figcaption>Las hijas de Cécrope encontrando a Erictonio (Peter Paul Rubens - 1615)    </figcaption>
+</figure>
+
 acta deae refero. pro quo mihi gratia talis  
 redditur, ut dicar tutela pulsa Minervae  
 et ponar post noctis avem! mea poena volucres  
@@ -165,6 +170,10 @@ spernere: "despreciar", "rechazar", o "menospreciar"
 #### texta
 
 texere, texui, textum: tejer
+
+#### tuentur
+
+tueor: proteger, defender
 
 ### v 
 
