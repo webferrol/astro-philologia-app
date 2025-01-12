@@ -25,7 +25,7 @@ nec servaturis vigili Capitolia voce
 lingua fuit damno: lingua faciente [loquaci](#loquaci) <sup class="text-[.5em] text-gray-400">540</sup>  
 qui color albus erat, nunc est contrarius albo  
 
-**Apollo et Coronis**
+**Apollo et Coronis (Κορωνίς, -ίδος "cuervo"​)**
 
 <figure>
 <img src="/ThessalyLarissa.jpg" alt="Larisaea" class="w-auto h-auto">
@@ -38,6 +38,9 @@ non fuit [Haemonia](#haemonia): placuit tibi, Delphice, certe,
 dum vel casta fuit vel inobservata, sed ales  
 sensit adulterium Phoebeius, utque latentem <sup class="text-[.5em] text-gray-400">545</sup>  
 detegeret culpam, non [exorabilis](#exorabilis) [index](#index),  
+
+**Cornix, Nyctimene**
+
 ad dominum tendebat iter. quem garrula motis  
 [consequitur](#consequitur) pennis, [scitetur](#scitetur) ut omnia, cornix  
 auditaque viae causa 'non utile carpis'  
@@ -50,9 +53,9 @@ virginibusque tribus <abbr title="geminus, a, um: geminado">gemino</abbr> de [Ce
 et legem dederat, sua ne secreta viderent.  
 [abdita](#abdita) fronde levi densa speculabar ab ulmo,  
 quid facerent: commissa duae sine fraude [tuentur](#tuentur),  
-Pandrosos atque Herse; timidas vocat una sorores  
+Pandrosos atque Herse; <abbr title="miedosas">timidas</abbr> vocat una sorores  
 Aglauros nodosque manu diducit, et intus <sup class="text-[.5em] text-gray-400">560</sup>  
-infantemque vident adporrectumque draconem. 
+infantemque vident [adporrectumque](#adporrectum) draconem. 
 
 > Cécrope heredó el reino de **Ática** al casarse con **Aglauro** (o Agraulo), hija de **Acteo**. Con ella tuvo a **Erisictón** y a las tres hermanas **Aglauro**, **Herse** y **Pándroso**. Durante su reinado, **Ática** empezó a conocerse como **Cecropia** y tuvo un importante desarrollo, llegando a fundar ciudades tan importantes como **Atenas**.
 
@@ -65,23 +68,23 @@ acta deae refero. pro quo mihi gratia talis
 redditur, ut dicar tutela pulsa Minervae  
 et ponar post noctis avem! mea poena volucres  
 admonuisse potest, ne voce pericula quaerant. <sup class="text-[.5em] text-gray-400">565</sup>  
-at, puto, non ultro nequiquam tale rogantem  
-me petiit!¬ipsa licet hoc a Pallade quaeras:  
+at, puto, non [ultro](#ultro) [nequiquam](#nequiquam) tale rogantem  
+me petiit! - ipsa licet hoc a Pallade quaeras:  
 quamvis irata est, non hoc irata negabit.  
 nam me Phocaica clarus tellure Coroneus  
 (nota loquor) genuit, fueramque ego regia virgo <sup class="text-[.5em] text-gray-400">570</sup>  
-divitibusque procis (ne me contemne) petebar:  
+divitibusque [procis](#procis) (ne me [contemne](#contemne)) petebar:  
 forma mihi nocuit. nam cum per litora lentis  
-passibus, ut soleo, summa spatiarer harena,  
+passibus, ut soleo, summa [spatiarer](#spatiarer) harena,  
 vidit et incaluit pelagi deus, utque precando  
 tempora cum blandis absumpsit inania verbis, <sup class="text-[.5em] text-gray-400">575</sup>  
 vim parat et sequitur. fugio densumque relinquo  
-litus et in molli nequiquam lassor harena.  
+litus et in molli nequiquam [lassor](#lassor) harena.  
 inde deos hominesque voco; nec contigit ullum  
 vox mea mortalem: mota est pro virgine virgo  
 auxiliumque tulit. tendebam bracchia caelo: <sup class="text-[.5em] text-gray-400">580</sup>  
 bracchia coeperunt levibus nigrescere pennis;  
-reicere ex umeris vestem molibar, at illa  
+reicere ex umeris vestem <abbr title="molio, moliri, molitus sum en latín significa moler, trabajar, esforzarse, o emprender una acción difícil">molibar</abbr>, at illa  
 pluma erat inque cutem radices egerat imas;  
 plangere nuda meis conabar pectora palmis,  
 sed neque iam palmas nec pectora nuda gerebam; <sup class="text-[.5em] text-gray-400">585</sup>  
@@ -107,6 +110,10 @@ celat et a cunctis expellitur aethere toto.' <sup class="text-[.5em] text-gray-4
 
 abdo, abdere: ocultar, esconder, esconderse
 
+#### adporrectum
+
+adporrigo, adporrigere: que significa "extender hacia", "presentar" o "ofrecer"
+
 #### ales
 
 ales, alitis: ave, pájaro
@@ -124,6 +131,10 @@ cedo, cedere, cessi, cessum: "ceder", "retirarse", "rendirse", "dar paso"
 #### consequitur
 
 Consequitur es una forma del verbo latino "consequi", que significa "seguir", "alcanzar", "obtener", "conseguir" 
+
+#### contemne
+
+"contemno, contemnere, contempsi, contemptum", que significa "despreciar", "desdeñar", o "considerar sin valor".
 
 ### e 
 
@@ -151,15 +162,35 @@ index: índice, lista, señalamiento, indicador
 
 labes: "caída", "derrumbe", "deslizamiento", "mancha" o "desgracia".
 
+#### lassor
+
+lasso, lassare, lassavi, lassatum", que significa "cansar", "fatigar" o "debilitar"
+
 #### loquaci
 
 loquax, loquacis:  "locuaz", "hablador" o "charlatán"
+
+### n 
+
+#### nequiquam
+
+"nequiquam" es un adverbio en latín que significa "en vano", "inútilmente" o "sin éxito".
+
+### p 
+
+#### procis
+
+procus, proci m.: pretendiente, suplicante
 
 ### s 
 
 #### scitetur
 
 sciscitor, sciscitari, sciscitatus sum: "preguntar", "averiguar", "informarse" o "consultar".
+
+#### spatiarer
+
+"spatior, spatiari, spatiatus sum", que es un verbo deponente de la primera conjugación y significa "pasear", "caminar", o "andar".
 
 #### sperne
 
@@ -174,6 +205,12 @@ texere, texui, textum: tejer
 #### tuentur
 
 tueor: proteger, defender
+
+### u 
+
+#### ultro
+
+ultro: "espontánea", "voluntaria", o "iniciada sin necesidad de ser provocada"
 
 ### v 
 
