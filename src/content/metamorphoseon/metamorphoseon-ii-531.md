@@ -39,7 +39,7 @@ dum vel casta fuit vel inobservata, sed ales
 sensit adulterium Phoebeius, utque latentem <sup class="text-[.5em] text-gray-400">545</sup>  
 detegeret culpam, non [exorabilis](#exorabilis) [index](#index),  
 
-**Cornix, Nyctimene**
+**Cornix**
 
 ad dominum tendebat iter. quem garrula motis  
 [consequitur](#consequitur) pennis, [scitetur](#scitetur) ut omnia, cornix  
@@ -91,13 +91,32 @@ sed neque iam palmas nec pectora nuda gerebam; <sup class="text-[.5em] text-gray
 currebam, nec, ut ante, pedes retinebat harena,  
 sed summa tollebar humo; mox alta per auras  
 evehor et data sum comes inculpata Minervae.  
+
+**Nyctimene**
+
 quid tamen hoc prodest, si diro facta volucris  
 crimine Nyctimene nostro successit honori? <sup class="text-[.5em] text-gray-400">590</sup>  
 an quae per totam res est notissima Lesbon,  
-non audita tibi est, patrium temerasse cubile  
+non audita tibi est, patrium <abbr title="había profanado">temerasse</abbr> cubile  
 Nyctimenen? avis illa quidem, sed conscia culpae  
 conspectum lucemque fugit tenebrisque pudorem  
 celat et a cunctis expellitur aethere toto.' <sup class="text-[.5em] text-gray-400">595</sup>  
+Talia dicenti 'tibi' ait '<abbr title="augurios">revocamina</abbr>' corvus  
+'sint, precor, ista malo: nos vanum spernimus [omen](#omen).'  
+nec coeptum dimittit iter dominoque iacentem  
+cum iuvene Haemonio vidisse Coronida narrat.  
+laurea delapsa est audito crimine amantis, <sup class="text-[.5em] text-gray-400">600</sup>  
+et pariter vultusque deo plectrumque colorque  
+excidit, utque animus tumida fervebat ab ira,  
+arma adsueta capit flexumque a cornibus arcum  
+tendit et illa suo totiens cum pectore iuncta  
+indevitato traiecit pectora telo. <sup class="text-[.5em] text-gray-400">605</sup>  
+icta dedit gemitum tractoque a corpore ferro  
+candida puniceo perfudit membra cruore  
+et dixit: 'potui poenas tibi, Phoebe, dedisse,  
+sed peperisse prius; duo nunc moriemur in una.'  
+hactenus, et pariter vitam cum sanguine fudit; <sup class="text-[.5em] text-gray-400">610</sup>  
+corpus inane animae frigus letale secutum est.   
 
 
  
@@ -175,6 +194,12 @@ loquax, loquacis:  "locuaz", "hablador" o "charlatán"
 #### nequiquam
 
 "nequiquam" es un adverbio en latín que significa "en vano", "inútilmente" o "sin éxito".
+
+### o 
+
+#### omen
+
+omen, ominis: "presagio", "augurio", o "señal"
 
 ### p 
 
